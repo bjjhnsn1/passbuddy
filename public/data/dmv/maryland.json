@@ -1,2492 +1,82 @@
 [
   {
-    "id": "ddb3ab6a-223f-4b82-b648-66296196b482",
-    "question": "What should you do when you see a pedestrian with a white cane or a guide dog?",
+    "id": "b15f0bd4-1716-41da-bded-14d052224a75",
+    "question": "What sequence should you follow when scanning an intersection before entering?",
     "answers": [
       {
-        "text": "Always yield to them.",
-        "explanation": "Pedestrians using a white cane or guide dog must be given the right-of-way, as they are visually impaired.",
+        "text": "Left, right, then left again.",
+        "explanation": "Always scan the intersection by looking to your left, then to your right, and then again to your left to ensure no vehicles or pedestrians are coming before proceeding.",
         "isCorrect": true
       },
       {
-        "text": "Accelerate to pass them quickly.",
+        "text": "Right twice and left once.",
         "explanation": "",
         "isCorrect": false
       },
       {
-        "text": "Sound your horn to warn them.",
+        "text": "Right, then left once.",
         "explanation": "",
         "isCorrect": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "Pedestrians using a white cane or guide dog must be given the right-of-way, as they are visually impaired."
+    "explanation": "Always scan the intersection by looking to your left, then to your right, and then again to your left to ensure no vehicles or pedestrians are coming before proceeding."
   },
   {
-    "id": "03c42a0b-5485-447b-b271-1852c49766f8",
-    "question": "When should a driver check their rearview mirrors?",
+    "id": "63975e1c-c09d-4326-812e-4d490e0dc725",
+    "question": "At a four-way stop, if two vehicles arrive at the same moment:",
     "answers": [
       {
-        "text": "Regularly to keep track of vehicles around you.",
-        "explanation": "While driving, maintain awareness by frequently checking your mirrors to monitor surrounding traffic.",
+        "text": "The driver on the left must allow the driver on the right to go first.",
+        "explanation": "When two vehicles reach a four-way stop simultaneously, the driver on the left must yield to the driver on the right, giving them the right-of-way.",
         "isCorrect": true
       },
       {
-        "text": "Only when you are preparing to change lanes.",
+        "text": "The driver on the right must wait for the driver on the left to go.",
         "explanation": "",
         "isCorrect": false
       },
       {
-        "text": "Only if you are about to stop.",
+        "text": "Drivers should use hand signals to decide who goes first.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The vehicle reaching first should proceed immediately.",
         "explanation": "",
         "isCorrect": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "While driving, maintain awareness by frequently checking your mirrors to monitor surrounding traffic."
+    "explanation": "When two vehicles reach a four-way stop simultaneously, the driver on the left must yield to the driver on the right, giving them the right-of-way."
   },
   {
-    "id": "956889d3-3fe4-4bae-8547-f30dd8c1329a",
-    "question": "A car abruptly moves into your lane, causing a potential danger. What is your initial response?",
+    "id": "d1d6dc2a-895a-404b-bf77-e9ee123b9078",
+    "question": "When driving on a highway, in which scenario must you safely change lanes or slow down?",
     "answers": [
       {
-        "text": "React by honking loudly.",
+        "text": "When passing a stopped police car with flashing blue lights.",
         "explanation": "",
         "isCorrect": false
       },
       {
-        "text": "Ease off the accelerator.",
-        "explanation": "If a car cuts you off, ease off the gas to allow more space between you and the other vehicle without drastic maneuvers.",
-        "isCorrect": true
-      },
-      {
-        "text": "Immediately change lanes.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "If a car cuts you off, ease off the gas to allow more space between you and the other vehicle without drastic maneuvers."
-  },
-  {
-    "id": "083d2f3d-7951-44ae-8540-41be334585da",
-    "question": "When is it legal to drive 10 mph above the speed limit?",
-    "answers": [
-      {
-        "text": "Always.",
+        "text": "When passing a halted emergency vehicle with flashing red lights.",
         "explanation": "",
         "isCorrect": false
       },
       {
-        "text": "While overtaking another car.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "During low traffic times.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Never.",
-        "explanation": "Driving over the speed limit is illegal under any condition. You must adhere to the posted speed limits without exception.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 3,
-    "explanation": "Driving over the speed limit is illegal under any condition. You must adhere to the posted speed limits without exception."
-  },
-  {
-    "id": "updated-id-12345",
-    "question": "Which statement is incorrect?",
-    "answers": [
-      {
-        "text": "An individual with higher body weight will need more alcohol to reach the same BAC as a lighter person.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Between two individuals of equal weight, the one with less muscle mass would become intoxicated more rapidly.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Consuming four drinks in two hours has the same effect on BAC as consuming four drinks over four hours.",
-        "explanation": "Drinking alcohol faster leads to quicker intoxication. Therefore, consuming four drinks in two hours will affect a person more than spreading the same amount over four hours.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "Drinking alcohol faster leads to quicker intoxication. Therefore, consuming four drinks in two hours will affect a person more than spreading the same amount over four hours."
-  },
-  {
-    "id": "ca23913e-0632-47f0-92d6-e3205effd4df",
-    "question": "What should you do if a car is tailgating you on a multilane road?",
-    "answers": [
-      {
-        "text": "Maintain your current speed and lane position.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Switch to the right lane when it's safe to let the faster vehicle go by.",
-        "explanation": "If you are being tailgated on a multilane highway, safely move to the right lane to allow the vehicle behind you to pass. The left lane is typically reserved for passing.",
-        "isCorrect": true
-      },
-      {
-        "text": "Accelerate to create more distance from the car behind you.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Immediately stop in your lane to discourage tailgating.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "If you are being tailgated on a multilane highway, safely move to the right lane to allow the vehicle behind you to pass. The left lane is typically reserved for passing."
-  },
-  {
-    "id": "66bf5f2a-ffe9-4cea-ba88-2a74d181cc69",
-    "question": "What action is required at this sign?",
-    "answers": [
-      {
-        "text": "Proceed with caution.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Stop only if you see pedestrians.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Make a full stop before proceeding.",
-        "explanation": "A stop sign requires you to come to a complete halt at the designated stop line or before entering the intersection.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "A stop sign requires you to come to a complete halt at the designated stop line or before entering the intersection."
-  },
-  {
-    "id": "86ed52d2-84df-4e4d-9d0c-82d40f0ab7ac",
-    "question": "What is the best way to apply the gas pedal for optimal control?",
-    "answers": [
-      {
-        "text": "With steady pressure",
-        "explanation": "Applying the gas pedal with steady pressure ensures smooth acceleration and better control, especially in adverse conditions.",
-        "isCorrect": true
-      },
-      {
-        "text": "Very quickly",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Tapping lightly",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Variable pressure",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "Applying the gas pedal with steady pressure ensures smooth acceleration and better control, especially in adverse conditions."
-  },
-  {
-    "id": "54863301-e52d-4ad2-814e-c6e2c51c613c",
-    "question": "Which types of medication can potentially impair your driving ability?",
-    "answers": [
-      {
-        "text": "Any type of medication",
-        "explanation": "All medications, whether prescription or over-the-counter, have the potential to impair your driving. Always consult your doctor or pharmacist about possible side effects on your driving capabilities.",
-        "isCorrect": true
-      },
-      {
-        "text": "Only painkillers",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Only cold medicine",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Only allergy medication",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "All medications, whether prescription or over-the-counter, have the potential to impair your driving. Always consult your doctor or pharmacist about possible side effects on your driving capabilities."
-  },
-  {
-    "id": "6790b384-c33f-48cb-8108-d40c46fb31bf",
-    "question": "In the SIPDE driving strategy, what does the letter \"I\" represent?",
-    "answers": [
-      {
-        "text": "Inspect surroundings.",
-        "explanation": "The \"I\" in the SIPDE approach stands for \"Identify hazards and analyze the situation.\" Always be aware of potential risks, traffic signs, and changes in the driving environment.",
-        "isCorrect": true
-      },
-      {
-        "text": "Ignition system.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Ignore obstacles.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Insist on right-of-way.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "The \"I\" in the SIPDE approach stands for \"Identify hazards and analyze the situation.\" Always be aware of potential risks, traffic signs, and changes in the driving environment."
-  },
-  {
-    "id": "0482f77b-a071-4435-8043-6df15af26e8a",
-    "question": "When can you proceed through an intersection if the traffic signal changes to yellow?",
-    "answers": [
-      {
-        "text": "You have the right of way.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Pedestrians are waiting to cross.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "You are about to make a left turn.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "You are already in the middle of an intersection when the light turns yellow.",
-        "explanation": "If a steady yellow light appears and you are already in the intersection, proceed safely.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 3,
-    "explanation": "If a steady yellow light appears and you are already in the intersection, proceed safely."
-  },
-  {
-    "id": "81a58dd4-96fb-4f62-af6b-906ea78304e0",
-    "question": "Upon seeing a warning sign, what actions should a driver take?",
-    "answers": [
-      {
-        "text": "Observe all signs and signals.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Proceed with caution.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Adjust speed accordingly to the posted advisory speed.",
+        "text": "When passing a stopped service vehicle with flashing amber lights.",
         "explanation": "",
         "isCorrect": false
       },
       {
         "text": "All of the above.",
-        "explanation": "Pay attention to their surroundings, follow instructions, and reduce speed as required.",
+        "explanation": "You must switch lanes to provide additional space when passing a stopped police car with flashing blue lights, an emergency vehicle with flashing red lights, or a service vehicle with flashing amber lights. If it's unsafe to change lanes, reduce your speed.",
         "isCorrect": true
       }
     ],
     "correctIndex": 3,
-    "explanation": "Pay attention to their surroundings, follow instructions, and reduce speed as required."
-  },
-  {
-    "id": "660ed0fa-285e-47d5-a3ce-b594799b0080",
-    "question": "What does the Implied Consent Law require of drivers?",
-    "answers": [
-      {
-        "text": "Allows a licensed driver to operate your vehicle.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Requires seat belts to be worn at all times.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Mandates drivers agree to a breathalyzer test if suspected of DUI.",
-        "explanation": "The Implied Consent Law mandates that by driving, you automatically agree to submit to a breathalyzer test if suspected of driving under the influence.",
-        "isCorrect": true
-      },
-      {
-        "text": "None of the above.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "The Implied Consent Law mandates that by driving, you automatically agree to submit to a breathalyzer test if suspected of driving under the influence."
-  },
-  {
-    "id": "af434d26-c8e5-48a0-8299-8861483d49f1",
-    "question": "Under what condition should parking lights be used?",
-    "answers": [
-      {
-        "text": "When your vehicle is stationary.",
-        "explanation": "Parking lights are meant to be used when a vehicle is not in motion and parked.",
-        "isCorrect": true
-      },
-      {
-        "text": "During foggy conditions.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "During dawn or dusk.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "When driving slower than traffic.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "Parking lights are meant to be used when a vehicle is not in motion and parked."
-  },
-  {
-    "id": "49d20837-df9d-47d1-9e0a-6e38c84a929f",
-    "question": "In winter driving conditions with ice or snow present, should cruise control be used?",
-    "answers": [
-      {
-        "text": "True",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "False",
-        "explanation": "Using cruise control on icy or snowy roads can be dangerous as it may cause your vehicle to lose traction and control.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "Using cruise control on icy or snowy roads can be dangerous as it may cause your vehicle to lose traction and control."
-  },
-  {
-    "id": "381608ee-d21d-4375-8b46-9e80734af12d",
-    "question": "You must reduce speed and yield to pedestrians:",
-    "answers": [
-      {
-        "text": "When they are in a crosswalk or at an intersection with no signals.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Whenever you notice pedestrians walking or crossing the street.",
-        "explanation": "Drivers must slow down and yield to pedestrians who are walking or crossing the roadway, regardless of the traffic signals.",
-        "isCorrect": true
-      },
-      {
-        "text": "Only when they are crossing at a green light.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "Drivers must slow down and yield to pedestrians who are walking or crossing the roadway, regardless of the traffic signals."
-  },
-  {
-    "id": "657cad9b-0b55-41c3-a5a1-70ac4c25130f",
-    "question": "What does this sign signify?",
-    "answers": [
-      {
-        "text": "Game reserve.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Scenic viewpoint.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Animal crossing.",
-        "explanation": "This sign indicates that animals frequently cross the road here. Reduce speed and stay alert.",
-        "isCorrect": true
-      },
-      {
-        "text": "Wildlife sanctuary.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "This sign indicates that animals frequently cross the road here. Reduce speed and stay alert."
-  },
-  {
-    "id": "3db4f534-ff59-4cb5-a2cd-e653f8103360",
-    "question": "What should you do upon seeing or hearing an approaching emergency vehicle?",
-    "answers": [
-      {
-        "text": "Pull over to the right edge of the road and stop until the emergency vehicle has passed.",
-        "explanation": "Upon noticing an emergency vehicle with flashing lights or sirens, drivers must pull over to the right edge of the road and come to a complete stop, ensuring they do not block any intersections.",
-        "isCorrect": true
-      },
-      {
-        "text": "Continue driving at a reduced speed and stay in your lane.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Slow down and move aside only when the emergency vehicle is very close.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "Upon noticing an emergency vehicle with flashing lights or sirens, drivers must pull over to the right edge of the road and come to a complete stop, ensuring they do not block any intersections."
-  },
-  {
-    "id": "66bef476-8be8-4099-8cdf-8ba1bc1e5fb1",
-    "question": "Is it allowed to drive if you are under the influence of marijuana?",
-    "answers": [
-      {
-        "text": "Permitted.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Prohibited.",
-        "explanation": "Driving under the influence of marijuana is prohibited, regardless of its legal status for consumption. Marijuana can impair cognitive functions necessary for safe driving.",
-        "isCorrect": true
-      },
-      {
-        "text": "Permitted, but inadvisable.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Encouraged.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "Driving under the influence of marijuana is prohibited, regardless of its legal status for consumption. Marijuana can impair cognitive functions necessary for safe driving."
-  },
-  {
-    "id": "30dc50f8-ef48-42fe-be31-43ac5a91f916",
-    "question": "What does a steady yellow X signal above a reversible lane mean?",
-    "answers": [
-      {
-        "text": "Drivers should prepare to leave the lane as it will soon be closed.",
-        "explanation": "A steady yellow X over a lane indicates that drivers should prepare to leave the lane as it will soon be closed, thus ensuring safety and smooth traffic flow.",
-        "isCorrect": true
-      },
-      {
-        "text": "The lane will soon be open to all traffic.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "The lane is open for use without restrictions.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Drivers should slow down and proceed with caution.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "A steady yellow X over a lane indicates that drivers should prepare to leave the lane as it will soon be closed, thus ensuring safety and smooth traffic flow."
-  },
-  {
-    "id": "823d0549-1756-4f26-92b4-c11a1e98b200",
-    "question": "What should you do when you encounter a flashing red light at an intersection?",
-    "answers": [
-      {
-        "text": "Can drive through the intersection without stopping.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Need to stop completely and proceed when safe.",
-        "explanation": "At a flashing red light, you need to stop completely, similar to a stop sign. Proceed only when it's safe and after yielding to other traffic and pedestrians.",
-        "isCorrect": true
-      },
-      {
-        "text": "Should continue driving if the road is clear.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "At a flashing red light, you need to stop completely, similar to a stop sign. Proceed only when it's safe and after yielding to other traffic and pedestrians."
-  },
-  {
-    "id": "0493e5d1-40e7-4194-b239-4c132519d0e3",
-    "question": "Under what conditions is it advisable to use cruise control?",
-    "answers": [
-      {
-        "text": "When driving on icy or wet roads.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "When driving on a highway with minimal traffic.",
-        "explanation": "Cruise control is best used on highways with light traffic where constant speed can be maintained safely.",
-        "isCorrect": true
-      },
-      {
-        "text": "When driving in dense city traffic.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "When towing a heavy trailer.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "Cruise control is best used on highways with light traffic where constant speed can be maintained safely."
-  },
-  {
-    "id": "5203424a-55dd-4c35-8645-865e99d84afe",
-    "question": "When must you always use your turn signals?",
-    "answers": [
-      {
-        "text": "Entering or exiting a driveway.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Merging onto a highway.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Turning at an intersection.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "All of the above.",
-        "explanation": "It is essential to use your turn signals for all movements to the left or right, including turning, merging, or exiting driveways.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 3,
-    "explanation": "It is essential to use your turn signals for all movements to the left or right, including turning, merging, or exiting driveways."
-  },
-  {
-    "id": "585d028b-20ec-4a0c-b780-b8bca8d44921",
-    "question": "To prepare for potential hazards on the road, you should:",
-    "answers": [
-      {
-        "text": "Keep your eyes moving to observe all surroundings.",
-        "explanation": "To effectively handle potential hazards, continuously observe all areas of the road including the sides.",
-        "isCorrect": true
-      },
-      {
-        "text": "Focus only on the vehicle directly in front of you.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Look straight ahead without moving your eyes.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Concentrate on the center of your lane.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "To effectively handle potential hazards, continuously observe all areas of the road including the sides."
-  },
-  {
-    "id": "06418bff-bbbb-47ac-8587-6c00aa17bb52",
-    "question": "When is street racing permitted?",
-    "answers": [
-      {
-        "text": "When visibility is reduced.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "On highways.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "During rush hour.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Never under any conditions.",
-        "explanation": "Engaging in street racing is prohibited under all circumstances due to its extreme danger and illegality.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 3,
-    "explanation": "Engaging in street racing is prohibited under all circumstances due to its extreme danger and illegality."
-  },
-  {
-    "id": "d45abab1-44be-4d64-8233-2de212094be4",
-    "question": "A 12-ounce beer contains the same amount of alcohol as:",
-    "answers": [
-      {
-        "text": "Two glasses of wine.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "A shot of liquor.",
-        "explanation": "A typical shot of liquor has about the same alcohol content as a five-ounce glass of wine.",
-        "isCorrect": true
-      },
-      {
-        "text": "Half a bottle of wine.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "A large cocktail.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "A typical shot of liquor has about the same alcohol content as a five-ounce glass of wine."
-  },
-  {
-    "id": "5ba753b1-4273-421d-9300-dc8149dcf4cd",
-    "question": "When entering a freeway, what should your primary action be?",
-    "answers": [
-      {
-        "text": "Find a suitable gap in traffic and smoothly join the flow.",
-        "explanation": "It is important to merge smoothly to avoid disrupting traffic flow.",
-        "isCorrect": true
-      },
-      {
-        "text": "Switch directly into the farthest lane.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Bring your vehicle to a complete stop before entering.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "It is important to merge smoothly to avoid disrupting traffic flow."
-  },
-  {
-    "id": "60f5a68a-fe98-4f9c-94a3-4e2c726acd05",
-    "question": "What is the correct procedure for ensuring a safe lane change on a multilane road?",
-    "answers": [
-      {
-        "text": "Rely only on your mirrors to see other vehicles on the road.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Sound your horn to alert other drivers of your lane change.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Turn your head to check for vehicles in your blind spots before switching lanes.",
-        "explanation": "It's essential to turn your head and check your blind spots to ensure no vehicles are alongside your car before changing lanes.",
-        "isCorrect": true
-      },
-      {
-        "text": "None of these.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "It's essential to turn your head and check your blind spots to ensure no vehicles are alongside your car before changing lanes."
-  },
-  {
-    "id": "67fabf37-24e6-4fcf-a7df-a4f250b157d7",
-    "question": "Should you avoid driving beside a large truck in a roundabout?",
-    "answers": [
-      {
-        "text": "Yes",
-        "explanation": "Due to their larger size, trucks may occupy more than one lane when navigating a roundabout. Avoid driving alongside them in such situations.",
-        "isCorrect": true
-      },
-      {
-        "text": "No",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "Due to their larger size, trucks may occupy more than one lane when navigating a roundabout. Avoid driving alongside them in such situations."
-  },
-  {
-    "id": "f6a38300-c6f8-4f84-bd0e-02944ffea80a",
-    "question": "When should you use your vehicle's hazard lights?",
-    "answers": [
-      {
-        "text": "When your vehicle has broken down on the road or shoulder.",
-        "explanation": "Hazard lights should be used only if your vehicle is broken down or stopped legally on the road or shoulder.",
-        "isCorrect": true
-      },
-      {
-        "text": "During a storm to improve visibility.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "When driving on poorly lit roads at night.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "In congested traffic.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "Hazard lights should be used only if your vehicle is broken down or stopped legally on the road or shoulder."
-  },
-  {
-    "id": "9e5209ef-8834-4743-97b7-6bb5aee2773c",
-    "question": "When is the road surface particularly slippery?",
-    "answers": [
-      {
-        "text": "During heavy rainfall.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "When light rain starts.",
-        "explanation": "At the onset of light rain, the mixture of oil and water creates a slick surface making it especially hazardous.",
-        "isCorrect": true
-      },
-      {
-        "text": "After continuous rain.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Before it starts raining.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "At the onset of light rain, the mixture of oil and water creates a slick surface making it especially hazardous."
-  },
-  {
-    "id": "a4427e2a-eca7-468e-a814-b8a75755f281",
-    "question": "What should you do if you start feeling drowsy while driving?",
-    "answers": [
-      {
-        "text": "Take a break and rest, or switch drivers.",
-        "explanation": "To prevent accidents from driver fatigue, it is essential to stop and rest or change drivers periodically during long trips.",
-        "isCorrect": true
-      },
-      {
-        "text": "Consume a caffeinated beverage.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Roll down the windows.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "To prevent accidents from driver fatigue, it is essential to stop and rest or change drivers periodically during long trips."
-  },
-  {
-    "id": "45b197cd-a4eb-4083-998d-5d4b6aff6696",
-    "question": "What should you do before driving if you are taking medication?",
-    "answers": [
-      {
-        "text": "Speak with a healthcare professional regarding potential side effects on driving.",
-        "explanation": "Prescription and over-the-counter medications can affect your ability to drive safely. Always discuss with a healthcare professional to understand any potential impacts on driving.",
-        "isCorrect": true
-      },
-      {
-        "text": "Drive cautiously and keep the windows down for better focus.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Make sure someone can follow you closely to ensure safety.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "Prescription and over-the-counter medications can affect your ability to drive safely. Always discuss with a healthcare professional to understand any potential impacts on driving."
-  },
-  {
-    "id": "3ac49497-48b3-4461-97f6-04721808e3a6",
-    "question": "Under what condition are you allowed to use the HOV lane?",
-    "answers": [
-      {
-        "text": "You are exceeding the speed limit.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "You are moving slower than other vehicles.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "You have multiple people in your car.",
-        "explanation": "High Occupancy Vehicle (HOV) lanes are designated for cars with multiple occupants. These lanes are clearly marked with signs and diamond symbols on the road.",
-        "isCorrect": true
-      },
-      {
-        "text": "You are trying to avoid traffic.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "High Occupancy Vehicle (HOV) lanes are designated for cars with multiple occupants. These lanes are clearly marked with signs and diamond symbols on the road."
-  },
-  {
-    "id": "9e0816ed-59e7-4c68-83f0-f02f0b798798",
-    "question": "While driving on the highway, you notice a car about to merge from an on-ramp. What should you do?",
-    "answers": [
-      {
-        "text": "Keep your speed steady and stay in your current lane.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Use your horn to alert them of your presence.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Continue at your pace since you have priority.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Switch lanes or reduce speed to create space for them.",
-        "explanation": "This action helps to ensure a smooth merge for both vehicles.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 3,
-    "explanation": "This action helps to ensure a smooth merge for both vehicles."
-  },
-  {
-    "id": "e5ff104b-30ab-4e6e-8277-8a60a7055890",
-    "question": "Which statement accurately describes the impact of alcohol on your ability to drive?",
-    "answers": [
-      {
-        "text": "Being able to perform simple tasks means alcohol hasn't affected your driving.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Staying below the legal BAC ensures your driving ability remains intact.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Alcohol impairs your judgment, making driving unsafe.",
-        "explanation": "Judgment is a crucial skill for safe driving, and alcohol consumption, even below the legal limit, can impair your ability to make good driving decisions.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "Judgment is a crucial skill for safe driving, and alcohol consumption, even below the legal limit, can impair your ability to make good driving decisions."
-  },
-  {
-    "id": "7880d700-bb06-42d1-b496-9dd19b9744a9",
-    "question": "What color are signs indicating distance to upcoming highway exits?",
-    "answers": [
-      {
-        "text": "Black with white letters",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Red with white letters",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Yellow with black letters",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Green with white letters",
-        "explanation": "Directional signs including exit distances use green backgrounds with white text or symbols.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 3,
-    "explanation": "Directional signs including exit distances use green backgrounds with white text or symbols."
-  },
-  {
-    "id": "18718013-b0be-49ff-9b34-1ee30e772044",
-    "question": "What shape and colors are commonly used for signs in construction zones?",
-    "answers": [
-      {
-        "text": "Hexagonal or circular with blue and white colors.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Triangular with red and white colors.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Diamond-shaped or rectangular with orange and black colors.",
-        "explanation": "Signs in construction areas typically have an orange background with black letters or symbols, and can be diamond-shaped or rectangular.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "Signs in construction areas typically have an orange background with black letters or symbols, and can be diamond-shaped or rectangular."
-  },
-  {
-    "id": "d23ff1ca-4270-4a52-93b9-bafd7d2b4a3c",
-    "question": "How should you approach a railroad crossing?",
-    "answers": [
-      {
-        "text": "Observe, listen for trains, reduce speed, and be ready to stop",
-        "explanation": "This is the safest approach to avoid accidents at railroad crossings.",
-        "isCorrect": true
-      },
-      {
-        "text": "Accelerate quickly to beat the train",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Navigate around a closed gate",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Ignore the number of tracks you have to cross",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "This is the safest approach to avoid accidents at railroad crossings."
-  },
-  {
-    "id": "cd90aae0-fa1c-45c5-9d6b-d89475c3018b",
-    "question": "When driving through a construction zone:",
-    "answers": [
-      {
-        "text": "Highway rules stay the same regardless of conditions.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Drivers can ignore signs if they are in a hurry.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Road conditions can vary frequently.",
-        "explanation": "Be prepared for changing conditions on the road.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "Be prepared for changing conditions on the road."
-  },
-  {
-    "id": "d4bd09f8-4767-4ea3-9700-dc6b8b3e4074",
-    "question": "Which type of lane marking indicates a reversible lane?",
-    "answers": [
-      {
-        "text": "Double broken yellow lines.",
-        "explanation": "Some lanes are reversible and alternate the direction of traffic flow at different times. These lanes are marked by double broken yellow lines.",
-        "isCorrect": true
-      },
-      {
-        "text": "Single solid white line.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Alternating broken and solid yellow lines.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Double solid white lines.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "Some lanes are reversible and alternate the direction of traffic flow at different times. These lanes are marked by double broken yellow lines."
-  },
-  {
-    "id": "14a4c806-8f21-41a8-ba8e-ead7de4ecc27",
-    "question": "What does this traffic sign indicate?",
-    "answers": [
-      {
-        "text": "The road ahead narrows.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Merge as the right lane is about to end.",
-        "explanation": "Be ready to merge left as right lane will terminate.",
-        "isCorrect": true
-      },
-      {
-        "text": "Prepare to join the highway.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Merge as the left lane is about to end.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "Be ready to merge left as right lane will terminate."
-  },
-  {
-    "id": "71708d35-2277-42e3-acac-f49403d1bd83",
-    "question": "When approaching a crosswalk with pedestrians crossing, what should a driver do?",
-    "answers": [
-      {
-        "text": "Drive through since vehicles have priority over pedestrians.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Stop and allow the pedestrians to proceed.",
-        "explanation": "Drivers must yield the right-of-way to pedestrians in a crosswalk. Wait until the pedestrians have completely crossed before proceeding.",
-        "isCorrect": true
-      },
-      {
-        "text": "Steer to the right and pass behind the pedestrians.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "Drivers must yield the right-of-way to pedestrians in a crosswalk. Wait until the pedestrians have completely crossed before proceeding."
-  },
-  {
-    "id": "05cb492d-ff4f-4c24-8352-6d9c6d776169",
-    "question": "Which type of highway sign instructs drivers to follow specific actions and can lead to penalties if ignored?",
-    "answers": [
-      {
-        "text": "Regulatory signs.",
-        "explanation": "Regulatory signs mandate specific behaviors from drivers, and ignoring them may result in penalties.",
-        "isCorrect": true
-      },
-      {
-        "text": "Warning signs.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Information signs.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Guide signs.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "Regulatory signs mandate specific behaviors from drivers, and ignoring them may result in penalties."
-  },
-  {
-    "id": "e5c51e25-fb35-4bb0-83c3-4cf5304138ef",
-    "question": "Are drivers required to stop for pedestrians in any crosswalk, even if it is not marked?",
-    "answers": [
-      {
-        "text": "True",
-        "explanation": "A motorist must stop for a pedestrian crossing the road within any crosswalk, marked or unmarked.",
-        "isCorrect": true
-      },
-      {
-        "text": "False",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "A motorist must stop for a pedestrian crossing the road within any crosswalk, marked or unmarked."
-  },
-  {
-    "id": "6b6d554f-d5e6-4c06-862f-39374634278a",
-    "question": "What does this chevron sign indicate?",
-    "answers": [
-      {
-        "text": "There is debris in the road.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Vehicles are merging from the right.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "The road makes a sharp left turn.",
-        "explanation": "Chevron signs indicate that the road will turn sharply in the direction the chevron points, warning drivers to reduce speed.",
-        "isCorrect": true
-      },
-      {
-        "text": "A construction zone is ahead.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "Chevron signs indicate that the road will turn sharply in the direction the chevron points, warning drivers to reduce speed."
-  },
-  {
-    "id": "d2a3dbb5-19d1-4391-ace5-4d382ac0fd81",
-    "question": "What does a green arrow on a traffic signal indicate?",
-    "answers": [
-      {
-        "text": "You must make the turn shown by the arrow.",
-        "explanation": "A green arrow signifies a protected turn, meaning you have the right-of-way to proceed.",
-        "isCorrect": true
-      },
-      {
-        "text": "You can turn in that direction once you come to a full stop.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Turning in that direction is not allowed.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "A green arrow signifies a protected turn, meaning you have the right-of-way to proceed."
-  },
-  {
-    "id": "316d5ce0-d3d7-4930-b110-d6948846fcf1",
-    "question": "What should you do immediately following a traffic collision?",
-    "answers": [
-      {
-        "text": "Pull over to the side of the road and stop if it is safe to do so.",
-        "explanation": "Always stop your vehicle near the collision site. If it's safe and possible, move your vehicle off the roadway to avoid obstructing traffic.",
-        "isCorrect": true
-      },
-      {
-        "text": "Walk around the crash site to assess the damage.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Attempt to clear any live electrical wires from the roadway.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Move injured people out of the vehicles immediately, regardless of the situation.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "Always stop your vehicle near the collision site. If it's safe and possible, move your vehicle off the roadway to avoid obstructing traffic."
-  },
-  {
-    "id": "8990d292-44e7-443f-9e24-529490ac4742",
-    "question": "What does a single broken yellow line in the center of a two-way street mean?",
-    "answers": [
-      {
-        "text": "The road has two lanes traveling in opposite directions, and passing is allowed when safe.",
-        "explanation": "",
-        "isCorrect": true
-      },
-      {
-        "text": "The road has two lanes traveling in opposite directions, and passing is never allowed.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "The road has two lanes traveling in the same direction, and passing is never allowed.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "The road has two lanes traveling in the same direction, and passing is allowed when safe.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": ""
-  },
-  {
-    "id": "efc764e3-0a2d-4f95-9ac1-896afab1c267",
-    "question": "When you approach a stationary school bus on the opposite side of a three-lane road, you:",
-    "answers": [
-      {
-        "text": "Should proceed with caution if no more children are visible.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Must stop until the bus moves or the stop signal is withdrawn.",
-        "explanation": "Drivers must stop and wait until the school bus resumes motion or the stop arm and flashing lights are no longer active.",
-        "isCorrect": true
-      },
-      {
-        "text": "May pass the bus if the stop arm is not extended.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Can drive around the bus on the right shoulder.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "Drivers must stop and wait until the school bus resumes motion or the stop arm and flashing lights are no longer active."
-  },
-  {
-    "id": "a9dab932-cc87-4d7a-8ca9-374ca1f5a807",
-    "question": "In horizontal traffic signals, where is the green light typically located?",
-    "answers": [
-      {
-        "text": "On the right.",
-        "explanation": "In certain cities, horizontal traffic signals display the green light on the right side.",
-        "isCorrect": true
-      },
-      {
-        "text": "In the center.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "On the left.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "In certain cities, horizontal traffic signals display the green light on the right side."
-  },
-  {
-    "id": "c33b58e5-c4e3-47fc-bd7c-c4759f89d3c1",
-    "question": "When driving near large trucks, you should be aware that they:",
-    "answers": [
-      {
-        "text": "Take more time and distance to come to a complete stop.",
-        "explanation": "Trucks are heavier and need more distance to slow down and stop completely.",
-        "isCorrect": true
-      },
-      {
-        "text": "Need less time to overtake other vehicles on a downhill.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Can execute sharp turns more easily than smaller vehicles.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Require less distance to pass on an incline.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "Trucks are heavier and need more distance to slow down and stop completely."
-  },
-  {
-    "id": "5ccd4334-b1de-4ed3-a355-ed3225065fb9",
-    "question": "Which type of headlights should you use when driving behind another vehicle at night?",
-    "answers": [
-      {
-        "text": "Low beam headlights.",
-        "explanation": "Using low beam headlights prevents blinding other drivers and ensures safe visibility.",
-        "isCorrect": true
-      },
-      {
-        "text": "High beam headlights.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Fog lights.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "Using low beam headlights prevents blinding other drivers and ensures safe visibility."
-  },
-  {
-    "id": "f2341e50-54a7-4eb4-8087-36b8051dde50",
-    "question": "When preparing to turn left at an intersection, who do you need to give the right-of-way to?",
-    "answers": [
-      {
-        "text": "Vehicles going straight through the intersection.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "All traffic approaching from the opposite direction.",
-        "explanation": "You must yield to any vehicle coming from the opposite direction when you are making a left turn.",
-        "isCorrect": true
-      },
-      {
-        "text": "Pedestrians standing on the curb.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "You must yield to any vehicle coming from the opposite direction when you are making a left turn."
-  },
-  {
-    "id": "a43a070c-4c85-4873-86c4-0b58e4a98b47",
-    "question": "What should you do to minimize fatigue during prolonged driving?",
-    "answers": [
-      {
-        "text": "Take frequent breaks during the journey.",
-        "explanation": "To prevent fatigue during long drives, it's recommended to take regular breaks to rest and refresh. If you feel drowsy, pull over safely to rest or consider staying at a rest stop or lodging.",
-        "isCorrect": true
-      },
-      {
-        "text": "Stretch your arms while driving.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Alternate closing one eye at a time.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Switch feet while pressing the pedals.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "To prevent fatigue during long drives, it's recommended to take regular breaks to rest and refresh. If you feel drowsy, pull over safely to rest or consider staying at a rest stop or lodging."
-  },
-  {
-    "id": "18c27af8-edc9-4517-b69c-a5c59b79d9f2",
-    "question": "What should you verify about your tires before starting your drive?",
-    "answers": [
-      {
-        "text": "Your tire threads are still visible.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "The air pressure meets the recommended level.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "None of your tires are deflated.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "All of the above.",
-        "explanation": "Always inspect your tires before driving to ensure they are properly inflated, the tread is intact, and the tires are not flat.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 3,
-    "explanation": "Always inspect your tires before driving to ensure they are properly inflated, the tread is intact, and the tires are not flat."
-  },
-  {
-    "id": "1be90f66-98f6-46d2-9be1-3d805e84a16b",
-    "question": "What action should you take when you encounter a green arrow at a traffic signal?",
-    "answers": [
-      {
-        "text": "Continue only when the signal changes to green.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Halt completely, then move in the direction of the arrow.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Proceed in the direction of the arrow after checking for traffic and pedestrians.",
-        "explanation": "When a green arrow is displayed, you have the right-of-way and can make the indicated turn, but always ensure the intersection is clear of pedestrians and other vehicles before proceeding.",
-        "isCorrect": true
-      },
-      {
-        "text": "Accelerate and turn sharply.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "When a green arrow is displayed, you have the right-of-way and can make the indicated turn, but always ensure the intersection is clear of pedestrians and other vehicles before proceeding."
-  },
-  {
-    "id": "195a4305-befc-49e6-86b6-003e1790a5f0",
-    "question": "What does this sign indicate?",
-    "answers": [
-      {
-        "text": "No left turn.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "No right turn.",
-        "explanation": "This regulatory sign indicates that making a right turn at this location is not permitted.",
-        "isCorrect": true
-      },
-      {
-        "text": "No U-turn.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "This regulatory sign indicates that making a right turn at this location is not permitted."
-  },
-  {
-    "id": "9de27e16-0322-491b-a659-8a12fd0eb4de",
-    "question": "When should you make sure all passengers have their seat belts fastened?",
-    "answers": [
-      {
-        "text": "After covering a certain distance.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Before you drive off.",
-        "explanation": "Ensuring that all passengers have fastened their seat belts is crucial for safety before beginning your journey.",
-        "isCorrect": true
-      },
-      {
-        "text": "Only when it\u2019s raining.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "When you see a traffic officer.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "Ensuring that all passengers have fastened their seat belts is crucial for safety before beginning your journey."
-  },
-  {
-    "id": "faf3e448-cb98-482b-9dce-73dd4ec245a0",
-    "question": "How should you respond when you encounter an intersection with a flashing red light?",
-    "answers": [
-      {
-        "text": "Stop fully, give the right of way to any vehicles or pedestrians, and proceed when clear.",
-        "explanation": "A flashing red light should be treated like a stop sign. You must stop fully, yield to other vehicles or pedestrians, and proceed when it is safe.",
-        "isCorrect": true
-      },
-      {
-        "text": "Slow down and continue through the intersection carefully.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Stop and wait until the light changes to green.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "A flashing red light should be treated like a stop sign. You must stop fully, yield to other vehicles or pedestrians, and proceed when it is safe."
-  },
-  {
-    "id": "c11ce7ff-5109-4eae-b122-2a262ee316e1",
-    "question": "When driving on county highways where traffic may be slower, how should you adapt?",
-    "answers": [
-      {
-        "text": "Continue at your current speed without adjusting.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Prepare to match the speed of the surrounding vehicles.",
-        "explanation": "Adjusting your speed to match the flow of traffic ensures smoother and safer driving conditions, especially when encountering slow-moving vehicles.",
-        "isCorrect": true
-      },
-      {
-        "text": "Overtake slower vehicles on curves to save time.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "Adjusting your speed to match the flow of traffic ensures smoother and safer driving conditions, especially when encountering slow-moving vehicles."
-  },
-  {
-    "id": "0a40d0bd-bd26-4336-80c7-070ee44c364b",
-    "question": "When merging onto a freeway from an on-ramp, you must:",
-    "answers": [
-      {
-        "text": "Decrease your speed and be cautious.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Make a U-turn if you see another car.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Give the right-of-way to vehicles already on the freeway.",
-        "explanation": "Vehicles merging onto a freeway must yield to vehicles already traveling on it.",
-        "isCorrect": true
-      },
-      {
-        "text": "Join the flow without checking.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "Vehicles merging onto a freeway must yield to vehicles already traveling on it."
-  },
-  {
-    "id": "fffd503f-32ff-49a0-ab0c-6ffcd71241c0",
-    "question": "Does wearing both the lap belt and shoulder belt in your vehicle offer better protection in a crash?",
-    "answers": [
-      {
-        "text": "True",
-        "explanation": "Using both the lap and shoulder belts provides the best protection in case of a collision. Wearing only one can decrease effectiveness.",
-        "isCorrect": true
-      },
-      {
-        "text": "False",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "Using both the lap and shoulder belts provides the best protection in case of a collision. Wearing only one can decrease effectiveness."
-  },
-  {
-    "id": "2cf57866-564d-4408-a4ef-efd5bc95ccab",
-    "question": "How should you check your blind spots before making a lane change?",
-    "answers": [
-      {
-        "text": "Relying solely on your rearview mirrors.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Using your peripheral vision.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Checking with your side mirrors.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Turning your head to look over your shoulder.",
-        "explanation": "Before changing lanes, always turn your head to look and ensure there are no vehicles in your blind spots.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 3,
-    "explanation": "Before changing lanes, always turn your head to look and ensure there are no vehicles in your blind spots."
-  },
-  {
-    "id": "7ca7edfa-e37f-446b-a906-bf7c2e562d7e",
-    "question": "What does a green arrow on a traffic signal indicate?",
-    "answers": [
-      {
-        "text": "Indicates that turns can only be made on one-way streets.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Functions like a regular green light, but you must make the turn shown by the arrow.",
-        "explanation": "A green arrow means you can proceed in the direction of the arrow, similar to a green circular light for turns.",
-        "isCorrect": true
-      },
-      {
-        "text": "Allows turning only if there's a green circular light as well.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Directs traffic to an airport.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "A green arrow means you can proceed in the direction of the arrow, similar to a green circular light for turns."
-  },
-  {
-    "id": "494c20eb-472e-4fa3-84d4-6de2f2afc4bf-revised",
-    "question": "On a highway with multiple lanes, what should you do if you are driving slower than surrounding traffic?",
-    "answers": [
-      {
-        "text": "Keep driving at the current speed in your lane.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Move to the right-most lane.",
-        "explanation": "The right-most lane is typically designated for slower-moving vehicles.",
-        "isCorrect": true
-      },
-      {
-        "text": "Switch to the center lane.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Drive in the left-hand lane.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "The right-most lane is typically designated for slower-moving vehicles."
-  },
-  {
-    "id": "6c579157-4e81-457b-9325-8ece66b7730c",
-    "question": "Why is driving more hazardous in winter months?",
-    "answers": [
-      {
-        "text": "Weather conditions like snow, ice, and fog can impair roadways.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "There are more hours of darkness in winter.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Both statements are True.",
-        "explanation": "Drivers face more challenges in winter due to adverse weather conditions and increased hours of darkness. Being aware of these factors and driving cautiously is essential.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "Drivers face more challenges in winter due to adverse weather conditions and increased hours of darkness. Being aware of these factors and driving cautiously is essential."
-  },
-  {
-    "id": "160fa655-bb38-4608-bbb2-e403348b72fc",
-    "question": "When you see a steady yellow signal, what color will the light change to next?",
-    "answers": [
-      {
-        "text": "Solid green",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Blinking yellow",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Solid red",
-        "explanation": "A red light indicates you must stop.",
-        "isCorrect": true
-      },
-      {
-        "text": "Flashing red",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "A red light indicates you must stop."
-  },
-  {
-    "id": "08bee114-c644-45b9-be30-b21681257ee7",
-    "question": "Should you ensure your vehicle is in a safe position that does not impede traffic and contact emergency services right away if you are involved in a traffic collision?",
-    "answers": [
-      {
-        "text": "True",
-        "explanation": "In the event of a traffic incident, you should position your car safely without blocking traffic and notify emergency services immediately. Assist injured persons if necessary and use warning signals like flashers or flares.",
-        "isCorrect": true
-      },
-      {
-        "text": "False",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "In the event of a traffic incident, you should position your car safely without blocking traffic and notify emergency services immediately. Assist injured persons if necessary and use warning signals like flashers or flares."
-  },
-  {
-    "id": "6003d139-2d73-41d6-8648-8bf43eef7bfd",
-    "question": "Traveling far below the designated speed limit is considered:",
-    "answers": [
-      {
-        "text": "Required in all conditions.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Recommended occasionally.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Use caution.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Hazardous.",
-        "explanation": "Driving well below the speed limit can cause hazards by prompting other drivers to take risky maneuvers to overtake.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 3,
-    "explanation": "Driving well below the speed limit can cause hazards by prompting other drivers to take risky maneuvers to overtake."
-  },
-  {
-    "id": "90bda442-a11e-479e-95a5-6ffede81c869",
-    "question": "What should you do when you approach a stop sign?",
-    "answers": [
-      {
-        "text": "Proceed without checking for other vehicles if you do not see any immediately approaching.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Wait until the intersection is completely clear of all vehicles and pedestrians before moving forward.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Make a complete stop and look in all directions for oncoming traffic.",
-        "explanation": "You must always come to a full stop and look in all directions to ensure it's safe to proceed.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "You must always come to a full stop and look in all directions to ensure it's safe to proceed."
-  },
-  {
-    "id": "7168b93e-57a6-4d65-8a05-a9a76d021861",
-    "question": "What should you do if there are no specific reduced speed signs in a construction zone?",
-    "answers": [
-      {
-        "text": "You must adhere to the standard posted speed limit.",
-        "explanation": "In absence of specific reduced speed limit signs in a construction zone, you are required to follow the standard posted speed limit.",
-        "isCorrect": true
-      },
-      {
-        "text": "You should reduce your speed by 15 mph below the regular speed limit.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "You should increase your speed by 15 mph above the normal speed limit.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "In absence of specific reduced speed limit signs in a construction zone, you are required to follow the standard posted speed limit."
-  },
-  {
-    "id": "a4bf79c0-6cd4-4923-ac43-f076b00060dc",
-    "question": "What does a single broken white line on a highway mean?",
-    "answers": [
-      {
-        "text": "You can only change lanes if you are entering a turning lane.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "You are allowed to change lanes and pass other vehicles.",
-        "explanation": "A single broken white line indicates lanes of traffic moving in the same direction. You may change lanes and pass other vehicles if it is safe to do so.",
-        "isCorrect": true
-      },
-      {
-        "text": "You must stay within your lane at all times.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "A single broken white line indicates lanes of traffic moving in the same direction. You may change lanes and pass other vehicles if it is safe to do so."
-  },
-  {
-    "id": "5cfa35b8-435f-49f7-983c-e48bdcd98848",
-    "question": "How many seconds of following distance should you maintain in good driving conditions?",
-    "answers": [
-      {
-        "text": "Three to four seconds.",
-        "explanation": "In normal driving conditions, it is recommended to keep a following distance of three to four seconds. This distance should be increased if driving conditions are poor, such as during rain or heavy traffic.",
-        "isCorrect": true
-      },
-      {
-        "text": "Two seconds.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Five to seven seconds.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Ten seconds.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "In normal driving conditions, it is recommended to keep a following distance of three to four seconds. This distance should be increased if driving conditions are poor, such as during rain or heavy traffic."
-  },
-  {
-    "id": "a9ebdf23-dfa4-4b6e-887e-dac3eba983b1",
-    "question": "In which of the following scenarios must you stop your vehicle?",
-    "answers": [
-      {
-        "text": "When you see a stop sign at an intersection.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "If the traffic light is red.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "When directed by a traffic officer.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "All of the above.",
-        "explanation": "Drivers must always stop when approaching a stop sign, encountering a red traffic signal, or when a traffic officer instructs them to stop.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 3,
-    "explanation": "Drivers must always stop when approaching a stop sign, encountering a red traffic signal, or when a traffic officer instructs them to stop."
-  },
-  {
-    "id": "a09cd13c-be49-4886-814d-8f862b6ae7bd",
-    "question": "When are drivers required to use their headlights?",
-    "answers": [
-      {
-        "text": "During heavy fog or smoke.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "From dusk until dawn.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "When it is snowing.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "All of the above.",
-        "explanation": "Headlights must be used in conditions of low visibility such as heavy fog or smoke, from dusk until dawn, and during snow.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 3,
-    "explanation": "Headlights must be used in conditions of low visibility such as heavy fog or smoke, from dusk until dawn, and during snow."
-  },
-  {
-    "id": "ce5527bc-8c5e-4baf-8c58-59df9eb7141e",
-    "question": "In which situations is it appropriate to use high beam headlights?",
-    "answers": [
-      {
-        "text": "When driving on roads you're not familiar with",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "In areas under construction",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Where people might be walking",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "All of the above",
-        "explanation": "High beam headlights should be used when there are no other vehicles nearby. They provide better visibility on unfamiliar roads, in construction zones, or where pedestrians may be present.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 3,
-    "explanation": "High beam headlights should be used when there are no other vehicles nearby. They provide better visibility on unfamiliar roads, in construction zones, or where pedestrians may be present."
-  },
-  {
-    "id": "30ec691b-12eb-4adc-a740-e0e81484135d",
-    "question": "When two cars reach an uncontrolled intersection simultaneously, who has the right-of-way?",
-    "answers": [
-      {
-        "text": "The vehicle on the left should go first.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "The more prominent vehicle goes first.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "The driver on the right has the right-of-way.",
-        "explanation": "In situations where two vehicles reach an uncontrolled intersection simultaneously, the vehicle on the right has the right-of-way.",
-        "isCorrect": true
-      },
-      {
-        "text": "The vehicle on the right should yield to the vehicle on the left.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "In situations where two vehicles reach an uncontrolled intersection simultaneously, the vehicle on the right has the right-of-way."
-  },
-  {
-    "id": "0203f00f-a5b0-4fcf-bde9-f5f5b74dff09",
-    "question": "What should a driver do when taking over-the-counter medication?",
-    "answers": [
-      {
-        "text": "Check the medication labels for any warnings about driving.",
-        "explanation": "It is important to be aware of any side effects that can affect your driving abilities.",
-        "isCorrect": true
-      },
-      {
-        "text": "Consume alcohol to counteract the effects.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Drive without paying attention to any warnings.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Only drive in well-lit areas.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "It is important to be aware of any side effects that can affect your driving abilities."
-  },
-  {
-    "id": "bced3223-c265-4177-97d7-f0d13e828226",
-    "question": "When driving in the rain, when are roads most slippery?",
-    "answers": [
-      {
-        "text": "When the rain has been continuous for several hours.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "A half-hour after the rain ceases.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "In the initial 30 minutes of rainfall.",
-        "explanation": "The roads are most slippery during the first 30 minutes of rain because the water mixes with oil residue, creating a slick surface.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "The roads are most slippery during the first 30 minutes of rain because the water mixes with oil residue, creating a slick surface."
-  },
-  {
-    "id": "6ba39950-66cd-40ea-a4c4-359c1d0fc69f",
-    "question": "A road marked with a broken yellow line means:",
-    "answers": [
-      {
-        "text": "You can pass if the road is clear of oncoming traffic.",
-        "explanation": "Drivers may pass the vehicle in front if the road is clear from oncoming vehicles.",
-        "isCorrect": true
-      },
-      {
-        "text": "A school zone is upcoming.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "You are not allowed to overtake any vehicle.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "Drivers may pass the vehicle in front if the road is clear from oncoming vehicles."
-  },
-  {
-    "id": "9f0dfac4-4f96-4051-97a1-cdbdd45feffc",
-    "question": "Which of these statements regarding railroad crossings is accurate?",
-    "answers": [
-      {
-        "text": "Driving around lowered crossing gates is illegal.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Always halt at a railroad crossing when a flagger signals you to do so.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Some railroad crossings lack automated signals and gates.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "All of the above.",
-        "explanation": "It is illegal to drive around lowered railroad crossing gates. You must stop if directed by a flagger, stop sign, or other warning devices, and not all crossings have automated signals.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 3,
-    "explanation": "It is illegal to drive around lowered railroad crossing gates. You must stop if directed by a flagger, stop sign, or other warning devices, and not all crossings have automated signals."
-  },
-  {
-    "id": "928d71d1-9cd1-4694-afa7-c0bf9e881360",
-    "question": "What kind of information do blue traffic signs provide?",
-    "answers": [
-      {
-        "text": "Guidelines for driving safely.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Directions to various locations.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Available services for motorists.",
-        "explanation": "Blue signs denote available services for drivers, such as rest stops, gas stations, and medical facilities.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "Blue signs denote available services for drivers, such as rest stops, gas stations, and medical facilities."
-  },
-  {
-    "id": "bf1c4252-8cb0-459d-8de6-df21c3059afa",
-    "question": "Following another vehicle too closely:",
-    "answers": [
-      {
-        "text": "Can make other drivers angry and lead to road rage.",
-        "explanation": "Following too closely can provoke other drivers and lead to dangerous situations. It is also against traffic laws.",
-        "isCorrect": true
-      },
-      {
-        "text": "Is safe because it prevents being cut off by other drivers.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Is legal in all circumstances.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "Following too closely can provoke other drivers and lead to dangerous situations. It is also against traffic laws."
-  },
-  {
-    "id": "faca7551-12f3-40fc-b04b-f93212fd3f50",
-    "question": "With an increase in your blood alcohol concentration (BAC), you become:",
-    "answers": [
-      {
-        "text": "More impaired.",
-        "explanation": "As blood alcohol concentration (BAC) increases, so does the level of impairment, affecting motor skills and judgment.",
-        "isCorrect": true
-      },
-      {
-        "text": "Less impaired.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Fully alert.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "As blood alcohol concentration (BAC) increases, so does the level of impairment, affecting motor skills and judgment."
-  },
-  {
-    "id": "5e746796-9019-410a-9161-38beb7482d0f",
-    "question": "What should you do before taking a curve?",
-    "answers": [
-      {
-        "text": "Use your horn.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Slow down.",
-        "explanation": "Slowing down before entering a curve helps maintain control of the vehicle and can prevent skidding or losing control.",
-        "isCorrect": true
-      },
-      {
-        "text": "Speed up.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "Slowing down before entering a curve helps maintain control of the vehicle and can prevent skidding or losing control."
-  },
-  {
-    "id": "23f44065-ee8b-4c8b-8cf6-33c074360917",
-    "question": "What actions should drivers take to drive more safely in winter conditions?",
-    "answers": [
-      {
-        "text": "Reduce their speed on the road.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Make smoother turns and stops.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Keep a larger gap between vehicles.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "All of the above",
-        "explanation": "Winter driving conditions can be hazardous, requiring drivers to slow down, make milder stops and turns, and maintain more space between their vehicle and others.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 3,
-    "explanation": "Winter driving conditions can be hazardous, requiring drivers to slow down, make milder stops and turns, and maintain more space between their vehicle and others."
-  },
-  {
-    "id": "2740fcaa-94f5-4e7d-a45b-d4d91c04d52e",
-    "question": "When a police officer signals you to pull over, you should:",
-    "answers": [
-      {
-        "text": "Stop immediately where you are.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Move to the right side of the road and stop.",
-        "explanation": "When stopped by law enforcement, you should safely pull over to the right side of the road and come to a complete stop.",
-        "isCorrect": true
-      },
-      {
-        "text": "Move to the left side of the road and stop.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "When stopped by law enforcement, you should safely pull over to the right side of the road and come to a complete stop."
-  },
-  {
-    "id": "dd44c651-2676-4ad4-9d88-5c785e78af9e",
-    "question": "If you double your vehicle's speed, by what factor does the collision impact force increase?",
-    "answers": [
-      {
-        "text": "Doubles.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Triples.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Quadruples.",
-        "explanation": "Increasing the vehicle's speed multiplies its impact force significantly. Doubling the speed results in a fourfold increase in the force of impact.",
-        "isCorrect": true
-      },
-      {
-        "text": "Remains unchanged.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "Increasing the vehicle's speed multiplies its impact force significantly. Doubling the speed results in a fourfold increase in the force of impact."
-  },
-  {
-    "id": "8a511d3c-422e-4d1d-8857-819f76998e05",
-    "question": "What should you do when you see a yield sign while driving?",
-    "answers": [
-      {
-        "text": "Must come to a full stop before proceeding.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Should reduce your speed and be ready to stop if necessary.",
-        "explanation": "When you come to a yield sign, you should slow down and be prepared to stop. Yield to any pedestrians and oncoming traffic before proceeding safely.",
-        "isCorrect": true
-      },
-      {
-        "text": "Have priority over other traffic and pedestrians.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "When you come to a yield sign, you should slow down and be prepared to stop. Yield to any pedestrians and oncoming traffic before proceeding safely."
-  },
-  {
-    "id": "c3fa0d14-6c70-41de-afe2-8edd7df18d62",
-    "question": "What is the safest action to take if you are stranded in a snowstorm?",
-    "answers": [
-      {
-        "text": "Abandon your car and search for help on foot.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Stay inside your car and wait for assistance.",
-        "explanation": "In a snowstorm, it's safest to remain inside your vehicle where it's more likely that rescuers will find you, and you are protected from the elements.",
-        "isCorrect": true
-      },
-      {
-        "text": "Attempt to attract attention by walking onto the road.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Lay down in your car and go to sleep.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "In a snowstorm, it's safest to remain inside your vehicle where it's more likely that rescuers will find you, and you are protected from the elements."
-  },
-  {
-    "id": "3a785603-4501-416d-a176-f568b0877548",
-    "question": "How should you respond if you encounter an inoperative traffic light?",
-    "answers": [
-      {
-        "text": "Come to a complete stop and proceed when you can do so safely.",
-        "explanation": "Ensure the way is clear before moving forward.",
-        "isCorrect": true
-      },
-      {
-        "text": "Stop before you enter the intersection and yield to all other traffic.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Reduce speed and stop only if it is necessary.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "Ensure the way is clear before moving forward."
-  },
-  {
-    "id": "4b4e3961-8493-4b3a-ad79-dbd5a180fa19",
-    "question": "You approach an intersection with a yellow traffic light. If you have not yet entered the intersection, you should:",
-    "answers": [
-      {
-        "text": "Accelerate to pass through the intersection before the light turns red.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Slow down and continue cautiously through the intersection.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Prepare to stop completely.",
-        "explanation": "When facing a steady yellow traffic light, you should prepare to stop your vehicle. If you are too close to the intersection to stop safely, you should proceed with caution.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "When facing a steady yellow traffic light, you should prepare to stop your vehicle. If you are too close to the intersection to stop safely, you should proceed with caution."
-  },
-  {
-    "id": "c48b6970-eedf-4c3a-a851-eec1dc9bf69d",
-    "question": "The safest way to change lanes is to do so:",
-    "answers": [
-      {
-        "text": "Without checking mirrors.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "When safe and signal appropriately.",
-        "explanation": "It's important to ensure that the move is safe and signals are used to inform other drivers.",
-        "isCorrect": true
-      },
-      {
-        "text": "Only in heavy traffic.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "It's important to ensure that the move is safe and signals are used to inform other drivers."
-  },
-  {
-    "id": "8dc52e26-59cb-478b-ad39-b8b9bee5b5f4",
-    "question": "When stopped on the roadside during nighttime, what actions should you take?",
-    "answers": [
-      {
-        "text": "Deactivate all your vehicle's lights.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Switch on only your parking lights.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Operate using only your headlights.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "Activate your hazard lights and keep your low beam headlights on.",
-        "explanation": "This ensures that your vehicle remains visible to other drivers on the road, thereby preventing accidents.",
-        "isCorrect": true
-      }
-    ],
-    "correctIndex": 3,
-    "explanation": "This ensures that your vehicle remains visible to other drivers on the road, thereby preventing accidents."
-  },
-  {
-    "id": "774366b3-97f6-4ea5-ac29-7ff06f0bcce0",
-    "question": "To reduce the risk of hydroplaning on wet roads, you should increase your speed.",
-    "answers": [
-      {
-        "text": "False",
-        "explanation": "",
-        "isCorrect": true
-      },
-      {
-        "text": "True",
-        "explanation": "Driving at high speeds on wet roads increases the risk of hydroplaning, where tires lose contact with the road due to water. Reducing speed helps maintain better control.",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": ""
-  },
-  {
-    "id": "4c145b3e-b852-42ba-b87b-afec60c9aff6",
-    "question": "What is driving considered as?",
-    "answers": [
-      {
-        "text": "A benefit granted by the state.",
-        "explanation": "Driving is a benefit granted by the state, and improper use can lead to suspension or revocation of the license.",
-        "isCorrect": true
-      },
-      {
-        "text": "An entitlement.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "A necessity.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "Driving is a benefit granted by the state, and improper use can lead to suspension or revocation of the license."
-  },
-  {
-    "id": "4ae14f48-8794-495c-9041-5501d389460d",
-    "question": "Under what condition may you make a left turn on a red light?",
-    "answers": [
-      {
-        "text": "From a two-way street to another two-way street.",
-        "explanation": "",
-        "isCorrect": false
-      },
-      {
-        "text": "From a one-way street to another one-way street.",
-        "explanation": "Left turns on red are allowed only when moving from one one-way street to another, unless otherwise indicated by a sign. Stop fully and yield to traffic and pedestrians.",
-        "isCorrect": true
-      },
-      {
-        "text": "When there is no traffic at the intersection.",
-        "explanation": "",
-        "isCorrect": false
-      }
-    ],
-    "correctIndex": 1,
-    "explanation": "Left turns on red are allowed only when moving from one one-way street to another, unless otherwise indicated by a sign. Stop fully and yield to traffic and pedestrians."
+    "explanation": "You must switch lanes to provide additional space when passing a stopped police car with flashing blue lights, an emergency vehicle with flashing red lights, or a service vehicle with flashing amber lights. If it's unsafe to change lanes, reduce your speed."
   },
   {
     "id": "13b94db9-32a4-4aa0-a639-c6a5023ff79c",
@@ -2517,31 +107,2446 @@
     "explanation": "Be cautious during cold weather as overpasses and bridges tend to freeze before other parts of the road."
   },
   {
-    "id": "d1d6dc2a-895a-404b-bf77-e9ee123b9078",
-    "question": "When driving on a highway, in which scenario must you safely change lanes or slow down?",
+    "id": "e1a257df-df0b-4f20-a67e-77deba820b23",
+    "question": "Under what circumstances can you park in the access aisle next to a designated handicapped parking space?",
     "answers": [
       {
-        "text": "When passing a stopped police car with flashing blue lights.",
+        "text": "At no time.",
+        "explanation": "Parking in an access aisle is strictly prohibited. Violators are subject to a minimum fine of $200.",
+        "isCorrect": true
+      },
+      {
+        "text": "If you have a disabled parking permit.",
         "explanation": "",
         "isCorrect": false
       },
       {
-        "text": "When passing a halted emergency vehicle with flashing red lights.",
+        "text": "Only when regular spots are unavailable.",
         "explanation": "",
         "isCorrect": false
       },
       {
-        "text": "When passing a stopped service vehicle with flashing amber lights.",
+        "text": "Just for a very short time.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Parking in an access aisle is strictly prohibited. Violators are subject to a minimum fine of $200."
+  },
+  {
+    "id": "b1073acf-ef79-4428-ac22-1969c7075f49",
+    "question": "What documents must a driver show when stopped for a traffic offense or during an equipment inspection?",
+    "answers": [
+      {
+        "text": "Just their proof of insurance and vehicle registration.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Only their driver's license.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Their driver's license, proof of insurance, and vehicle registration.",
+        "explanation": "When pulled over for a traffic violation or during an equipment check, a driver is required to show their driver's license, proof of insurance, and vehicle registration. These documents must be present in the vehicle whenever it is being operated.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "When pulled over for a traffic violation or during an equipment check, a driver is required to show their driver's license, proof of insurance, and vehicle registration. These documents must be present in the vehicle whenever it is being operated."
+  },
+  {
+    "id": "8314b93c-59ee-412a-bb41-461c5c5dc450",
+    "question": "When driving behind a school bus or a tank truck, what should you expect?",
+    "answers": [
+      {
+        "text": "Overtake them if safe to do so.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Anticipate a complete stop at railroad tracks.",
+        "explanation": "Both school buses and tank trucks transporting hazardous materials are required to stop at railroad crossings. Ensure you are prepared to stop behind them.",
+        "isCorrect": true
+      },
+      {
+        "text": "Maintain a very close distance.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Both school buses and tank trucks transporting hazardous materials are required to stop at railroad crossings. Ensure you are prepared to stop behind them."
+  },
+  {
+    "id": "3cb02ab2-420e-4a61-a876-6e9f4a12ab84",
+    "question": "What is a potential danger of continuous hard braking on snowy or icy roads?",
+    "answers": [
+      {
+        "text": "Decreases stopping distance.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Causes the front wheels to lock up, making steering difficult.",
+        "explanation": "Applying continuous hard braking on icy or snowy roads can lock the front wheels, resulting in a loss of steering control. It's important to brake gently and steadily in such conditions.",
+        "isCorrect": true
+      },
+      {
+        "text": "Prevents the brakes from overheating.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Applying continuous hard braking on icy or snowy roads can lock the front wheels, resulting in a loss of steering control. It's important to brake gently and steadily in such conditions."
+  },
+  {
+    "id": "990a5be1-8ca8-44b8-a166-5360c8cd3a47",
+    "question": "If a traffic light changes from green to yellow while you are already in an intersection, what should you do?",
+    "answers": [
+      {
+        "text": "Stop immediately.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Proceed and exit the intersection promptly.",
+        "explanation": "You should keep moving and safely clear the intersection if the light turns yellow while you are in it.",
+        "isCorrect": true
+      },
+      {
+        "text": "Speed up to get through the intersection faster.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "You should keep moving and safely clear the intersection if the light turns yellow while you are in it."
+  },
+  {
+    "id": "45a4203b-6553-42c6-91b5-3e3f80c9f940",
+    "question": "In extremely dense fog where visibility is significantly impaired, what should you do?",
+    "answers": [
+      {
+        "text": "Drive with your hazard lights on.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Switch to high beams for better visibility.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Park in a safe area away from traffic with your hazard lights activated.",
+        "explanation": "This is the safest action to take during severe fog to avoid collisions.",
+        "isCorrect": true
+      },
+      {
+        "text": "Honk periodically.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "This is the safest action to take during severe fog to avoid collisions."
+  },
+  {
+    "id": "c126cf71-5740-42ea-9e32-f700912252c6",
+    "question": "Which of the following practices should be observed when another vehicle is overtaking you?",
+    "answers": [
+      {
+        "text": "Increase your speed to prevent the passing vehicle from merging back into your lane.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Continue driving at a steady pace while another vehicle is passing.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Give the passing vehicle enough room to safely get back in front of you.",
         "explanation": "",
         "isCorrect": false
       },
       {
         "text": "All of the above.",
-        "explanation": "You must switch lanes to provide additional space when passing a stopped police car with flashing blue lights, an emergency vehicle with flashing red lights, or a service vehicle with flashing amber lights. If it's unsafe to change lanes, reduce your speed.",
+        "explanation": "When being passed, you should keep a consistent speed and allow the passing vehicle enough space to return to your lane safely. Stay aware of the other driver's actions.",
         "isCorrect": true
       }
     ],
     "correctIndex": 3,
-    "explanation": "You must switch lanes to provide additional space when passing a stopped police car with flashing blue lights, an emergency vehicle with flashing red lights, or a service vehicle with flashing amber lights. If it's unsafe to change lanes, reduce your speed."
+    "explanation": "When being passed, you should keep a consistent speed and allow the passing vehicle enough space to return to your lane safely. Stay aware of the other driver's actions."
+  },
+  {
+    "id": "0ed82fd0-f58a-4e58-98e8-ff95a50b8124",
+    "question": "What should you always do at a light rail crossing?",
+    "answers": [
+      {
+        "text": "Always stop for signals and look both ways before proceeding.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Follow the traffic signs and signals closely.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Be mindful of pedestrians and cyclists sharing the roadway.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above.",
+        "explanation": "At a light rail intersection, you should never cross when the gate is down, always observe the signals, and be cautious of other road users.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": "At a light rail intersection, you should never cross when the gate is down, always observe the signals, and be cautious of other road users."
+  },
+  {
+    "id": "ca59eb03-b1ff-4772-8a4c-5c8a4216f9fd",
+    "question": "When you encounter a pedestrian with a white cane or guide dog, you should:",
+    "answers": [
+      {
+        "text": "You have the right-of-way.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "You need to give them the right-of-way.",
+        "explanation": "Motorists must always yield the right-of-way to blind pedestrians.",
+        "isCorrect": true
+      },
+      {
+        "text": "Slow down and honk to alert them.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Motorists must always yield the right-of-way to blind pedestrians."
+  },
+  {
+    "id": "9ede7d6b-d2b6-4141-bfe8-3ec83d7dbc44",
+    "question": "What is the correct method for checking blind spots when changing lanes?",
+    "answers": [
+      {
+        "text": "Check your left mirror for a right lane change and your right mirror for a left lane change.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Turn your head to the left before moving into the left lane and to the right before moving into the right lane.",
+        "explanation": "Before switching lanes, always signal, check your mirrors, and turn your head to ensure there are no vehicles in your blind spots on the side you intend to move into.",
+        "isCorrect": true
+      },
+      {
+        "text": "Vehicles equipped with blind spot monitors eliminate the need to turn your head.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Before switching lanes, always signal, check your mirrors, and turn your head to ensure there are no vehicles in your blind spots on the side you intend to move into."
+  },
+  {
+    "id": "b21bb70c-d339-41d1-bdfc-9386610da8b0",
+    "question": "Is it ever permissible to drive around or underneath a railroad crossing barrier?",
+    "answers": [
+      {
+        "text": "Under no circumstances.",
+        "explanation": "Driving around or under a lowered railroad crossing gate is illegal under any circumstance. Always wait until the gate is fully raised and you are sure the tracks are clear.",
+        "isCorrect": true
+      },
+      {
+        "text": "Only if the gate is malfunctioning.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "If the crossing lights are not illuminated.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Driving around or under a lowered railroad crossing gate is illegal under any circumstance. Always wait until the gate is fully raised and you are sure the tracks are clear."
+  },
+  {
+    "id": "16059607-16a6-4e58-a328-16ce4c6f6e74",
+    "question": "What actions should you take to reduce the risk of hydroplaning?",
+    "answers": [
+      {
+        "text": "Make sure your tires have adequate tread.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Keep your tires properly inflated.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Slow down during wet conditions.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above.",
+        "explanation": "All these measures help minimize the risk of hydroplaning.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": "All these measures help minimize the risk of hydroplaning."
+  },
+  {
+    "id": "02129934-ecce-4de5-ba85-ac237c360705",
+    "question": "During heavy traffic times, obstructing an intersection is prohibited:",
+    "answers": [
+      {
+        "text": "Only if your light is green and the way is clear.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "In all situations, even if the light is green.",
+        "explanation": "You should never block an intersection, regardless of the traffic light's color.",
+        "isCorrect": true
+      },
+      {
+        "text": "Unless you are already inside the intersection.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "You should never block an intersection, regardless of the traffic light's color."
+  },
+  {
+    "id": "7fe3ac93-2969-4d62-bd0d-7598416dc8d7",
+    "question": "You need to stop at an upcoming intersection. Just before it, you must go over railroad tracks. Under what condition should you stop before the tracks?",
+    "answers": [
+      {
+        "text": "The vehicle on the other side has not moved, and you cannot fully cross.",
+        "explanation": "Always ensure there is enough space on the other side to completely clear the tracks before crossing.",
+        "isCorrect": true
+      },
+      {
+        "text": "There is a railroad sign indicating frequent train crossings.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "You are driving during school hours.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Always ensure there is enough space on the other side to completely clear the tracks before crossing."
+  },
+  {
+    "id": "83eb154a-40ca-4a32-b698-fba2378c0fbd",
+    "question": "Under what conditions should you yield your right-of-way?",
+    "answers": [
+      {
+        "text": "Only at intersections without traffic signals.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Whenever it can help avoid accidents.",
+        "explanation": "Yielding the right-of-way when it can prevent an accident is a key safety practice.",
+        "isCorrect": true
+      },
+      {
+        "text": "Never, it could make other drivers uneasy.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Yielding the right-of-way when it can prevent an accident is a key safety practice."
+  },
+  {
+    "id": "baa6d00f-dea0-4b56-a87d-edc7d0c1a668",
+    "question": "How should a driver respond to pedestrians in the roadway?",
+    "answers": [
+      {
+        "text": "Ensure the pedestrian sees you before proceeding.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Give the right-of-way to pedestrians, even if they are jaywalking.",
+        "explanation": "Drivers must always prioritize the safety of pedestrians, giving them priority regardless of their adherence to crossing regulations.",
+        "isCorrect": true
+      },
+      {
+        "text": "Yield to pedestrians only at marked crosswalks.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Slow down and honk near a crosswalk to alert pedestrians.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Drivers must always prioritize the safety of pedestrians, giving them priority regardless of their adherence to crossing regulations."
+  },
+  {
+    "id": "67a30e3a-4d2f-4eb3-a940-33c62d998994",
+    "question": "What should you do if a school bus ahead of you is stopped with flashing red lights and an extended stop arm?",
+    "answers": [
+      {
+        "text": "Proceed slowly while watching for children.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Wait until the bus signals are turned off.",
+        "explanation": "When a school bus has stopped and is displaying flashing red lights and an extended stop arm, it is illegal to pass. You must remain stopped until the red lights stop flashing and the stop arm is withdrawn.",
+        "isCorrect": true
+      },
+      {
+        "text": "Carefully change lanes to go around the bus.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "When a school bus has stopped and is displaying flashing red lights and an extended stop arm, it is illegal to pass. You must remain stopped until the red lights stop flashing and the stop arm is withdrawn."
+  },
+  {
+    "id": "fe6615a6-802a-4f0b-b3b5-fb53e03cf8d4",
+    "question": "How much does the impact force increase when you double your driving speed?",
+    "answers": [
+      {
+        "text": "Twice as much.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Three times as much.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Four times as much.",
+        "explanation": "Doubling your vehicle's speed increases the force of impact by a factor of four, increasing the danger in a collision.",
+        "isCorrect": true
+      },
+      {
+        "text": "No increase.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Doubling your vehicle's speed increases the force of impact by a factor of four, increasing the danger in a collision."
+  },
+  {
+    "id": "a6c1277f-da94-4e35-9686-68e975c43f32",
+    "question": "When towing a trailer, how should the safety chains be secured?",
+    "answers": [
+      {
+        "text": "The safety chains are attached directly to the trailer hitch.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The safety chains are hooked to the vehicle's bumper.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The safety chains are fastened to the towing vehicle's frame.",
+        "explanation": "Safety chains should always be secured to the frame of the towing vehicle to ensure maximum safety.",
+        "isCorrect": true
+      },
+      {
+        "text": "The trailer hitch includes a safety latch.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Safety chains should always be secured to the frame of the towing vehicle to ensure maximum safety."
+  },
+  {
+    "id": "5fb21824-c19b-4653-9f6a-d6cbc88c312b",
+    "question": "Under what condition is it acceptable to use a High Occupancy Vehicle (HOV) lane?",
+    "answers": [
+      {
+        "text": "You are traveling below the speed limit.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "You are riding in a carpool.",
+        "explanation": "HOV lanes are designated for vehicles with multiple occupants. These lanes help reduce congestion and encourage carpooling.",
+        "isCorrect": true
+      },
+      {
+        "text": "You have the only vehicle in the lane.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "You are running late to your destination.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "HOV lanes are designated for vehicles with multiple occupants. These lanes help reduce congestion and encourage carpooling."
+  },
+  {
+    "id": "67b46f68-79a7-4daa-8094-cefce007be8f",
+    "question": "Traveling at a significantly lower speed than surrounding vehicles is:",
+    "answers": [
+      {
+        "text": "Advisable during challenging weather conditions.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Recommended if unsure about the speed limit.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Potentially dangerous as it might tempt others to overtake unsafely.",
+        "explanation": "Driving substantially slower than the flow of traffic can cause other drivers to take risky actions to pass you.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Driving substantially slower than the flow of traffic can cause other drivers to take risky actions to pass you."
+  },
+  {
+    "id": "203226b2-2897-4bca-b0f3-bd392a3bd791",
+    "question": "What precautions should you take while driving through a construction area?",
+    "answers": [
+      {
+        "text": "Be alert for any workers and equipment around you.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduce your speed according to posted limits.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Adhere to instructions from signage and flaggers.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above.",
+        "explanation": "All the actions are necessary to ensure safety in work zones.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": "All the actions are necessary to ensure safety in work zones."
+  },
+  {
+    "id": "65139e83-36c5-43d8-88f2-8262646c75d2",
+    "question": "Where are roads most likely to freeze more rapidly?",
+    "answers": [
+      {
+        "text": "On hills.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "In open fields.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Near water bodies.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "In shaded areas.",
+        "explanation": "During cold or wet conditions, roads in shaded areas tend to freeze faster and thaw slower than other parts.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": "During cold or wet conditions, roads in shaded areas tend to freeze faster and thaw slower than other parts."
+  },
+  {
+    "id": "65ee5bc8-7e65-49c6-a5f5-d3ad0595f972",
+    "question": "What is the appropriate action to take when preparing to switch lanes?",
+    "answers": [
+      {
+        "text": "Keep a consistent and safe gap from the vehicle ahead.",
+        "explanation": "When preparing to change lanes, ensure there is enough space between you and the car ahead. Check mirrors and blind spots to confirm it's safe before moving over.",
+        "isCorrect": true
+      },
+      {
+        "text": "Shorten the gap to the vehicle in front of you.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Completely stop before merging into the new lane.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Change lanes rapidly without consideration for other vehicles.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "When preparing to change lanes, ensure there is enough space between you and the car ahead. Check mirrors and blind spots to confirm it's safe before moving over."
+  },
+  {
+    "id": "909df8d0-ed48-4091-a6d6-d0b844e70a59",
+    "question": "A speed advisory sign:",
+    "answers": [
+      {
+        "text": "Can be disregarded if driving conditions are good.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Is typically a circular sign.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Displays information with white text on a blue background.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Advises a safe speed for navigating curves or turns.",
+        "explanation": "Speed advisory signs indicate the suggested speed for navigating particular road features like curves or turns. It's important to adhere to these signs, especially in poor weather conditions.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": "Speed advisory signs indicate the suggested speed for navigating particular road features like curves or turns. It's important to adhere to these signs, especially in poor weather conditions."
+  },
+  {
+    "id": "5820a42d-8c21-4fa5-9620-8c86c76dfbdd",
+    "question": "What should you do if pedestrians are close to the roadway?",
+    "answers": [
+      {
+        "text": "Honk your horn and proceed at the same speed.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Accelerate to move through the area faster.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduce speed and proceed carefully.",
+        "explanation": "When you see pedestrians nearby, you should slow down and carefully pass by. Always be ready to stop if necessary to ensure their safety.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "When you see pedestrians nearby, you should slow down and carefully pass by. Always be ready to stop if necessary to ensure their safety."
+  },
+  {
+    "id": "03658af8-c74e-483d-acee-abf93fd235e7",
+    "question": "Engaging in activities like smoking while you drive:",
+    "answers": [
+      {
+        "text": "Do not impact your driving capability.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Can keep you more aware of your surroundings.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Serve as distractions while driving.",
+        "explanation": "Engaging in such activities can take your focus away from the road, increasing the risk of accidents.",
+        "isCorrect": true
+      },
+      {
+        "text": "Are not distracting activities.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Engaging in such activities can take your focus away from the road, increasing the risk of accidents."
+  },
+  {
+    "id": "f79de74d-2214-4b84-8968-1b21bc95c1ab",
+    "question": "If you are parking facing downhill on a road without a curb, which direction should you turn your front wheels?",
+    "answers": [
+      {
+        "text": "Keep them straight",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Turn toward the roadside",
+        "explanation": "When parking downhill without a curb, it's safest to turn your wheels toward the roadside. This ensures that if your brakes fail, the vehicle will not roll into traffic.",
+        "isCorrect": true
+      },
+      {
+        "text": "Turn toward the center of the street",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "When parking downhill without a curb, it's safest to turn your wheels toward the roadside. This ensures that if your brakes fail, the vehicle will not roll into traffic."
+  },
+  {
+    "id": "cb4c4e6f-f1e4-4b34-916d-988a59572bd9",
+    "question": "What actions should you take if your accelerator sticks?",
+    "answers": [
+      {
+        "text": "Place the car in neutral.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Slow down using the brakes.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Exit the roadway safely.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above.",
+        "explanation": "If your accelerator sticks, you should place the vehicle in neutral, use the brakes to decelerate, and steer safely off the road. Once stopped, turn off the engine and call for help if needed.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": "If your accelerator sticks, you should place the vehicle in neutral, use the brakes to decelerate, and steer safely off the road. Once stopped, turn off the engine and call for help if needed."
+  },
+  {
+    "id": "30c97743-9ab8-4b27-898b-8c710455c532",
+    "question": "On a two-lane road with traffic moving in both directions, after passing another car, you should:",
+    "answers": [
+      {
+        "text": "Move back to your lane once there is a safe gap between you and the vehicle you overtook.",
+        "explanation": "You should only return to your original lane after ensuring there is sufficient distance between your vehicle and the one you passed.",
+        "isCorrect": true
+      },
+      {
+        "text": "Stay in the left lane until you signal.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Switch to the right lane immediately after passing.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Drive in the lane of your choice.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "You should only return to your original lane after ensuring there is sufficient distance between your vehicle and the one you passed."
+  },
+  {
+    "id": "160fa655-bb38-4608-bbb2-e403348b72fc",
+    "question": "When you see a steady yellow signal, what color will the light change to next?",
+    "answers": [
+      {
+        "text": "Solid green",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Blinking yellow",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Solid red",
+        "explanation": "A red light indicates you must stop.",
+        "isCorrect": true
+      },
+      {
+        "text": "Flashing red",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "A red light indicates you must stop."
+  },
+  {
+    "id": "887888fb-2b85-47a1-a79c-f88e19da1124",
+    "question": "What should drivers do when encountering a pedestrian hybrid beacon with a flashing red light?",
+    "answers": [
+      {
+        "text": "Drivers should slow down and proceed with caution.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Drivers may continue without stopping.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Drivers must stop completely and proceed if pedestrians have cleared the crosswalk.",
+        "explanation": "When the pedestrian hybrid beacon is flashing red, drivers are required to stop fully and proceed only if the crosswalk is free of pedestrians.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "When the pedestrian hybrid beacon is flashing red, drivers are required to stop fully and proceed only if the crosswalk is free of pedestrians."
+  },
+  {
+    "id": "43db8059-a1d7-4825-acd4-e8c1d6e755d6",
+    "question": "During dawn, dusk, rain, or snow when visibility is reduced, what should you turn on to help other drivers see you?",
+    "answers": [
+      {
+        "text": "The dashboard lights.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Your hazard lights.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Your headlights.",
+        "explanation": "In low visibility conditions such as dawn, dusk, rain, or snow, using your headlights helps ensure you are visible to other drivers.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "In low visibility conditions such as dawn, dusk, rain, or snow, using your headlights helps ensure you are visible to other drivers."
+  },
+  {
+    "id": "ff321631-fe54-4c3f-b42d-7e32ad39f3d0",
+    "question": "What does a flashing yellow X on a lane control signal mean above a reversible lane?",
+    "answers": [
+      {
+        "text": "The signal is about to change to a solid red X.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The signal is about to change to a green arrow allowing through traffic.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "This lane can only be used for turning.",
+        "explanation": "When a flashing yellow X is displayed, it indicates the lane is reserved for turns only.",
+        "isCorrect": true
+      },
+      {
+        "text": "Drivers may drive slowly in this lane.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "When a flashing yellow X is displayed, it indicates the lane is reserved for turns only."
+  },
+  {
+    "id": "e35c200d-bac2-45e8-992e-a440831e67a5",
+    "question": "What does a dashed white line down the middle of a road indicate?",
+    "answers": [
+      {
+        "text": "Traffic flows in opposite directions and passing is not allowed.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Traffic flows in the same direction and passing is not allowed.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Traffic flows in the same direction and passing is allowed.",
+        "explanation": "Dashed white lines separate lanes of traffic moving in the same direction. Drivers can pass when safe.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Dashed white lines separate lanes of traffic moving in the same direction. Drivers can pass when safe."
+  },
+  {
+    "id": "0b7f0ccc-ee75-465d-8f15-d72ac9d23c6f",
+    "question": "At a railroad crossing with lowered gates and active warning signals, what should you do?",
+    "answers": [
+      {
+        "text": "Proceed carefully if you don't see a train approaching.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Stop completely at a safe distance from the gates, and wait until the gates are raised and lights stop flashing to proceed.",
+        "explanation": "It is mandatory to stop at a railroad crossing with lowered gates and flashing lights. Proceed only once the gates are up and the lights have ceased flashing.",
+        "isCorrect": true
+      },
+      {
+        "text": "Drive slowly around the gates if the way appears clear.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "It is mandatory to stop at a railroad crossing with lowered gates and flashing lights. Proceed only once the gates are up and the lights have ceased flashing."
+  },
+  {
+    "id": "a7747612-fd7e-4d5b-aafe-6f82299a11f0",
+    "question": "Where is the appropriate stopping point when a stop line is present?",
+    "answers": [
+      {
+        "text": "Before reaching the stop line",
+        "explanation": "You must come to a full stop before reaching the painted stop line to ensure safety and compliance with traffic laws.",
+        "isCorrect": true
+      },
+      {
+        "text": "At the stop sign or signal",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Just over the stop line",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "It doesn't matter where you stop",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "You must come to a full stop before reaching the painted stop line to ensure safety and compliance with traffic laws."
+  },
+  {
+    "id": "0b6b4e97-590d-42c4-8927-06ddd8495000",
+    "question": "One sign of an aggressive driver is that they:",
+    "answers": [
+      {
+        "text": "Drive too close to the vehicle ahead.",
+        "explanation": "Aggressive drivers may exhibit unsafe behaviors such as tailgating, which involves driving too closely to the vehicle in front of them.",
+        "isCorrect": true
+      },
+      {
+        "text": "Always stay in their lane.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Keep a safe distance from other cars.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoid driving at night.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Aggressive drivers may exhibit unsafe behaviors such as tailgating, which involves driving too closely to the vehicle in front of them."
+  },
+  {
+    "id": "0c7b5be5-291b-4c07-b340-67f314622595",
+    "question": "Under what circumstances must drivers yield for pedestrians at crosswalks?",
+    "answers": [
+      {
+        "text": "When they make eye contact with you.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "When they are using a marked or unmarked crosswalk.",
+        "explanation": "Drivers must yield to pedestrians in both marked and unmarked crosswalks at all times to ensure their safety.",
+        "isCorrect": true
+      },
+      {
+        "text": "Only during daylight hours.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Drivers must yield to pedestrians in both marked and unmarked crosswalks at all times to ensure their safety."
+  },
+  {
+    "id": "45b197cd-a4eb-4083-998d-5d4b6aff6696",
+    "question": "What should you do before driving if you are taking medication?",
+    "answers": [
+      {
+        "text": "Speak with a healthcare professional regarding potential side effects on driving.",
+        "explanation": "Prescription and over-the-counter medications can affect your ability to drive safely. Always discuss with a healthcare professional to understand any potential impacts on driving.",
+        "isCorrect": true
+      },
+      {
+        "text": "Drive cautiously and keep the windows down for better focus.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Make sure someone can follow you closely to ensure safety.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Prescription and over-the-counter medications can affect your ability to drive safely. Always discuss with a healthcare professional to understand any potential impacts on driving."
+  },
+  {
+    "id": "bf9688fd-e827-4d63-93ca-4280d8a54c3b",
+    "question": "While driving on a city street, you notice an emergency vehicle with flashing lights approaching from behind. What action should you take?",
+    "answers": [
+      {
+        "text": "Pull over to the right side of the road and reduce speed.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Pull over to the right side of the road and come to a halt.",
+        "explanation": "When an emergency vehicle is approaching with its lights and siren on, you must pull over to the right-hand edge of the roadway and stop until it has passed. If in an intersection, clear the intersection first and then pull over.",
+        "isCorrect": true
+      },
+      {
+        "text": "Remain in your lane, decrease speed, and allow it to pass.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "When an emergency vehicle is approaching with its lights and siren on, you must pull over to the right-hand edge of the roadway and stop until it has passed. If in an intersection, clear the intersection first and then pull over."
+  },
+  {
+    "id": "36f30b7a-80ef-4163-b730-d8fa9d4204b9",
+    "question": "When should drivers start to accelerate while navigating a turn?",
+    "answers": [
+      {
+        "text": "At the midpoint of the curve.",
+        "explanation": "Begin to accelerate at the midpoint of the turn while keeping your eyes on the road ahead.",
+        "isCorrect": true
+      },
+      {
+        "text": "Before initiating the turn.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "When fully past the curve.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "During the entire turn.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Begin to accelerate at the midpoint of the turn while keeping your eyes on the road ahead."
+  },
+  {
+    "id": "56d8df22-a674-4c2d-ab5b-e6971e4f94ed",
+    "question": "Where is parking not allowed?",
+    "answers": [
+      {
+        "text": "Across crosswalks.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "In front of fire hydrants.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "On railroad tracks.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above.",
+        "explanation": "Drivers must be aware of areas where parking is prohibited: across crosswalks, in front of fire hydrants, and on railroad tracks.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": "Drivers must be aware of areas where parking is prohibited: across crosswalks, in front of fire hydrants, and on railroad tracks."
+  },
+  {
+    "id": "b8da70ca-61ab-44a8-bd2b-ff1f6714ba80-revised",
+    "question": "Pavement is particularly treacherous right when rainfall begins.",
+    "answers": [
+      {
+        "text": "True",
+        "explanation": "Surfaces can become more hazardous as they accumulate initial moisture.",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Surfaces can become more hazardous as they accumulate initial moisture."
+  },
+  {
+    "id": "ae0fa3b8-6de8-43a8-ae82-023e852cccc5",
+    "question": "What does a flashing yellow X above a lane signify?",
+    "answers": [
+      {
+        "text": "Traffic may proceed straight ahead only.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The signal is about to change to a red X soon.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The lane is reserved for left turns only.",
+        "explanation": "You can use the lane but only for making left turns.",
+        "isCorrect": true
+      },
+      {
+        "text": "Drivers should drive slowly in this lane.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "You can use the lane but only for making left turns."
+  },
+  {
+    "id": "f3f01d94-88f1-496a-a11e-8af87c9ba06f",
+    "question": "What is the minimum safe following distance when driving behind a motorcycle?",
+    "answers": [
+      {
+        "text": "Four seconds.",
+        "explanation": "When trailing a motorcycle, a minimum following distance of four seconds is recommended. This buffer provides sufficient time to react in case of sudden stops or falls.",
+        "isCorrect": true
+      },
+      {
+        "text": "Three seconds.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Two seconds.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "One second.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "When trailing a motorcycle, a minimum following distance of four seconds is recommended. This buffer provides sufficient time to react in case of sudden stops or falls."
+  },
+  {
+    "id": "9e361b2b-d4e9-40fa-a682-f36d85e16cef",
+    "question": "What should you be able to observe after setting your rearview mirror?",
+    "answers": [
+      {
+        "text": "The road directly behind you.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The seat belts of all passengers.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The full view of the back windshield.",
+        "explanation": "Properly adjusting your rearview mirror should allow you to see the entire back windshield. This helps you monitor the traffic behind you without moving your head.",
+        "isCorrect": true
+      },
+      {
+        "text": "The entire backseat area.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Properly adjusting your rearview mirror should allow you to see the entire back windshield. This helps you monitor the traffic behind you without moving your head."
+  },
+  {
+    "id": "e61b0ff3-14e5-4470-bb5d-45dc4b9c45e5",
+    "question": "What are the potential outcomes of consuming alcohol while on medication?",
+    "answers": [
+      {
+        "text": "The medicine will cancel out the alcohol's effects.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Alcohol can enhance the medicinal properties of the medication.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The combined use can heighten the effects of both substances.",
+        "explanation": "Mixing alcohol with medication may intensify the impairing effects of both, making activities like driving highly dangerous.",
+        "isCorrect": true
+      },
+      {
+        "text": "There is no impact since they are different substances.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Mixing alcohol with medication may intensify the impairing effects of both, making activities like driving highly dangerous."
+  },
+  {
+    "id": "93f83554-6841-4950-858b-e8a8c9d47f58",
+    "question": "Who is allowed to park in spaces designated for handicapped parking?",
+    "answers": [
+      {
+        "text": "Only by vehicles displaying a disabled placard or license plate.",
+        "explanation": "Handicap parking spaces are designated for use exclusively by vehicles with a disabled placard or license plate. Unauthorized use is a violation of the law.",
+        "isCorrect": true
+      },
+      {
+        "text": "By any driver when regular spots are full.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "By individuals who have a temporary injury.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Handicap parking spaces are designated for use exclusively by vehicles with a disabled placard or license plate. Unauthorized use is a violation of the law."
+  },
+  {
+    "id": "5f792e3b-5f01-40f1-847a-2943d2cfcfbf",
+    "question": "When a school bus has flashing red lights and an extended stop sign, you must stay stopped until:",
+    "answers": [
+      {
+        "text": "The bus retracts its stop sign.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The red lights stop flashing.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The bus begins to move and no children are on the road.",
+        "explanation": "You must come to a complete stop for a school bus with flashing red lights and an extended stop sign and remain stopped until all children have cleared the roadway and the bus proceeds forward.",
+        "isCorrect": true
+      },
+      {
+        "text": "The bus begins to move.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "You must come to a complete stop for a school bus with flashing red lights and an extended stop sign and remain stopped until all children have cleared the roadway and the bus proceeds forward."
+  },
+  {
+    "id": "a2936a77-8e78-4b3a-a4d1-ec5d0fe4e135",
+    "question": "What is the recommended time gap for a safe lane change?",
+    "answers": [
+      {
+        "text": "Two- to three-second window of space.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Three- to four-second window of space.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Four- to five-second window of space.",
+        "explanation": "Before moving into another lane, ensure there is a four- to five-second window of space. Signal your intent, check blind spots, and proceed safely into the lane while making sure other vehicles are not attempting to do the same.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Before moving into another lane, ensure there is a four- to five-second window of space. Signal your intent, check blind spots, and proceed safely into the lane while making sure other vehicles are not attempting to do the same."
+  },
+  {
+    "id": "49d20837-df9d-47d1-9e0a-6e38c84a929f",
+    "question": "In winter driving conditions with ice or snow present, should cruise control be used?",
+    "answers": [
+      {
+        "text": "True",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "False",
+        "explanation": "Using cruise control on icy or snowy roads can be dangerous as it may cause your vehicle to lose traction and control.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Using cruise control on icy or snowy roads can be dangerous as it may cause your vehicle to lose traction and control."
+  },
+  {
+    "id": "785e4a1d-15f3-40fc-b36f-2a62422582f7",
+    "question": "All of the following are essential for safe backing, except:",
+    "answers": [
+      {
+        "text": "Using your vehicle's mirrors to check your surroundings.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Turning your head to the right to look behind you.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Honing the horn to alert others before reversing.",
+        "explanation": "Ensure safety by honking the horn before you start to back up, which alerts nearby pedestrians and drivers.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Ensure safety by honking the horn before you start to back up, which alerts nearby pedestrians and drivers."
+  },
+  {
+    "id": "4b46677e-b2b9-4c9c-a1fd-b9e5cf9af86d",
+    "question": "What should you do when you reach an intersection with a flashing yellow light?",
+    "answers": [
+      {
+        "text": "Treat it as if it were a stop sign.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Come to a complete stop and let any cross traffic pass before continuing.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduce your speed and proceed cautiously through the intersection.",
+        "explanation": "A flashing yellow light indicates you should slow down and proceed through the intersection with caution, being vigilant of pedestrians, cyclists, and other vehicles.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "A flashing yellow light indicates you should slow down and proceed through the intersection with caution, being vigilant of pedestrians, cyclists, and other vehicles."
+  },
+  {
+    "id": "62f4de79-d00d-45ac-8c88-a0822ab5b96a",
+    "question": "If two vehicles approach an intersection from different roads simultaneously, which vehicle should give way?",
+    "answers": [
+      {
+        "text": "The car on the left must yield",
+        "explanation": "",
+        "isCorrect": true
+      },
+      {
+        "text": "The car on the right must yield",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "No yielding is required",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Neither vehicle needs to yield",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "4e1779a4-ff6f-4593-9e9d-1ae14e89a40c",
+    "question": "A defective exhaust system might:",
+    "answers": [
+      {
+        "text": "Trigger an engine warning light.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Increase brake wear.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Cause you to become sleepy while driving.",
+        "explanation": "Carbon monoxide exposure from a faulty exhaust can lead to drowsiness or worse.",
+        "isCorrect": true
+      },
+      {
+        "text": "Generate sparks that can start fires.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Carbon monoxide exposure from a faulty exhaust can lead to drowsiness or worse."
+  },
+  {
+    "id": "d9471ecd-1d5a-4b1d-833a-9aca5c83b6bf",
+    "question": "While driving in the right lane on a multi-lane road, how should you safely switch to the left lane?",
+    "answers": [
+      {
+        "text": "Check your rearview mirror to see if any vehicles are close behind.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Glance over your shoulder to ensure there is no vehicle in your blind spot.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Use your side mirrors for a clearer view and activate your turn signal.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above.",
+        "explanation": "All of these steps are essential to safely change lanes.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": "All of these steps are essential to safely change lanes."
+  },
+  {
+    "id": "37ec9e40-45e4-4fbf-aa8d-62670797fe31",
+    "question": "When is it not permissible to cross a single broken white or yellow line?",
+    "answers": [
+      {
+        "text": "If doing so would disrupt other vehicles.",
+        "explanation": "Crossing a single broken line is allowed if it does not disrupt the flow of traffic.",
+        "isCorrect": true
+      },
+      {
+        "text": "When making a left turn into a parking lot.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "When the vehicle ahead of you is stopped.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "When changing lanes on a multi-lane road.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Crossing a single broken line is allowed if it does not disrupt the flow of traffic."
+  },
+  {
+    "id": "b241c948-7974-4d2a-b6be-7a662c955553",
+    "question": "Rear-end crashes often occur because the trailing vehicle is too close.",
+    "answers": [
+      {
+        "text": "True",
+        "explanation": "Keeping a safe following distance can prevent many rear-end accidents.",
+        "isCorrect": true
+      },
+      {
+        "text": "False",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Keeping a safe following distance can prevent many rear-end accidents."
+  },
+  {
+    "id": "b0153a52-c2d7-4cc4-8d0c-a3428fcfb0a4",
+    "question": "What should you do as you near a roundabout?",
+    "answers": [
+      {
+        "text": "Accelerate upon reaching the roundabout.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Keep your current speed constant.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduce your speed upon approach.",
+        "explanation": "Slow down as you approach. Roundabouts are designed to control traffic at lower speeds. Only enter when it's safe.",
+        "isCorrect": true
+      },
+      {
+        "text": "Come to a complete stop.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Slow down as you approach. Roundabouts are designed to control traffic at lower speeds. Only enter when it's safe."
+  },
+  {
+    "id": "6c9c2bc8-fefc-4d15-b05e-92715fb13483",
+    "question": "What should you do if you experience a tire blowout while driving?",
+    "answers": [
+      {
+        "text": "Hold the steering wheel tightly, reduce speed, and move out of the traffic lane when safe.",
+        "explanation": "If a tire blows out, remain calm, hold the steering wheel firmly, ease off the gas pedal, and let the car slow down gradually. Move the vehicle off the roadway only when it is safe.",
+        "isCorrect": true
+      },
+      {
+        "text": "Quickly pump the brakes.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Apply the brakes fully and steer towards the shoulder immediately.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "If a tire blows out, remain calm, hold the steering wheel firmly, ease off the gas pedal, and let the car slow down gradually. Move the vehicle off the roadway only when it is safe."
+  },
+  {
+    "id": "04a92613-0a60-4258-8700-bade2c39f810",
+    "question": "At a railroad crossing, when are you required to stop?",
+    "answers": [
+      {
+        "text": "Instructed to stop by a crossing guard.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "There is a stop sign posted.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Red lights are flashing and the gates are down.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above.",
+        "explanation": "You need to stop at a railroad crossing when you are instructed by a crossing guard, when there is a stop sign, or when red lights are flashing and the gates are down.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": "You need to stop at a railroad crossing when you are instructed by a crossing guard, when there is a stop sign, or when red lights are flashing and the gates are down."
+  },
+  {
+    "id": "a9c03a13-e493-4561-b67e-efa14847918d",
+    "question": "What is the appropriate action for a driver who is in an intersection waiting to turn left when the light turns red?",
+    "answers": [
+      {
+        "text": "Stay in the intersection until the light changes to green.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Give way to traffic and complete the turn safely.",
+        "explanation": "If you are already in the intersection for a left turn when the light turns red, you should yield to oncoming traffic and finish the turn.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reverse out of the intersection if it is safe to do so.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "If you are already in the intersection for a left turn when the light turns red, you should yield to oncoming traffic and finish the turn."
+  },
+  {
+    "id": "dbab4c5d-d305-4f3f-9a2c-252994c7fe09",
+    "question": "You are driving in the left lane on a multi-lane road and vehicles are passing you on the right. If a faster driver is behind you, what should you do?",
+    "answers": [
+      {
+        "text": "Remain in the left lane to allow for easy passing.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Pull over onto the right shoulder and let the other car pass.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Safely switch to the right lane to allow faster vehicles to overtake.",
+        "explanation": "In most situations, slower traffic should keep to the right to allow faster traffic to pass on the left.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "In most situations, slower traffic should keep to the right to allow faster traffic to pass on the left."
+  },
+  {
+    "id": "b717f137-e800-422c-a6b0-132f8e71cc16",
+    "question": "What should you do if an approaching train is close enough to be a danger?",
+    "answers": [
+      {
+        "text": "Drive slowly and be cautious when crossing.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Wait until the train has fully passed before proceeding.",
+        "explanation": "It is crucial to wait until the train has passed completely to avoid any potential danger, even if it seems safe to cross.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cross quickly if the train is far away.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "It is crucial to wait until the train has passed completely to avoid any potential danger, even if it seems safe to cross."
+  },
+  {
+    "id": "f2b43e40-834d-41c2-b103-52406ab31f91",
+    "question": "From which parts of the vehicle should snow and ice be cleared before driving?",
+    "answers": [
+      {
+        "text": "All windows of the car.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The hood of the car.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The roof of the car.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above.",
+        "explanation": "Law mandates drivers to clear snow and ice from the entire vehicle before driving. Non-compliance can lead to fines.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": "Law mandates drivers to clear snow and ice from the entire vehicle before driving. Non-compliance can lead to fines."
+  },
+  {
+    "id": "c06838f1-4822-4154-8de1-e13afb3ba1d7",
+    "question": "Which type of lines typically marks lanes that allow traffic direction to change?",
+    "answers": [
+      {
+        "text": "Single solid yellow lines.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Double dashed yellow lines.",
+        "explanation": "Reversible lanes are often indicated by double dashed yellow lines to show that traffic flow can change direction.",
+        "isCorrect": true
+      },
+      {
+        "text": "Single dashed white lines.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Double solid white lines.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Reversible lanes are often indicated by double dashed yellow lines to show that traffic flow can change direction."
+  },
+  {
+    "id": "2b278fca-ba7d-41cc-a337-f9cdc98b0094",
+    "question": "How can you practice defensive driving?",
+    "answers": [
+      {
+        "text": "Keep an eye on potential traffic changes around you.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Regularly scan the road ahead and keep a safe distance behind other vehicles.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Always be prepared with an alternative action plan.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "explanation": "Defensive driving includes staying aware of traffic developments, maintaining proper following distances, and having a backup plan for unexpected situations.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": "Defensive driving includes staying aware of traffic developments, maintaining proper following distances, and having a backup plan for unexpected situations."
+  },
+  {
+    "id": "99c9b01d-48d5-4a67-ba40-a3d40552ea83",
+    "question": "Where is ice likely to form on roadways first?",
+    "answers": [
+      {
+        "text": "At intersections",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "On bridges and elevated roads",
+        "explanation": "Elevated road surfaces like bridges tend to freeze before other parts of the road.",
+        "isCorrect": true
+      },
+      {
+        "text": "In tunnels",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Elevated road surfaces like bridges tend to freeze before other parts of the road."
+  },
+  {
+    "id": "627da0a4-d2ad-42ae-8350-ad03443cb18b",
+    "question": "What does a solid yellow line on your side of the road signify?",
+    "answers": [
+      {
+        "text": "Reduce your speed.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Proceed carefully.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Passing is prohibited.",
+        "explanation": "A solid yellow line on your side indicates that you must not pass vehicles ahead of you.",
+        "isCorrect": true
+      },
+      {
+        "text": "Stay to the right.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "A solid yellow line on your side indicates that you must not pass vehicles ahead of you."
+  },
+  {
+    "id": "47d7e2e6-e732-42a0-ae35-39a7d4f12476",
+    "question": "Which of the following behaviors describe an inattentive driver?",
+    "answers": [
+      {
+        "text": "Gets easily distracted by objects or activities not related to driving.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Focuses on making eye contact with passengers while driving.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Concentrates only on the vehicle directly in front of them.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above.",
+        "explanation": "To avoid inattentive driving, refrain from becoming distracted by objects or activities unrelated to driving. Always scan the road, check mirrors, and monitor the instrument panel regularly. Developing these habits will keep you focused and safe.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": "To avoid inattentive driving, refrain from becoming distracted by objects or activities unrelated to driving. Always scan the road, check mirrors, and monitor the instrument panel regularly. Developing these habits will keep you focused and safe."
+  },
+  {
+    "id": "3a2d061e-fde3-4529-9546-3abfa559f6a5",
+    "question": "Roads tend to be most slippery:",
+    "answers": [
+      {
+        "text": "When it's raining heavily for an extended period.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "When the rain has just begun after a dry period.",
+        "explanation": "The initial rain after a dry spell can make road surfaces extremely slippery due to a mix of oil and dust.",
+        "isCorrect": true
+      },
+      {
+        "text": "When the road is consistently wet.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The initial rain after a dry spell can make road surfaces extremely slippery due to a mix of oil and dust."
+  },
+  {
+    "id": "bb00f9cf-7169-46cf-81d8-e6a4c1103d99",
+    "question": "What should you do when driving on gravel or dirt roads?",
+    "answers": [
+      {
+        "text": "You should increase your speed to avoid slipping on the surface.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Traction is reduced on gravel or dirt roads, requiring you to reduce your speed.",
+        "explanation": "Loose gravel and dirt surfaces offer less grip for your tires compared to paved roads. It is necessary to slow down to maintain control and decrease stopping distances.",
+        "isCorrect": true
+      },
+      {
+        "text": "These surfaces provide better traction than asphalt or concrete.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Loose gravel and dirt surfaces offer less grip for your tires compared to paved roads. It is necessary to slow down to maintain control and decrease stopping distances."
+  },
+  {
+    "id": "2db4e5d2-d439-47ac-b2ca-79dac0f7aa64",
+    "question": "How are bicycles classified in terms of road use?",
+    "answers": [
+      {
+        "text": "Only permitted on designated bicycle lanes.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Classified as vehicles with the same rights and responsibilities as motor vehicles.",
+        "explanation": "Bicycles are classified as vehicles, and cyclists must adhere to the same traffic laws as drivers of motor vehicles, including riding on most public roads.",
+        "isCorrect": true
+      },
+      {
+        "text": "Subject to different rules than motor vehicles.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Required to use pedestrian sidewalks.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Bicycles are classified as vehicles, and cyclists must adhere to the same traffic laws as drivers of motor vehicles, including riding on most public roads."
+  },
+  {
+    "id": "4975b8b4-5df4-4d28-9bf6-d91803953d59",
+    "question": "If you are in an accident, a driver must:",
+    "answers": [
+      {
+        "text": "Park safely away from traffic.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoid standing or walking in travel lanes.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Switch off the engines of damaged vehicles.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above.",
+        "explanation": "In the event of a collision, you should stop safely near the accident, avoid walking in traffic lanes, and turn off the ignitions of any damaged vehicles.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": "In the event of a collision, you should stop safely near the accident, avoid walking in traffic lanes, and turn off the ignitions of any damaged vehicles."
+  },
+  {
+    "id": "2cc9e38a-aa2f-4108-b44a-ba071429e949",
+    "question": "When is it permissible to cross double yellow lines to overtake another car?",
+    "answers": [
+      {
+        "text": "You are driving next to a solid yellow line.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "There is a broken yellow line on your side.",
+        "explanation": "You are allowed to pass if the line closest to your lane is broken.",
+        "isCorrect": true
+      },
+      {
+        "text": "The opposing lane has a broken yellow line.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "You are allowed to pass if the line closest to your lane is broken."
+  },
+  {
+    "id": "a85591bf-515e-4650-bbd9-bceef3e7dab2",
+    "question": "How should a driver respond when facing a Pedestrian Hybrid Beacon displaying a solid yellow light?",
+    "answers": [
+      {
+        "text": "Continue driving without stopping.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Bring your vehicle to a halt and then drive cautiously.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduce speed and be ready to stop.",
+        "explanation": "When approaching a Pedestrian Hybrid Beacon showing a solid yellow light, it indicates you should slow down and prepare to stop for pedestrians.",
+        "isCorrect": true
+      },
+      {
+        "text": "Stop entirely and wait until you see a green light.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "When approaching a Pedestrian Hybrid Beacon showing a solid yellow light, it indicates you should slow down and prepare to stop for pedestrians."
+  },
+  {
+    "id": "7824e6a7-91ef-4d7b-9c07-de9b1365235d",
+    "question": "What does a solid red arrow mean on a traffic signal?",
+    "answers": [
+      {
+        "text": "Means that turning in the direction of the arrow is prohibited.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Indicates the same restriction as a solid red light.",
+        "explanation": "A solid red arrow in a traffic signal indicates the same restriction as a circular red traffic light. This means vehicles in the designated lane must stop and cannot turn in the arrow's direction.",
+        "isCorrect": true
+      },
+      {
+        "text": "Signals drivers to proceed with caution in the arrow\u2019s direction.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "A solid red arrow in a traffic signal indicates the same restriction as a circular red traffic light. This means vehicles in the designated lane must stop and cannot turn in the arrow's direction."
+  },
+  {
+    "id": "1d046df6-08ea-45cd-8f28-3326ff8aa90b",
+    "question": "What is a trait of a defensive driver?",
+    "answers": [
+      {
+        "text": "Alertness",
+        "explanation": "A defensive driver remains aware and prepared for potential hazards.",
+        "isCorrect": true
+      },
+      {
+        "text": "Indifference",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Easily frustrated",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Recklessness",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "A defensive driver remains aware and prepared for potential hazards."
+  },
+  {
+    "id": "8f2651bd-d85a-44eb-99d1-c39406ed61fd",
+    "question": "When facing a red arrow pointing right at a traffic signal, you should:",
+    "answers": [
+      {
+        "text": "Proceed in that direction after checking for other vehicles and pedestrians.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Remain stopped until the arrow changes to green.",
+        "explanation": "A red arrow indicates that turning in that direction is prohibited. You must wait for a green arrow before making a turn.",
+        "isCorrect": true
+      },
+      {
+        "text": "Turn right after coming to a full stop and ensuring the way is clear.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "A red arrow indicates that turning in that direction is prohibited. You must wait for a green arrow before making a turn."
+  },
+  {
+    "id": "fca3201b-1d44-4bdd-88fd-bf1d612e0e7a",
+    "question": "What potential driving hazards are increased in the fall season?",
+    "answers": [
+      {
+        "text": "Wet leaves accumulating on the streets",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Foggy conditions during early mornings",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduced daylight hours",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above",
+        "explanation": "All options mentioned pose risks while driving during autumn. Wet leaves can make the road slippery, fog can reduce visibility, and shorter daylight hours can lead to more driving in low light conditions. Exercise caution during these times.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": "All options mentioned pose risks while driving during autumn. Wet leaves can make the road slippery, fog can reduce visibility, and shorter daylight hours can lead to more driving in low light conditions. Exercise caution during these times."
+  },
+  {
+    "id": "d49b4f9d-9d37-4c92-be17-34438a249554",
+    "question": "When making a left turn from a two-way street onto a one-way street, where should you enter?",
+    "answers": [
+      {
+        "text": "Choose any lane that is open.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Enter the first lane you reach.",
+        "explanation": "When making a left turn from a two-way street to a one-way street, it is essential to enter the first legal lane available to you, ensuring a safe and proper turn.",
+        "isCorrect": true
+      },
+      {
+        "text": "Move directly to the farthest lane.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "When making a left turn from a two-way street to a one-way street, it is essential to enter the first legal lane available to you, ensuring a safe and proper turn."
+  },
+  {
+    "id": "b0056f69-00d5-491a-a8a0-73335be165f2-revised",
+    "question": "If you encounter drivers exhibiting road rage, what is the best course of action?",
+    "answers": [
+      {
+        "text": "Avoid making eye contact.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Refrain from using hand gestures.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Stay away from confrontational drivers.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "All of the above.",
+        "explanation": "When others show road rage, it is important to keep a safe distance, avoid engaging with them, and not provoke with gestures or eye contact.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": "When others show road rage, it is important to keep a safe distance, avoid engaging with them, and not provoke with gestures or eye contact."
+  },
+  {
+    "id": "c7dd8ebe-8f9f-4219-89b9-ebb26d010d53",
+    "question": "Under regular traffic and weather conditions, how much space should you keep when following a motorcycle?",
+    "answers": [
+      {
+        "text": "One second.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Two seconds.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Three to four seconds.",
+        "explanation": "A safe cushion of three to four seconds between your vehicle and a motorcycle allows you enough time to react in case the motorcyclist stops or falls.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "A safe cushion of three to four seconds between your vehicle and a motorcycle allows you enough time to react in case the motorcyclist stops or falls."
+  },
+  {
+    "id": "5fa02ab1-8646-4920-ac01-f43fbfd65162",
+    "question": "If you see a pedestrian with a guide dog or white cane trying to cross the street:",
+    "answers": [
+      {
+        "text": "You must always give way to them.",
+        "explanation": "Pedestrians who are blind or partially sighted may have a white cane or a guide dog. It is mandatory to always give way to them.",
+        "isCorrect": true
+      },
+      {
+        "text": "You should instruct them on the safest route.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "You only need to yield if they are at a crosswalk.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Pedestrians who are blind or partially sighted may have a white cane or a guide dog. It is mandatory to always give way to them."
+  },
+  {
+    "id": "ebc89316-e03a-45c0-8169-dfa712b6f295",
+    "question": "What should you do immediately if your brakes fail while driving?",
+    "answers": [
+      {
+        "text": "Engage the emergency brake immediately.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Attempt pumping the brake pedal repeatedly to regain pressure.",
+        "explanation": "When your brakes fail, pumping the brake pedal several times can help restore brake pressure, enabling you to stop.",
+        "isCorrect": true
+      },
+      {
+        "text": "Turn on your hazard lights to alert other drivers.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Start honking the horn continuously.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "When your brakes fail, pumping the brake pedal several times can help restore brake pressure, enabling you to stop."
+  },
+  {
+    "id": "893c4216-7fae-4acd-ba14-f0aae082b25f",
+    "question": "What is a safe driving practice when traveling through a construction area?",
+    "answers": [
+      {
+        "text": "Stick closely behind the car in front of you.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Overtake the vehicle ahead quickly.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Maintain a safe distance and avoid following too closely.",
+        "explanation": "In work zones, it's important to keep a safe following distance to allow room for sudden stops or unexpected hazards. Avoid tailgating to ensure everyone's safety.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "In work zones, it's important to keep a safe following distance to allow room for sudden stops or unexpected hazards. Avoid tailgating to ensure everyone's safety."
+  },
+  {
+    "id": "6a468eaf-1d6a-4c26-bf1f-f1e272064e00",
+    "question": "When you have the right-of-way at an intersection, what should you do?",
+    "answers": [
+      {
+        "text": "Proceed immediately once you stop.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Wave at others to signal your intentions.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Expect other vehicles to yield the right-of-way.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Look both ways for traffic, pedestrians, and cyclists before moving ahead.",
+        "explanation": "Before advancing, ensure to check oncoming traffic, pedestrians, and cyclists by looking left, right, and left again, even if you have the right-of-way.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": "Before advancing, ensure to check oncoming traffic, pedestrians, and cyclists by looking left, right, and left again, even if you have the right-of-way."
+  },
+  {
+    "id": "e981a21a-a489-4257-b2a9-9653a6581526",
+    "question": "What should drivers do upon reaching a roundabout?",
+    "answers": [
+      {
+        "text": "Stop within the roundabout.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Give way to cars already circulating in the roundabout.",
+        "explanation": "In a roundabout, traffic flows counterclockwise around a central island. Drivers must yield to traffic already in the roundabout before entering.",
+        "isCorrect": true
+      },
+      {
+        "text": "Give priority to vehicles entering the roundabout.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "In a roundabout, traffic flows counterclockwise around a central island. Drivers must yield to traffic already in the roundabout before entering."
+  },
+  {
+    "id": "6ff09e6a-f65a-46f1-86ac-a53c7aec1c1f",
+    "question": "What is a common cause of 'highway hypnosis'?",
+    "answers": [
+      {
+        "text": "Gazing at a single spot on the road for too long.",
+        "explanation": "Focusing on one point for too long can cause drowsiness and decreased alertness.",
+        "isCorrect": true
+      },
+      {
+        "text": "Taking regular breaks during a long drive.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Sleeping for an extended period before your journey.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Driving for short distances on highways.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Focusing on one point for too long can cause drowsiness and decreased alertness."
+  },
+  {
+    "id": "fa72c371-58ee-40ff-8225-3739c3685087",
+    "question": "What markings can be found on some highways to guide traffic into proper lanes for maneuvers?",
+    "answers": [
+      {
+        "text": "Flashing red lights",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Flashing yellow lights",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "White lines along the road",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "White arrows on the road",
+        "explanation": "White arrows on the road surface help guide drivers into the correct lanes for driving straight or making specific turns.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": "White arrows on the road surface help guide drivers into the correct lanes for driving straight or making specific turns."
+  },
+  {
+    "id": "8476a12a-c1fb-4525-a397-3c9d329645c7",
+    "question": "You're in a rush to leave. What should you do before reversing onto the road?",
+    "answers": [
+      {
+        "text": "Sound your horn to notify others.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Inspect the surroundings of your vehicle for obstacles.",
+        "explanation": "Always survey the area around your car for potential hazards.",
+        "isCorrect": true
+      },
+      {
+        "text": "Start your car loudly to scare off animals.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Look for oncoming traffic before entering your car.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Always survey the area around your car for potential hazards."
+  },
+  {
+    "id": "32a45dee-81b6-4b32-9aa8-d90e8f4ca8dd",
+    "question": "What is the best response when confronted by an aggressive driver?",
+    "answers": [
+      {
+        "text": "Drive past them quickly.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Allow them to pass you.",
+        "explanation": "It is important to prioritize safety and avoid escalation with aggressive drivers. Letting them pass you minimizes the risk of a dangerous situation.",
+        "isCorrect": true
+      },
+      {
+        "text": "Engage with them.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "It is important to prioritize safety and avoid escalation with aggressive drivers. Letting them pass you minimizes the risk of a dangerous situation."
+  },
+  {
+    "id": "2cfd2c48-009b-487e-821b-0341f0234519",
+    "question": "What could happen to a cyclist who ignores traffic regulations?",
+    "answers": [
+      {
+        "text": "Is exempt from traffic laws that apply to motor vehicles.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "May receive a traffic citation.",
+        "explanation": "Bicyclists are subject to the same traffic rules and can be cited for violations.",
+        "isCorrect": true
+      },
+      {
+        "text": "Will be given a verbal warning.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Will have their bike confiscated.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Bicyclists are subject to the same traffic rules and can be cited for violations."
+  },
+  {
+    "id": "20afa15e-6fbe-433b-bbc0-44244caa2e30",
+    "question": "When the traffic light is red and you want to turn right at an intersection, what should you do?",
+    "answers": [
+      {
+        "text": "Drive through the intersection if there are no other vehicles or pedestrians.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Fully stop, check for pedestrians and traffic, then proceed when safe.",
+        "explanation": "When turning right on red, you must come to a complete stop, check for pedestrians and other vehicles, and only proceed when it is clear and safe.",
+        "isCorrect": true
+      },
+      {
+        "text": "Continue driving as normal since you have the right-of-way.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "When turning right on red, you must come to a complete stop, check for pedestrians and other vehicles, and only proceed when it is clear and safe."
+  },
+  {
+    "id": "248f1026-fb59-4ec8-a6c8-8ed8ed4f2d1c",
+    "question": "After drinking several alcoholic beverages, how can you effectively reduce the alcohol's impact on your body?",
+    "answers": [
+      {
+        "text": "Engaging in physical exercise.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Allowing sufficient time to pass.",
+        "explanation": "The most reliable way to sober up after consuming alcohol is to wait for your body to metabolize it naturally. Physical activity, energy drinks, or other methods do not hasten this process.",
+        "isCorrect": true
+      },
+      {
+        "text": "Consuming energy drinks.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The most reliable way to sober up after consuming alcohol is to wait for your body to metabolize it naturally. Physical activity, energy drinks, or other methods do not hasten this process."
   }
 ]

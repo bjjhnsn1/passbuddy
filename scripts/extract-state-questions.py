@@ -3,9 +3,29 @@
 import json
 import os
 import random
+import re
 
 BASE = "/Users/brianjohnson/dev"
 OUT = "/Users/brianjohnson/dev/passbuddy/public/data"
+
+IMAGE_PATTERNS = re.compile(
+    r'this sign|this image|shown above|this picture|this symbol|'
+    r'the sign shown|following sign|this figure|the image|'
+    r'what does this sign|the picture|the figure|this logo|'
+    r'sign above|image above|the diagram',
+    re.IGNORECASE
+)
+
+def has_image_reference(q):
+    text = q.get("question", "")
+    if IMAGE_PATTERNS.search(text):
+        return True
+    if q.get("image_src") and q["image_src"] != "null":
+        return True
+    return False
+
+def filter_no_images(questions):
+    return [q for q in questions if not has_image_reference(q)]
 
 def transform_question(q):
     answers = []
@@ -43,14 +63,16 @@ with open("/Users/brianjohnson/dev/passbuddy/src/data/states.json") as f:
 
 # Load DMV questions
 dmv_path = f"{BASE}/DMVTest/DMVTest/Models/QuestionBank/Static/questions_en.json"
-dmv_all = json.load(open(dmv_path))
+dmv_raw = json.load(open(dmv_path))
+dmv_all = filter_no_images(dmv_raw)
 
 # Load Motorcycle questions
 moto_path = f"{BASE}/CycleTest/CycleTest/Models/QuestionBank/Static/questions.json"
-moto_all = json.load(open(moto_path))
+moto_raw = json.load(open(moto_path))
+moto_all = filter_no_images(moto_raw)
 
-print(f"DMV pool: {len(dmv_all)} questions")
-print(f"Motorcycle pool: {len(moto_all)} questions")
+print(f"DMV pool: {len(dmv_all)} questions (filtered from {len(dmv_raw)})")
+print(f"Motorcycle pool: {len(moto_all)} questions (filtered from {len(moto_raw)})")
 
 # For each state, create DMV and motorcycle question files
 # Use different random seeds per state so each state gets different questions
@@ -63,7 +85,7 @@ for i, state in enumerate(states):
         s.lower().replace("-", " ").replace("_", " ") == state_name.replace("-", " ")
         for s in q.get("state", [])
     )]
-    if not dmv_state_qs:
+    if len(dmv_state_qs) < 20:
         dmv_state_qs = dmv_all
 
     random.seed(42 + i)

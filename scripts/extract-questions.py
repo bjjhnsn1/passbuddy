@@ -4,8 +4,31 @@ import json
 import os
 import random
 
+import re
+
 BASE = "/Users/brianjohnson/dev"
-OUT = "/Users/brianjohnson/dev/Hypothetical-Capital/apps/passbuddy/public/data"
+OUT = "/Users/brianjohnson/dev/passbuddy/public/data"
+
+IMAGE_PATTERNS = re.compile(
+    r'this sign|this image|shown above|this picture|this symbol|'
+    r'the sign shown|following sign|this figure|the image|'
+    r'what does this sign|the picture|the figure|this logo|'
+    r'sign above|image above|the diagram',
+    re.IGNORECASE
+)
+
+def has_image_reference(q):
+    """Return True if the question references an image we can't display."""
+    text = q.get("question", "") + " " + q.get("original_question", {}).get("question", "") if isinstance(q.get("original_question"), dict) else q.get("question", "")
+    if IMAGE_PATTERNS.search(text):
+        return True
+    if q.get("image_src") and q["image_src"] != "null":
+        return True
+    return False
+
+def filter_no_images(questions):
+    """Remove questions that reference images."""
+    return [q for q in questions if not has_image_reference(q)]
 
 def transform_question(q):
     """Normalize question to common format."""
@@ -46,7 +69,7 @@ def save_json(path, data):
 
 # --- CDL (TestTests) ---
 cdl_path = f"{BASE}/TestTests/ExamPreppy/Models/QuestionBank/Static/questions_en.json"
-cdl_all = load_json(cdl_path)
+cdl_all = filter_no_images(load_json(cdl_path))
 cdl_category_map = {
     "General Knowledge": "general-knowledge",
     "HazMat": "hazmat",
@@ -74,7 +97,7 @@ save_json(f"{OUT}/cdl/index.json", [transform_question(q) for q in pick_question
 
 # --- DMV (DMVTest) ---
 dmv_path = f"{BASE}/DMVTest/DMVTest/Models/QuestionBank/Static/questions_en.json"
-dmv_all = load_json(dmv_path)
+dmv_all = filter_no_images(load_json(dmv_path))
 states_map = {
     "california": "california",
     "texas": "texas",
@@ -97,13 +120,13 @@ save_json(f"{OUT}/dmv/index.json", [transform_question(q) for q in pick_question
 
 # --- Motorcycle (CycleTest) ---
 moto_path = f"{BASE}/CycleTest/CycleTest/Models/QuestionBank/Static/questions.json"
-moto_all = load_json(moto_path)
+moto_all = filter_no_images(load_json(moto_path))
 print("Motorcycle:")
 save_json(f"{OUT}/motorcycle/index.json", [transform_question(q) for q in pick_questions(moto_all)])
 
 # --- ServSafe ---
 ss_path = f"{BASE}/ServSafe/ServSafeApp/Models/QuestionBank/Static/questions_en.json"
-ss_all = load_json(ss_path)
+ss_all = filter_no_images(load_json(ss_path))
 print("ServSafe:")
 ss_handler = [q for q in ss_all if "ServSafe Food Handler" in q.get("state", [])]
 ss_manager = [q for q in ss_all if "ServSafe Manager" in q.get("state", [])]
