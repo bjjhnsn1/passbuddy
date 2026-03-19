@@ -3,7 +3,7 @@ import { ExamConfig } from "./types";
 const CDL_APP_STORE = "https://apps.apple.com/app/cdl-test-prep-study-buddy/id6444111149";
 const DMV_APP_STORE = "https://apps.apple.com/app/dmv-study-buddy/id6504884269";
 const MOTO_APP_STORE = "https://apps.apple.com/app/motorcycle-permit-study-buddy/id6450431915";
-const SS_APP_STORE = "https://apps.apple.com/app/servsafe-practice-test-prep/id6467704764";
+const SS_APP_STORE = "https://apps.apple.com/us/app/servsafe-study-buddy-test-prep/id6759570146";
 
 function utm(url: string, topic: string) {
   return `${url}?utm_source=passbuddy&utm_medium=web&utm_campaign=${topic}`;

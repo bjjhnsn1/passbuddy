@@ -8,7 +8,7 @@ interface StateGridProps {
 
 export default function StateGrid({ prefix, labelSuffix }: StateGridProps) {
   return (
-    <div className="mt-12">
+    <div className="mt-12" id="all-states">
       <h2 className="text-2xl font-bold text-gray-900 mb-6 text-center">
         All 50 States
       </h2>
