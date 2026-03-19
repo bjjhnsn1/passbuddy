@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import GoogleAnalytics from "@/components/GoogleAnalytics";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -9,6 +10,9 @@ export const metadata: Metadata = {
   description:
     "Free practice exams with instant feedback. Prepare for your CDL, DMV, motorcycle permit, or ServSafe certification exam.",
   metadataBase: new URL("https://passbuddy.app"),
+  verification: {
+    google: process.env.NEXT_PUBLIC_GSC_VERIFICATION,
+  },
 };
 
 export default function RootLayout({
@@ -18,7 +22,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.className} antialiased`}>{children}</body>
+      <body className={`${inter.className} antialiased`}>
+        <GoogleAnalytics />
+        {children}
+      </body>
     </html>
   );
 }
