@@ -26,21 +26,28 @@ const categories = [
   {
     title: "DMV Practice Test",
     description:
-      "State-specific DMV written test prep for your driver's license.",
+      "State-specific DMV written test prep for your driver's license. Available for all 50 states.",
     href: "/dmv",
     topics: [
       { label: "California", href: "/dmv/california" },
       { label: "Texas", href: "/dmv/texas" },
       { label: "Florida", href: "/dmv/florida" },
       { label: "New York", href: "/dmv/new-york" },
+      { label: "All 50 States", href: "/dmv" },
     ],
   },
   {
     title: "Motorcycle Permit Test",
     description:
-      "Motorcycle permit exam prep covering road safety and riding techniques.",
+      "State-specific motorcycle permit exam prep. Covers road safety and riding techniques for all 50 states.",
     href: "/motorcycle",
-    topics: [],
+    topics: [
+      { label: "California", href: "/motorcycle/california" },
+      { label: "Texas", href: "/motorcycle/texas" },
+      { label: "Florida", href: "/motorcycle/florida" },
+      { label: "New York", href: "/motorcycle/new-york" },
+      { label: "All 50 States", href: "/motorcycle" },
+    ],
   },
   {
     title: "ServSafe Practice Test",
@@ -102,8 +109,18 @@ export default function Home() {
         </div>
       </main>
 
-      <footer className="border-t border-gray-200 mt-16 py-8 text-center text-gray-500 text-sm">
-        <p>&copy; {new Date().getFullYear()} PassBuddy. All rights reserved.</p>
+      <footer className="border-t border-gray-200 mt-16 py-8">
+        <div className="max-w-4xl mx-auto px-4">
+          <div className="flex flex-wrap justify-center gap-4 mb-4 text-sm">
+            <Link href="/cdl" className="text-gray-500 hover:text-blue-600">CDL Practice Test</Link>
+            <Link href="/dmv" className="text-gray-500 hover:text-blue-600">DMV Practice Test</Link>
+            <Link href="/motorcycle" className="text-gray-500 hover:text-blue-600">Motorcycle Practice Test</Link>
+            <Link href="/servsafe" className="text-gray-500 hover:text-blue-600">ServSafe Practice Test</Link>
+          </div>
+          <p className="text-center text-gray-400 text-sm">
+            &copy; {new Date().getFullYear()} PassBuddy. All rights reserved.
+          </p>
+        </div>
       </footer>
     </div>
   );
