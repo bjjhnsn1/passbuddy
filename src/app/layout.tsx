@@ -1,0 +1,24 @@
+import type { Metadata } from "next";
+import { Inter } from "next/font/google";
+import "./globals.css";
+
+const inter = Inter({ subsets: ["latin"] });
+
+export const metadata: Metadata = {
+  title: "PassBuddy - Free Practice Exams for CDL, DMV, Motorcycle & ServSafe",
+  description:
+    "Free practice exams with instant feedback. Prepare for your CDL, DMV, motorcycle permit, or ServSafe certification exam.",
+  metadataBase: new URL("https://passbuddy.app"),
+};
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="en">
+      <body className={`${inter.className} antialiased`}>{children}</body>
+    </html>
+  );
+}

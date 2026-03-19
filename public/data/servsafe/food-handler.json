@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "5eb6b392-5f3d-4d2d-af53-5d5e8c57a341",
+    "question": "Which of the following actions by a food handler can directly contaminate ready-to-eat food?",
+    "answers": [
+      {
+        "text": "Handling ready-to-eat food with bare hands",
+        "explanation": "The ServSafe study guide states that food handlers must not touch ready-to-eat (RTE) food with bare hands. Hands can carry pathogens even when they appear clean, and since RTE foods receive no further cooking step to kill pathogens, bare-hand contact can directly introduce illness-causing microorganisms. Suitable utensils, deli tissue, or single-use gloves must be used instead.",
+        "isCorrect": true
+      },
+      {
+        "text": "Wearing a clean apron while working the grill station",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Using tongs to plate a cooked entr\u00e9e",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Storing personal drinks in a covered container in a designated area",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The ServSafe study guide states that food handlers must not touch ready-to-eat (RTE) food with bare hands. Hands can carry pathogens even when they appear clean, and since RTE foods receive no further cooking step to kill pathogens, bare-hand contact can directly introduce illness-causing microorganisms. Suitable utensils, deli tissue, or single-use gloves must be used instead."
+  },
+  {
+    "id": "7b925c99-a5e1-4928-9f13-bf7cb485b794",
+    "question": "Which water activity level supports bacterial growth according to FAT TOM?",
+    "answers": [
+      {
+        "text": "0.70 or higher",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "0.85 or higher",
+        "explanation": "Per ServSafe Chapter 2, the Moisture component of FAT TOM indicates that bacteria need a water activity (aw) of 0.85 or higher to grow effectively. Foods with lower water activity, such as dried foods, do not provide enough moisture for bacterial growth.",
+        "isCorrect": true
+      },
+      {
+        "text": "0.95 or higher",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Exactly 1.0",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 2, the Moisture component of FAT TOM indicates that bacteria need a water activity (aw) of 0.85 or higher to grow effectively. Foods with lower water activity, such as dried foods, do not provide enough moisture for bacterial growth."
+  },
+  {
+    "id": "cafaea9e-1487-4bca-8155-ba45c1e3878e",
+    "question": "What is the primary difference between foodborne illness and food contamination?",
+    "answers": [
+      {
+        "text": "Foodborne illness occurs when someone gets sick from eating contaminated food, while contamination is the presence of harmful substances in food",
+        "explanation": "Per ServSafe Chapter 1, foodborne illness is specifically when a person becomes sick after consuming contaminated food. Contamination refers to the presence of harmful substances like pathogens, chemicals, or physical objects in food, which may or may not result in illness.",
+        "isCorrect": true
+      },
+      {
+        "text": "Foodborne illness and contamination are the same thing",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Contamination only refers to bacterial growth, while foodborne illness includes viruses",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Foodborne illness happens immediately, while contamination takes days to develop",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 1, foodborne illness is specifically when a person becomes sick after consuming contaminated food. Contamination refers to the presence of harmful substances like pathogens, chemicals, or physical objects in food, which may or may not result in illness."
+  },
+  {
+    "id": "3e32690d-a800-4e5e-a4aa-aaabcda03f69",
+    "question": "A food handler accidentally mixes a chlorine sanitizer solution that tests at 150 ppm. What is the problem with this concentration?",
+    "answers": [
+      {
+        "text": "The concentration is too high and may be toxic or leave harmful residues on surfaces",
+        "explanation": "According to the ServSafe study guide, chlorine sanitizer must be maintained at a concentration of 50\u201399 ppm. A concentration of 150 ppm exceeds the approved range and can be hazardous because it may leave toxic chemical residues on food-contact surfaces, potentially contaminating food with chemicals. Additionally, excessively high concentrations can corrode equipment and irritate the skin and eyes of food handlers. If the concentration is too high, the solution must be discarded and remixed to the correct level.",
+        "isCorrect": true
+      },
+      {
+        "text": "The concentration is too low to reduce pathogens effectively",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Chlorine becomes ineffective above 100 ppm because it turns into a gas",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "A concentration above 100 ppm indicates that the water is too hot for chlorine",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to the ServSafe study guide, chlorine sanitizer must be maintained at a concentration of 50\u201399 ppm. A concentration of 150 ppm exceeds the approved range and can be hazardous because it may leave toxic chemical residues on food-contact surfaces, potentially contaminating food with chemicals. Additionally, excessively high concentrations can corrode equipment and irritate the skin and eyes of food handlers. If the concentration is too high, the solution must be discarded and remixed to the correct level."
+  },
+  {
+    "id": "5f6e27a5-4c92-49d2-8dcf-7f2c0483dccc",
+    "question": "A restaurant manager notices that chicken breasts are consistently being cooked to only 155\u00b0F instead of the required 165\u00b0F. According to HACCP principles, what should be done?",
+    "answers": [
+      {
+        "text": "Continue cooking and monitor more closely",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Report the issue to the health department",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Implement the predetermined corrective action for this Critical Control Point",
+        "explanation": "Per ServSafe Chapter 9, HACCP principle 5 requires identifying corrective actions to be taken when monitoring indicates deviation from critical limits. When chicken is undercooked below the critical limit of 165\u00b0F, the predetermined corrective action must be implemented immediately to ensure food safety.",
+        "isCorrect": true
+      },
+      {
+        "text": "Throw away all the chicken and start over",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Per ServSafe Chapter 9, HACCP principle 5 requires identifying corrective actions to be taken when monitoring indicates deviation from critical limits. When chicken is undercooked below the critical limit of 165\u00b0F, the predetermined corrective action must be implemented immediately to ensure food safety."
+  },
+  {
+    "id": "66d8aa40-be61-49e3-9347-73852140b203",
+    "question": "A delivery driver brings fresh seafood to your restaurant. You notice melting ice crystals on some packages and the seafood feels warmer than expected. What should you do before making an accept or reject decision?",
+    "answers": [
+      {
+        "text": "Check the internal temperature with a thermometer",
+        "explanation": "Per ServSafe Chapter 4, when receiving cold TCS foods, they must be at 41\u00b0F or below to be accepted. Visual signs such as melting ice crystals suggest possible temperature abuse, but the actual internal temperature must be verified with a calibrated thermometer before deciding to accept or reject the shipment.",
+        "isCorrect": true
+      },
+      {
+        "text": "Accept the seafood since it still has ice crystals present",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Reject the entire shipment without taking a temperature",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Use the seafood first before the rest of the inventory",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 4, when receiving cold TCS foods, they must be at 41\u00b0F or below to be accepted. Visual signs such as melting ice crystals suggest possible temperature abuse, but the actual internal temperature must be verified with a calibrated thermometer before deciding to accept or reject the shipment."
+  },
+  {
+    "id": "25c08c2b-b008-4cea-ae70-f801a738b276",
+    "question": "In a walk-in cooler, what is the correct storage order from top shelf to bottom shelf?",
+    "answers": [
+      {
+        "text": "Ready-to-eat foods, seafood, whole cuts of meat, ground meat, poultry",
+        "explanation": "Per ServSafe Chapter 5, the proper storage order in coolers from top to bottom is: ready-to-eat foods (highest shelf), followed by seafood, whole cuts of beef and pork, ground meat and ground fish, and whole or ground poultry on the bottom shelf. This order is based on required minimum cooking temperatures, with items needing the highest cooking temperatures stored lowest to prevent cross-contamination.",
+        "isCorrect": true
+      },
+      {
+        "text": "Raw poultry, ground meat, whole cuts, seafood, ready-to-eat foods",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Seafood, ready-to-eat foods, poultry, ground meat, whole cuts",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Ground meat, whole cuts, poultry, seafood, ready-to-eat foods",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 5, the proper storage order in coolers from top to bottom is: ready-to-eat foods (highest shelf), followed by seafood, whole cuts of beef and pork, ground meat and ground fish, and whole or ground poultry on the bottom shelf. This order is based on required minimum cooking temperatures, with items needing the highest cooking temperatures stored lowest to prevent cross-contamination."
+  },
+  {
+    "id": "166ed7b1-27fa-425c-9500-7e2bb9f970f4",
+    "question": "Where can food handlers eat their lunch in a food service operation?",
+    "answers": [
+      {
+        "text": "In the kitchen during slow periods",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "In designated break areas only",
+        "explanation": "Per ServSafe Chapter 3, eating, drinking, smoking, and chewing gum are prohibited in food preparation areas. Food handlers must use designated break areas to prevent contamination of food and food-contact surfaces.",
+        "isCorrect": true
+      },
+      {
+        "text": "At any clean work surface",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "In the dishwashing area",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 3, eating, drinking, smoking, and chewing gum are prohibited in food preparation areas. Food handlers must use designated break areas to prevent contamination of food and food-contact surfaces."
+  },
+  {
+    "id": "6a7af5b9-9909-465f-8a5b-5c0f68add0d9",
+    "question": "A food service manager wants to verify that the sanitizer solution in the three-compartment sink is at the correct concentration. What is the proper tool to use?",
+    "answers": [
+      {
+        "text": "A test kit specific to the sanitizer being used",
+        "explanation": "According to the ServSafe study guide, sanitizer concentration must be checked using a test kit that is designed for the specific type of sanitizer in use. Chlorine test kits, quat test strips, and iodine test kits are each calibrated to measure the correct concentration range for their respective sanitizer. Using the wrong test kit or estimating by appearance can result in concentrations that are too low (ineffective) or too high (toxic). Test kits should be used regularly throughout the day.",
+        "isCorrect": true
+      },
+      {
+        "text": "A food thermometer",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "A pH meter",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Visual inspection of the solution's color",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to the ServSafe study guide, sanitizer concentration must be checked using a test kit that is designed for the specific type of sanitizer in use. Chlorine test kits, quat test strips, and iodine test kits are each calibrated to measure the correct concentration range for their respective sanitizer. Using the wrong test kit or estimating by appearance can result in concentrations that are too low (ineffective) or too high (toxic). Test kits should be used regularly throughout the day."
+  },
+  {
+    "id": "15df8b82-8952-48e0-8897-1030ac86a13b",
+    "question": "Deliberate contamination of food is a concern because it:",
+    "answers": [
+      {
+        "text": "Is the most common form of chemical contamination",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Can involve the intentional addition of harmful substances",
+        "explanation": "Per ServSafe Chapter 2, deliberate contamination involves the intentional addition of chemical, biological, or physical contaminants to food. This represents a serious food defense concern and requires security measures to prevent unauthorized access to food and chemicals.",
+        "isCorrect": true
+      },
+      {
+        "text": "Only occurs during food transportation",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Can only be detected through laboratory testing",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 2, deliberate contamination involves the intentional addition of chemical, biological, or physical contaminants to food. This represents a serious food defense concern and requires security measures to prevent unauthorized access to food and chemicals."
+  },
+  {
+    "id": "30a854d0-730a-492c-98fb-0a825ed73921",
+    "question": "When using FIFO (First In, First Out) stock rotation, how should newly delivered items be placed in storage?",
+    "answers": [
+      {
+        "text": "In front of older stock so it is used first",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Behind older stock so that older items are used first",
+        "explanation": "The ServSafe study guide explains that FIFO (First In, First Out) requires that newly received items be placed behind older stock. This ensures that older products with earlier use-by or expiration dates are used before newer products, reducing the risk of spoilage and waste. Date-marking items upon receipt helps staff identify which items to use first.",
+        "isCorrect": true
+      },
+      {
+        "text": "Alongside older stock without regard to date",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "On a separate shelf until the older stock is fully used",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The ServSafe study guide explains that FIFO (First In, First Out) requires that newly received items be placed behind older stock. This ensures that older products with earlier use-by or expiration dates are used before newer products, reducing the risk of spoilage and waste. Date-marking items upon receipt helps staff identify which items to use first."
+  },
+  {
+    "id": "08cac78c-04b0-4ff6-b4d0-f2c9443f90e8",
+    "question": "A food service operation is using a chemical sanitizing dishwasher. How should a manager verify that the machine is sanitizing correctly?",
+    "answers": [
+      {
+        "text": "Use a test kit to check the sanitizer concentration in the final rinse water",
+        "explanation": "According to the ServSafe study guide, chemical sanitizing dishwashers must be checked using the appropriate chemical test kit to confirm that the sanitizer is being dispensed at the correct concentration in the final rinse water. For chlorine-based chemical dishwashers, the correct concentration is 50\u201399 ppm. Simply observing that the machine is running or that dishes appear clean is not sufficient. Regular monitoring with test kits ensures the machine is functioning properly and providing effective sanitation.",
+        "isCorrect": true
+      },
+      {
+        "text": "Check that the water temperature in the final rinse reaches at least 180\u00b0F",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Visually inspect the dishes for a clean appearance after each cycle",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Confirm that the wash cycle runs for at least five minutes",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to the ServSafe study guide, chemical sanitizing dishwashers must be checked using the appropriate chemical test kit to confirm that the sanitizer is being dispensed at the correct concentration in the final rinse water. For chlorine-based chemical dishwashers, the correct concentration is 50\u201399 ppm. Simply observing that the machine is running or that dishes appear clean is not sufficient. Regular monitoring with test kits ensures the machine is functioning properly and providing effective sanitation."
+  },
+  {
+    "id": "ded22722-d8a3-4e98-8d8d-e0a25f757cd1",
+    "question": "A food establishment loses its operating permit after a serious foodborne illness outbreak. What category of business impact does this represent?",
+    "answers": [
+      {
+        "text": "Legal and regulatory consequences",
+        "explanation": "The ServSafe study guide identifies loss of operating permits as a legal and regulatory consequence of a foodborne illness outbreak. Regulatory authorities have the power to suspend or revoke permits, which can result in temporary or permanent closure of the establishment.",
+        "isCorrect": true
+      },
+      {
+        "text": "Decreased employee morale",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Increased food costs",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduced menu variety",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The ServSafe study guide identifies loss of operating permits as a legal and regulatory consequence of a foodborne illness outbreak. Regulatory authorities have the power to suspend or revoke permits, which can result in temporary or permanent closure of the establishment."
+  },
+  {
+    "id": "6d3c4ab1-ab6e-49c9-849e-1f1c9f0d6b68",
+    "question": "Aflatoxins are mycotoxins commonly found in:",
+    "answers": [
+      {
+        "text": "Improperly stored grains and nuts",
+        "explanation": "Per ServSafe Chapter 2, aflatoxins are mycotoxins produced by mold that commonly contaminate grains, nuts, and other agricultural products when stored in warm, humid conditions. These naturally occurring toxins are carcinogenic and cannot be destroyed by cooking.",
+        "isCorrect": true
+      },
+      {
+        "text": "Contaminated seafood",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Spoiled dairy products",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Undercooked poultry",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 2, aflatoxins are mycotoxins produced by mold that commonly contaminate grains, nuts, and other agricultural products when stored in warm, humid conditions. These naturally occurring toxins are carcinogenic and cannot be destroyed by cooking."
+  },
+  {
+    "id": "d3b6f938-56cb-4059-9d8e-3cfd9a701cfa",
+    "question": "Which of the following allergens was most recently added to become part of the Big 9 allergens recognized by the FDA?",
+    "answers": [
+      {
+        "text": "Sesame",
+        "explanation": "Sesame was added as the ninth major food allergen under the FASTER Act, which was signed into law in 2021 and took effect January 1, 2023. The other eight allergens\u2014milk, eggs, fish, shellfish, tree nuts, peanuts, wheat, and soybeans\u2014were previously recognized. Food service operations must now label and manage sesame as a major allergen.",
+        "isCorrect": true
+      },
+      {
+        "text": "Corn",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Mustard",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Garlic",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Sesame was added as the ninth major food allergen under the FASTER Act, which was signed into law in 2021 and took effect January 1, 2023. The other eight allergens\u2014milk, eggs, fish, shellfish, tree nuts, peanuts, wheat, and soybeans\u2014were previously recognized. Food service operations must now label and manage sesame as a major allergen."
+  },
+  {
+    "id": "e7f8a9b0-c1d2-3456-efab-567890123407",
+    "question": "A food service manager notices that dry storage shelving is placed directly against the wall. Why is this a concern according to ServSafe facility guidelines?",
+    "answers": [
+      {
+        "text": "It prevents proper cleaning behind shelves and can provide shelter for pests",
+        "explanation": "ServSafe guidelines recommend that shelving in storage areas be positioned away from walls to allow for cleaning access and to eliminate harborage areas for pests such as cockroaches and rodents. Pests seek dark, undisturbed spaces for shelter, and shelving pushed against walls creates exactly that type of environment. Maintaining clearance from walls is part of the IPM principle of denying pests shelter.",
+        "isCorrect": true
+      },
+      {
+        "text": "It reduces available storage capacity for dry goods",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "It can block ventilation ducts and reduce airflow in the storage area",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "It makes it harder to count inventory during stocktaking",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "ServSafe guidelines recommend that shelving in storage areas be positioned away from walls to allow for cleaning access and to eliminate harborage areas for pests such as cockroaches and rodents. Pests seek dark, undisturbed spaces for shelter, and shelving pushed against walls creates exactly that type of environment. Maintaining clearance from walls is part of the IPM principle of denying pests shelter."
+  },
+  {
+    "id": "9fb06ea3-5769-4b83-b306-039b41dfaca3",
+    "question": "What is the primary responsibility of a Person in Charge (PIC) in a food establishment?",
+    "answers": [
+      {
+        "text": "Cooking all menu items",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Ensuring food safety standards are followed throughout the operation",
+        "explanation": "Per ServSafe Chapter 1, the Person in Charge (PIC) has the primary responsibility of ensuring that food safety standards and procedures are consistently followed throughout the entire food service operation. This includes overseeing staff compliance, monitoring food safety practices, and taking corrective actions when needed.",
+        "isCorrect": true
+      },
+      {
+        "text": "Greeting customers",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Managing inventory",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 1, the Person in Charge (PIC) has the primary responsibility of ensuring that food safety standards and procedures are consistently followed throughout the entire food service operation. This includes overseeing staff compliance, monitoring food safety practices, and taking corrective actions when needed."
+  },
+  {
+    "id": "01e26903-6a8a-4b84-9495-40afec1497a6",
+    "question": "A restaurant server notices a customer mentions she is pregnant and asks about raw fish dishes. What should guide the server's response?",
+    "answers": [
+      {
+        "text": "Only cooked fish should be recommended since pregnant women are at higher risk for foodborne illness",
+        "explanation": "Per ServSafe Chapter 1, pregnant women are identified as a high-risk population for foodborne illness due to changes in their immune systems during pregnancy. Raw or undercooked foods, particularly seafood, pose increased risks to both the mother and developing baby.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pregnant women are not at higher risk than the general population",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Raw fish is safe as long as it is sushi-grade",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Raw fish is only dangerous in the first trimester",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 1, pregnant women are identified as a high-risk population for foodborne illness due to changes in their immune systems during pregnancy. Raw or undercooked foods, particularly seafood, pose increased risks to both the mother and developing baby."
+  },
+  {
+    "id": "3adb4741-71de-4444-a0c7-fe936f6b4738",
+    "question": "E. coli O157:H7 is particularly dangerous because it:",
+    "answers": [
+      {
+        "text": "Can cause kidney failure, especially in children and elderly",
+        "explanation": "Per ServSafe Chapter 2, E. coli O157:H7 produces toxins that can cause severe complications including hemolytic uremic syndrome (HUS), which can lead to kidney failure. Children under 5 and adults over 65 are at highest risk for these severe complications.",
+        "isCorrect": true
+      },
+      {
+        "text": "Grows rapidly at refrigeration temperatures",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Cannot be killed by proper cooking temperatures",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Produces spores that survive high heat",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 2, E. coli O157:H7 produces toxins that can cause severe complications including hemolytic uremic syndrome (HUS), which can lead to kidney failure. Children under 5 and adults over 65 are at highest risk for these severe complications."
+  },
+  {
+    "id": "604e5725-aef1-4d30-afc0-c0c4f782ae42",
+    "question": "A cook is using an ice bath to cool hot soup. The soup must reach 70\u00b0F within 2 hours. After 1.5 hours, the soup is still at 80\u00b0F. What should the cook do?",
+    "answers": [
+      {
+        "text": "Stir the soup more frequently and add more ice to speed up cooling",
+        "explanation": "Per ServSafe Chapter 7, if food is not cooling fast enough to meet the two-stage cooling requirement (135\u00b0F to 70\u00b0F within 2 hours), corrective action must be taken immediately. Adding more ice and stirring the soup increases the rate of heat transfer, helping the soup reach 70\u00b0F before the 2-hour limit expires.",
+        "isCorrect": true
+      },
+      {
+        "text": "Do nothing \u2014 the soup is cooling on schedule",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Move the soup directly to the walk-in cooler for long-term storage",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Discard the soup immediately",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 7, if food is not cooling fast enough to meet the two-stage cooling requirement (135\u00b0F to 70\u00b0F within 2 hours), corrective action must be taken immediately. Adding more ice and stirring the soup increases the rate of heat transfer, helping the soup reach 70\u00b0F before the 2-hour limit expires."
+  },
+  {
+    "id": "b96aa3e5-83d8-4356-8bbe-e2725c4cdb76",
+    "question": "Which method is most effective for cooling a large batch of hot soup quickly?",
+    "answers": [
+      {
+        "text": "Place the pot in the walk-in cooler",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Leave it on the counter to cool naturally",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Transfer to shallow pans and place in an ice bath",
+        "explanation": "Per ServSafe Chapter 7, using shallow pans and ice baths are effective cooling methods because they increase surface area and provide direct cooling contact. This combination helps achieve the required cooling times safely.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cover tightly and refrigerate immediately",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Per ServSafe Chapter 7, using shallow pans and ice baths are effective cooling methods because they increase surface area and provide direct cooling contact. This combination helps achieve the required cooling times safely."
+  },
+  {
+    "id": "18c9d0e1-f2a3-4567-bcde-678901234508",
+    "question": "What is the boiling-point method used for when calibrating a thermometer?",
+    "answers": [
+      {
+        "text": "It checks whether a thermometer reads 32\u00b0F in boiling water",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "It adjusts the thermometer to read 212\u00b0F at sea level in boiling water",
+        "explanation": "The ServSafe study guide describes the boiling-point method as placing a thermometer in boiling water and adjusting the calibration nut until it reads 212\u00b0F (100\u00b0C) at sea level. Note that the boiling point decreases by approximately 1\u00b0F for every 550 feet above sea level, so establishments at higher altitudes must account for the difference.",
+        "isCorrect": true
+      },
+      {
+        "text": "It verifies the thermometer reads 165\u00b0F in simmering liquid",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "It tests whether a thermometer gives an accurate reading in a hot holding unit",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The ServSafe study guide describes the boiling-point method as placing a thermometer in boiling water and adjusting the calibration nut until it reads 212\u00b0F (100\u00b0C) at sea level. Note that the boiling point decreases by approximately 1\u00b0F for every 550 feet above sea level, so establishments at higher altitudes must account for the difference."
+  },
+  {
+    "id": "0e501930-8970-49f3-9233-1c86d3002461",
+    "question": "Which of the following food allergen pairs is correctly matched to its food source?",
+    "answers": [
+      {
+        "text": "Sesame \u2013 tahini and hummus",
+        "explanation": "Sesame is one of the Big 9 allergens and is found in foods such as tahini (sesame paste), hummus, sesame oil, sesame seeds, and many Middle Eastern and Asian dishes. It was added as the ninth major allergen under the FASTER Act, which went into effect in January 2023. Food service workers must be able to identify hidden sources of sesame in menu items.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tree nuts \u2013 peanut butter and peanut oil",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Shellfish \u2013 salmon and tuna",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Fish allergen \u2013 shrimp and lobster",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Sesame is one of the Big 9 allergens and is found in foods such as tahini (sesame paste), hummus, sesame oil, sesame seeds, and many Middle Eastern and Asian dishes. It was added as the ninth major allergen under the FASTER Act, which went into effect in January 2023. Food service workers must be able to identify hidden sources of sesame in menu items."
+  },
+  {
+    "id": "61bc1611-48e8-4aad-b69e-85ee6d90147e",
+    "question": "Which of the following represents a direct financial cost to a restaurant from a foodborne illness incident?",
+    "answers": [
+      {
+        "text": "Legal fees and lawsuit settlements",
+        "explanation": "Per ServSafe Chapter 1, legal costs including lawsuit settlements represent direct financial impacts to businesses following foodborne illness incidents. These costs can be substantial and include attorney fees, court costs, and monetary settlements to affected customers.",
+        "isCorrect": true
+      },
+      {
+        "text": "Staff receiving additional training",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Loss of repeat customers due to damaged reputation",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Menu reprinting costs",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 1, legal costs including lawsuit settlements represent direct financial impacts to businesses following foodborne illness incidents. These costs can be substantial and include attorney fees, court costs, and monetary settlements to affected customers."
+  },
+  {
+    "id": "7f6876fd-93dc-4930-8929-2227ee3ebccd",
+    "question": "A food handler is feeling ill with symptoms of vomiting and diarrhea before their shift. What is the correct action for the Person in Charge (PIC) to take?",
+    "answers": [
+      {
+        "text": "Exclude or restrict the food handler from working with or around food until they are symptom-free",
+        "explanation": "According to the ServSafe study guide, the Person in Charge is responsible for ensuring that food handlers who are ill do not work with food or in food preparation areas. A food handler who is experiencing vomiting or diarrhea poses a serious risk of contaminating food and surfaces. The PIC must exclude or restrict the ill employee per regulatory guidelines to protect customers and coworkers from potential illness.",
+        "isCorrect": true
+      },
+      {
+        "text": "Allow the food handler to work only in areas where they will not directly handle food, such as bussing tables",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Allow the food handler to continue their shift as long as they wash their hands frequently",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Advise the food handler to take medication and monitor their symptoms throughout the shift",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to the ServSafe study guide, the Person in Charge is responsible for ensuring that food handlers who are ill do not work with food or in food preparation areas. A food handler who is experiencing vomiting or diarrhea poses a serious risk of contaminating food and surfaces. The PIC must exclude or restrict the ill employee per regulatory guidelines to protect customers and coworkers from potential illness."
+  },
+  {
+    "id": "7c0afd82-6932-4b50-8bec-d7af162d94c4",
+    "question": "When storing different types of food in a walk-in cooler, which item should be stored on the top shelf?",
+    "answers": [
+      {
+        "text": "Raw ground beef",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Raw whole chicken",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Ready-to-eat sandwiches",
+        "explanation": "Per ServSafe Chapter 5, ready-to-eat foods should be stored on the top shelf in walk-in coolers. This storage order prevents cross-contamination by ensuring raw foods that require higher cooking temperatures are stored below foods that are ready to eat.",
+        "isCorrect": true
+      },
+      {
+        "text": "Raw seafood",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Per ServSafe Chapter 5, ready-to-eat foods should be stored on the top shelf in walk-in coolers. This storage order prevents cross-contamination by ensuring raw foods that require higher cooking temperatures are stored below foods that are ready to eat."
+  },
+  {
+    "id": "1840713c-971a-4a5f-a199-223c89a218ae",
+    "question": "A health inspector identifies a cross-connection in a food service facility's plumbing. What is the food safety risk posed by a cross-connection?",
+    "answers": [
+      {
+        "text": "It allows non-potable water or contaminants to flow backward into the potable water supply through backflow",
+        "explanation": "A cross-connection is a physical link between the potable water supply and a source of contamination, such as a hose submerged in a mop bucket, a spray nozzle below the rim of a sink, or direct connections to chemical systems. When water pressure drops, backflow or back-siphonage can pull contaminants from the non-potable source back into the clean water supply, potentially contaminating the entire facility's water. ServSafe emphasizes preventing cross-connections through proper plumbing design, including the use of air gaps and backflow prevention devices.",
+        "isCorrect": true
+      },
+      {
+        "text": "It causes hot and cold water lines to mix, creating temperature danger zone conditions in food prep sinks",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "It reduces water pressure, making it impossible to reach the required 100\u00b0F at handwashing stations",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "It creates condensation on plumbing pipes that can drip onto food contact surfaces",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "A cross-connection is a physical link between the potable water supply and a source of contamination, such as a hose submerged in a mop bucket, a spray nozzle below the rim of a sink, or direct connections to chemical systems. When water pressure drops, backflow or back-siphonage can pull contaminants from the non-potable source back into the clean water supply, potentially contaminating the entire facility's water. ServSafe emphasizes preventing cross-connections through proper plumbing design, including the use of air gaps and backflow prevention devices."
+  },
+  {
+    "id": "6615577b-2764-499c-868d-8dac60db1a79",
+    "question": "What is the minimum water temperature required when handwashing?",
+    "answers": [
+      {
+        "text": "100\u00b0F (38\u00b0C)",
+        "explanation": "The ServSafe study guide states that food handlers must wash their hands using water that is at least 100\u00b0F (38\u00b0C). This temperature helps activate the soap and effectively remove pathogens and soil from the hands.",
+        "isCorrect": true
+      },
+      {
+        "text": "110\u00b0F (43\u00b0C)",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "75\u00b0F (24\u00b0C)",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "120\u00b0F (49\u00b0C)",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The ServSafe study guide states that food handlers must wash their hands using water that is at least 100\u00b0F (38\u00b0C). This temperature helps activate the soap and effectively remove pathogens and soil from the hands."
+  },
+  {
+    "id": "b150653f-3106-402f-809d-741a7cc96402",
+    "question": "A food service manager notices small, greasy smear marks along the lower portions of walls and around pipe openings in the kitchen. What pest is most likely responsible?",
+    "answers": [
+      {
+        "text": "Rodents",
+        "explanation": "According to ServSafe, rodents leave greasy rub marks (also called 'rub marks' or 'smear marks') along walls, pipes, and beams because their fur carries oils and dirt. These marks appear at rodent travel routes near floor level. This is a key sign of rodent infestation, along with droppings, gnaw marks, and nesting materials.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cockroaches",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Flies",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Stored product insects",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to ServSafe, rodents leave greasy rub marks (also called 'rub marks' or 'smear marks') along walls, pipes, and beams because their fur carries oils and dirt. These marks appear at rodent travel routes near floor level. This is a key sign of rodent infestation, along with droppings, gnaw marks, and nesting materials."
+  },
+  {
+    "id": "633f88e3-e721-4dd9-afb4-72ba00136f8f",
+    "question": "A food handler is storing raw meats in a walk-in cooler. Where should raw pork chops be stored in relation to raw ground beef?",
+    "answers": [
+      {
+        "text": "Above the raw ground beef",
+        "explanation": "According to ServSafe storage guidelines, the walk-in cooler should be organized from top to bottom based on minimum internal cooking temperatures. Raw pork chops (whole muscle) cook to 145\u00b0F, while raw ground beef cooks to 155\u00b0F. Because ground beef requires a higher cooking temperature, it poses a greater risk if cross-contamination occurs and must be stored below whole cuts of pork. Therefore, raw pork chops should be stored above raw ground beef.",
+        "isCorrect": true
+      },
+      {
+        "text": "Below the raw ground beef",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "On the same shelf as the raw ground beef",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "On the top shelf of the cooler",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to ServSafe storage guidelines, the walk-in cooler should be organized from top to bottom based on minimum internal cooking temperatures. Raw pork chops (whole muscle) cook to 145\u00b0F, while raw ground beef cooks to 155\u00b0F. Because ground beef requires a higher cooking temperature, it poses a greater risk if cross-contamination occurs and must be stored below whole cuts of pork. Therefore, raw pork chops should be stored above raw ground beef."
+  },
+  {
+    "id": "f8a9b0c1-d2e3-4567-fa12-890123456789",
+    "question": "An employee reports to a manager that a co-worker added an unknown substance to a large batch of soup in the walk-in refrigerator. According to food defense protocols, what is the CORRECT immediate action?",
+    "answers": [
+      {
+        "text": "Secure the soup, remove it from service, and immediately report the incident to law enforcement and the appropriate regulatory authority",
+        "explanation": "When intentional food contamination is suspected, the food defense response requires immediate action to protect public safety. The affected product must be secured and removed from service to prevent consumption. The incident must then be reported to law enforcement and appropriate regulatory authorities, such as the FDA or local health department. This aligns with the 'Reports' element of the ALERT system and crisis management protocols described in the ServSafe Manager study guide.",
+        "isCorrect": true
+      },
+      {
+        "text": "Discard the soup quietly to avoid alarming customers and staff, then investigate the allegation internally",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Taste a small portion of the soup to determine if there is an unusual flavor before taking further action",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Reheat the soup to 165\u00b0F to destroy any potential contaminants before serving",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "When intentional food contamination is suspected, the food defense response requires immediate action to protect public safety. The affected product must be secured and removed from service to prevent consumption. The incident must then be reported to law enforcement and appropriate regulatory authorities, such as the FDA or local health department. This aligns with the 'Reports' element of the ALERT system and crisis management protocols described in the ServSafe Manager study guide."
+  },
+  {
+    "id": "1ff96494-6aab-45b8-8c4a-71f2d6c253d5",
+    "question": "When purchasing food from suppliers, what is the most important requirement to ensure food safety?",
+    "answers": [
+      {
+        "text": "Choose the supplier with the lowest prices",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Select suppliers that are USDA or FDA inspected and properly licensed",
+        "explanation": "Per ServSafe Chapter 4, purchasing from approved suppliers means selecting those that are USDA or FDA inspected and have proper licensing. This ensures the supplier meets food safety standards and regulatory requirements.",
+        "isCorrect": true
+      },
+      {
+        "text": "Only buy from local suppliers within 50 miles",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Purchase only organic certified products",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 4, purchasing from approved suppliers means selecting those that are USDA or FDA inspected and have proper licensing. This ensures the supplier meets food safety standards and regulatory requirements."
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9012-cdef-123456789002",
+    "question": "What are the five CDC-identified risk factors most commonly responsible for foodborne illness outbreaks in food service operations?",
+    "answers": [
+      {
+        "text": "Improper holding temperatures, inadequate cooking, contaminated equipment, food from unsafe sources, and poor personal hygiene",
+        "explanation": "According to ServSafe and the CDC, the five most common risk factors that lead to foodborne illness in food service operations are: purchasing food from unsafe sources, failing to cook food to the correct temperature, holding food at incorrect temperatures, using contaminated equipment, and practicing poor personal hygiene. Active Managerial Control is designed specifically to address and control these five risk factors.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cross-contamination, poor handwashing, inadequate refrigeration, improper thawing, and pest infestation",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Improper food labeling, inadequate ventilation, poor employee training, contaminated water, and incorrect storage",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Allergen exposure, chemical contamination, unapproved additives, poor sanitation, and untrained staff",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to ServSafe and the CDC, the five most common risk factors that lead to foodborne illness in food service operations are: purchasing food from unsafe sources, failing to cook food to the correct temperature, holding food at incorrect temperatures, using contaminated equipment, and practicing poor personal hygiene. Active Managerial Control is designed specifically to address and control these five risk factors."
+  },
+  {
+    "id": "86dcddbc-ac73-4f8d-8d39-3ddfd684243b",
+    "question": "A customer develops jaundice and fatigue approximately four weeks after eating at a restaurant. Which pathogen is most likely responsible?",
+    "answers": [
+      {
+        "text": "Hepatitis A virus",
+        "explanation": "Hepatitis A has an onset period of approximately 28 days after exposure, making it one of the longest incubation periods of common foodborne illnesses. It is characterized by jaundice (yellowing of the skin and eyes), fatigue, nausea, and abdominal pain. It is typically spread by infected food handlers who do not wash hands properly after using the restroom.",
+        "isCorrect": true
+      },
+      {
+        "text": "Norovirus",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Salmonella Typhi",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Shigella spp.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Hepatitis A has an onset period of approximately 28 days after exposure, making it one of the longest incubation periods of common foodborne illnesses. It is characterized by jaundice (yellowing of the skin and eyes), fatigue, nausea, and abdominal pain. It is typically spread by infected food handlers who do not wash hands properly after using the restroom."
+  },
+  {
+    "id": "4e3c449c-9d68-498c-9fe6-ab29851eb055",
+    "question": "According to ServSafe, when must new food service employees receive food safety training?",
+    "answers": [
+      {
+        "text": "Before they begin handling food",
+        "explanation": "Per ServSafe Chapter 9, new employees must receive food safety training before they begin handling food. This ensures that all food handlers understand basic food safety principles before they can potentially contaminate food or create unsafe conditions.",
+        "isCorrect": true
+      },
+      {
+        "text": "Within the first week of employment",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Within 30 days of starting work",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Only when they are promoted to a supervisory role",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 9, new employees must receive food safety training before they begin handling food. This ensures that all food handlers understand basic food safety principles before they can potentially contaminate food or create unsafe conditions."
+  },
+  {
+    "id": "0da4a8ce-3c0d-40ce-aac6-dfeb71764ccf",
+    "question": "What does TCS stand for in food safety?",
+    "answers": [
+      {
+        "text": "Temperature Control System",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Time/Temperature Control for Safety",
+        "explanation": "Per ServSafe Chapter 1, TCS stands for Time/Temperature Control for Safety foods. These are foods that require time and temperature control to limit pathogen growth and toxin production, making proper handling critical for food safety.",
+        "isCorrect": true
+      },
+      {
+        "text": "Total Contamination Standard",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Thermal Cooking Specification",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 1, TCS stands for Time/Temperature Control for Safety foods. These are foods that require time and temperature control to limit pathogen growth and toxin production, making proper handling critical for food safety."
+  },
+  {
+    "id": "d566fd0a-9915-4c91-9a69-0be0d0163a28",
+    "question": "A prep cook has a small cut on their finger. How should this wound be properly covered?",
+    "answers": [
+      {
+        "text": "With a waterproof bandage only",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "With a single-use glove only",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "With a bandage and a single-use glove",
+        "explanation": "Per ServSafe Chapter 3, wounds must be covered with a bandage and then a single-use glove. This double barrier prevents contamination from the wound and ensures the bandage stays secure during food preparation activities.",
+        "isCorrect": true
+      },
+      {
+        "text": "Wounds do not need to be covered if small",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Per ServSafe Chapter 3, wounds must be covered with a bandage and then a single-use glove. This double barrier prevents contamination from the wound and ensures the bandage stays secure during food preparation activities."
+  },
+  {
+    "id": "8986ea82-80e8-417c-b223-0473c470fcb2",
+    "question": "Which of the following best describes the role of a licensed Pest Control Operator (PCO) in an Integrated Pest Management program?",
+    "answers": [
+      {
+        "text": "Develop a pest management program, identify entry points, and apply pesticides safely",
+        "explanation": "A licensed PCO plays a comprehensive role in an IPM program. According to ServSafe, only licensed PCOs should apply pesticides in food service facilities because they are trained to select appropriate treatments, identify infestation sources and entry points, and apply pesticides safely to avoid contaminating food, equipment, and surfaces. Managers should work closely with their PCO and maintain records of all treatments.",
+        "isCorrect": true
+      },
+      {
+        "text": "Perform routine cleaning of kitchen equipment and storage areas",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Approve the facility's cleaning and sanitizing schedule",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Conduct health inspections and issue pest violation reports",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "A licensed PCO plays a comprehensive role in an IPM program. According to ServSafe, only licensed PCOs should apply pesticides in food service facilities because they are trained to select appropriate treatments, identify infestation sources and entry points, and apply pesticides safely to avoid contaminating food, equipment, and surfaces. Managers should work closely with their PCO and maintain records of all treatments."
+  },
+  {
+    "id": "da234437-c18a-43e1-85f2-298789e459da",
+    "question": "A food service worker finishes washing items in the first compartment of the three-compartment sink and moves them to the second compartment. What is the purpose of the second compartment?",
+    "answers": [
+      {
+        "text": "To rinse items with clean water to remove detergent residue before sanitizing",
+        "explanation": "According to the ServSafe study guide, the second compartment of a three-compartment sink is used to rinse items with clean water. This step removes detergent residue left from washing. Detergent must be removed before sanitizing because it can neutralize the sanitizer and reduce its effectiveness.",
+        "isCorrect": true
+      },
+      {
+        "text": "To soak items in a sanitizing solution for the required contact time",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "To scrub items with a brush and hot water to remove stubborn food debris",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "To hold clean items until there is room in the drying area",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to the ServSafe study guide, the second compartment of a three-compartment sink is used to rinse items with clean water. This step removes detergent residue left from washing. Detergent must be removed before sanitizing because it can neutralize the sanitizer and reduce its effectiveness."
+  },
+  {
+    "id": "840575f4-a4cf-4761-a7c2-23bfe1297833",
+    "question": "A restaurant transfers cleaning chemicals to smaller spray bottles. How should these bottles be labeled?",
+    "answers": [
+      {
+        "text": "Labeled with the chemical name and any hazard information",
+        "explanation": "Per ServSafe Chapter 12, when chemicals are transferred to secondary containers, the containers must be labeled with the chemical name and any relevant hazard information. This ensures safe identification and use by all staff.",
+        "isCorrect": true
+      },
+      {
+        "text": "Labels are not required for chemicals in secondary containers",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Generic labels like 'cleaner' or 'sanitizer' are sufficient",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Only the date the chemical was transferred needs to be written",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 12, when chemicals are transferred to secondary containers, the containers must be labeled with the chemical name and any relevant hazard information. This ensures safe identification and use by all staff."
+  },
+  {
+    "id": "b46edc7f-e1d7-43f1-85d4-86236dcf495c",
+    "question": "A manager observes a food handler spraying sanitizer directly onto a food-contact surface and then immediately placing food on it without wiping. What is the primary food safety concern?",
+    "answers": [
+      {
+        "text": "The sanitizer was not given adequate contact time to reduce pathogens",
+        "explanation": "According to the ServSafe study guide, sanitizers must remain in contact with the surface for a minimum time to effectively reduce pathogens\u2014at least 7 seconds for chlorine and at least 30 seconds for iodine. Simply spraying a surface and immediately placing food on it does not allow sufficient contact time. Additionally, the surface may not have been cleaned first, meaning food debris could be present, which further reduces sanitizer effectiveness. Proper procedure requires cleaning, then sanitizing with adequate contact time, then air drying.",
+        "isCorrect": true
+      },
+      {
+        "text": "The sanitizer concentration is likely too high from direct spraying",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanitizer should never be applied to food-contact surfaces while in use",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The food could absorb the sanitizer's odor during preparation",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to the ServSafe study guide, sanitizers must remain in contact with the surface for a minimum time to effectively reduce pathogens\u2014at least 7 seconds for chlorine and at least 30 seconds for iodine. Simply spraying a surface and immediately placing food on it does not allow sufficient contact time. Additionally, the surface may not have been cleaned first, meaning food debris could be present, which further reduces sanitizer effectiveness. Proper procedure requires cleaning, then sanitizing with adequate contact time, then air drying."
+  },
+  {
+    "id": "30d31290-50d0-4ebc-9b1b-89dfbd339eef",
+    "question": "During the handwashing procedure, how long should food handlers scrub their hands and arms with soap before rinsing?",
+    "answers": [
+      {
+        "text": "10\u201315 seconds",
+        "explanation": "Per ServSafe Chapter 3, the proper handwashing procedure requires scrubbing hands and arms vigorously with soap for 10\u201315 seconds. This scrubbing step is part of the complete handwashing process and helps remove pathogens effectively before rinsing and drying.",
+        "isCorrect": true
+      },
+      {
+        "text": "5 seconds",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3 seconds",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "30 seconds",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 3, the proper handwashing procedure requires scrubbing hands and arms vigorously with soap for 10\u201315 seconds. This scrubbing step is part of the complete handwashing process and helps remove pathogens effectively before rinsing and drying."
+  },
+  {
+    "id": "26b27bad-9cd7-45a6-95ab-550473141a97",
+    "question": "A restaurant receives a delivery of fresh salmon. What temperature should it be upon receiving?",
+    "answers": [
+      {
+        "text": "41\u00b0F or below",
+        "explanation": "Per ServSafe Chapter 4, cold TCS foods including fresh seafood must be received at 41\u00b0F or below. This temperature prevents bacterial growth and maintains food safety during the receiving process.",
+        "isCorrect": true
+      },
+      {
+        "text": "45\u00b0F or below",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "50\u00b0F or below",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "32\u00b0F or below",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 4, cold TCS foods including fresh seafood must be received at 41\u00b0F or below. This temperature prevents bacterial growth and maintains food safety during the receiving process."
+  },
+  {
+    "id": "cda3c2dc-2dd0-400e-a1dc-e7e5fab5e024",
+    "question": "A food truck operator is setting up a three-compartment sink. What should go in the second compartment?",
+    "answers": [
+      {
+        "text": "Hot water and detergent at 110\u00b0F",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Clean water for rinsing",
+        "explanation": "Per ServSafe Chapter 12, the second sink compartment should contain clean water for rinsing after washing in the first sink. The third compartment contains the chemical sanitizer solution.",
+        "isCorrect": true
+      },
+      {
+        "text": "Chemical sanitizer solution",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Degreasing solution",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 12, the second sink compartment should contain clean water for rinsing after washing in the first sink. The third compartment contains the chemical sanitizer solution."
+  },
+  {
+    "id": "6b5a4b90-daab-4eee-b5fb-15ff521753b4",
+    "question": "A food handler is receiving a hot delivery of clam chowder from a commissary kitchen. What is the minimum acceptable temperature the soup must be when it arrives?",
+    "answers": [
+      {
+        "text": "135\u00b0F",
+        "explanation": "According to ServSafe receiving guidelines, hot TCS foods must be received at 135\u00b0F or higher. If a hot food item arrives below 135\u00b0F, it has entered the Temperature Danger Zone (41\u00b0F\u2013135\u00b0F) and may have been held at an unsafe temperature long enough to allow bacterial growth. Any hot TCS food received below 135\u00b0F should be rejected.",
+        "isCorrect": true
+      },
+      {
+        "text": "145\u00b0F",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "165\u00b0F",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "155\u00b0F",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to ServSafe receiving guidelines, hot TCS foods must be received at 135\u00b0F or higher. If a hot food item arrives below 135\u00b0F, it has entered the Temperature Danger Zone (41\u00b0F\u2013135\u00b0F) and may have been held at an unsafe temperature long enough to allow bacterial growth. Any hot TCS food received below 135\u00b0F should be rejected."
+  },
+  {
+    "id": "3538d5eb-ddb3-4adf-b742-3f02cfd672c8",
+    "question": "According to FAT TOM, what water activity level supports bacterial growth?",
+    "answers": [
+      {
+        "text": "0.70 and below",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "0.85 and above",
+        "explanation": "Per ServSafe Chapter 2, bacteria require a water activity (Aw) of 0.85 or higher to grow effectively. Foods with lower water activity, such as dried foods, are generally safe from bacterial growth due to insufficient moisture.",
+        "isCorrect": true
+      },
+      {
+        "text": "0.50-0.70",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "0.30-0.50",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 2, bacteria require a water activity (Aw) of 0.85 or higher to grow effectively. Foods with lower water activity, such as dried foods, are generally safe from bacterial growth due to insufficient moisture."
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7890-efab-901234567801",
+    "question": "A food handler with a bandaged cut on their hand is assigned to prepare ready-to-eat foods. What additional precaution must be taken?",
+    "answers": [
+      {
+        "text": "Cover the bandage with a single-use glove",
+        "explanation": "The ServSafe study guide states that food handlers must cover wounds with a bandage and, when on the hands or wrists, must also cover the bandage with a single-use glove. This two-layer approach prevents the bandage from becoming a physical contaminant in food (bandages can fall off) and prevents any blood-borne pathogens or bacteria from the wound from contaminating ready-to-eat foods. The glove must be changed when soiled, torn, or after handling raw proteins.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cover the cut with a bandage only, as that is sufficient protection",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Reassign the food handler to a role that does not involve food contact",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Apply an antibacterial ointment to the wound before bandaging",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The ServSafe study guide states that food handlers must cover wounds with a bandage and, when on the hands or wrists, must also cover the bandage with a single-use glove. This two-layer approach prevents the bandage from becoming a physical contaminant in food (bandages can fall off) and prevents any blood-borne pathogens or bacteria from the wound from contaminating ready-to-eat foods. The glove must be changed when soiled, torn, or after handling raw proteins."
+  },
+  {
+    "id": "2f607105-3923-4fbe-9241-dbb220772c99",
+    "question": "A sushi chef reports a customer became ill after eating raw salmon. Which parasite is most likely responsible?",
+    "answers": [
+      {
+        "text": "Anisakis",
+        "explanation": "Per ServSafe Chapter 2, Anisakis is a parasite specifically associated with raw or undercooked fish and seafood. This parasite is commonly found in marine fish and can cause illness when consumed in dishes like sushi, sashimi, or ceviche.",
+        "isCorrect": true
+      },
+      {
+        "text": "Giardia",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Cryptosporidium",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Trichinella",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 2, Anisakis is a parasite specifically associated with raw or undercooked fish and seafood. This parasite is commonly found in marine fish and can cause illness when consumed in dishes like sushi, sashimi, or ceviche."
+  },
+  {
+    "id": "bf481364-2ecb-4907-ab66-7928ebcb8220",
+    "question": "A hospital kitchen uses a three-compartment sink for manual dishwashing. What should the water temperature be in the first sink?",
+    "answers": [
+      {
+        "text": "165\u00b0F",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "110\u00b0F",
+        "explanation": "Per ServSafe Chapter 12, the first sink in a three-compartment sink setup should contain hot water and detergent at 110\u00b0F for effective washing. The second sink is for rinsing with clean water, and the third sink is for sanitizing.",
+        "isCorrect": true
+      },
+      {
+        "text": "180\u00b0F",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "75\u00b0F",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 12, the first sink in a three-compartment sink setup should contain hot water and detergent at 110\u00b0F for effective washing. The second sink is for rinsing with clean water, and the third sink is for sanitizing."
+  },
+  {
+    "id": "c8ae6f3d-721e-4d8d-a5c8-5e437aab1619",
+    "question": "In a three-compartment sink setup, what should the water temperature be in the first sink?",
+    "answers": [
+      {
+        "text": "180\u00b0F",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "110\u00b0F",
+        "explanation": "Per ServSafe Chapter 12, the first sink should contain hot water at 110\u00b0F with detergent for washing. The second sink is for rinsing with clean water, and the third sink is for sanitizing.",
+        "isCorrect": true
+      },
+      {
+        "text": "75\u00b0F",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "165\u00b0F",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 12, the first sink should contain hot water at 110\u00b0F with detergent for washing. The second sink is for rinsing with clean water, and the third sink is for sanitizing."
+  },
+  {
+    "id": "a5c14803-400a-4288-a07e-cc1bcc27246f",
+    "question": "Paralytic shellfish poisoning (PSP) is caused by eating shellfish that have fed on which organism?",
+    "answers": [
+      {
+        "text": "Toxic algae (dinoflagellates) that produce saxitoxin",
+        "explanation": "Paralytic shellfish poisoning is caused by saxitoxin, a naturally occurring toxin produced by certain toxic algae known as dinoflagellates. Filter-feeding shellfish such as clams, mussels, oysters, and scallops concentrate these toxins in their tissue. The toxin cannot be destroyed by cooking or freezing. Purchasing shellfish only from approved, reputable suppliers is the primary control measure.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bacteria that colonize the digestive tract of raw oysters",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Parasites found in the muscle tissue of reef fish",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Histamine-producing bacteria present in warm ocean waters",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Paralytic shellfish poisoning is caused by saxitoxin, a naturally occurring toxin produced by certain toxic algae known as dinoflagellates. Filter-feeding shellfish such as clams, mussels, oysters, and scallops concentrate these toxins in their tissue. The toxin cannot be destroyed by cooking or freezing. Purchasing shellfish only from approved, reputable suppliers is the primary control measure."
+  },
+  {
+    "id": "7d838d30-12ac-499d-97dd-f5cb46c28eae",
+    "question": "A hospital kitchen has just finished cooking large batches of vegetable soup. The soup is currently at 135\u00b0F and needs to be cooled for tomorrow's service. During the first 2 hours, what temperature must the soup reach?",
+    "answers": [
+      {
+        "text": "70\u00b0F or below",
+        "explanation": "Per ServSafe Chapter 7, the two-stage cooling method requires food to cool from 135\u00b0F to 70\u00b0F within the first 2 hours. This is the critical first stage of the cooling process.",
+        "isCorrect": true
+      },
+      {
+        "text": "100\u00b0F or below",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "41\u00b0F or below",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "90\u00b0F or below",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 7, the two-stage cooling method requires food to cool from 135\u00b0F to 70\u00b0F within the first 2 hours. This is the critical first stage of the cooling process."
+  },
+  {
+    "id": "599c421b-a213-4e8b-b271-f9550f1babda",
+    "question": "Who has the authority to issue operating permits to restaurants and conduct routine food safety inspections?",
+    "answers": [
+      {
+        "text": "Federal agencies only",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "State and local health departments",
+        "explanation": "Per ServSafe Chapter 1, state and local health departments have jurisdiction over retail food establishments including restaurants, and are responsible for issuing operating permits, conducting inspections, and enforcing food safety regulations. They implement food codes based on the FDA Food Code model.",
+        "isCorrect": true
+      },
+      {
+        "text": "The CDC",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Restaurant industry associations",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 1, state and local health departments have jurisdiction over retail food establishments including restaurants, and are responsible for issuing operating permits, conducting inspections, and enforcing food safety regulations. They implement food codes based on the FDA Food Code model."
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9012-cd34-ef56ab789012",
+    "question": "What is the correct water temperature for handwashing at a food service operation?",
+    "answers": [
+      {
+        "text": "At least 100\u00b0F (38\u00b0C)",
+        "explanation": "The ServSafe study guide specifies that handwashing sinks must be supplied with water at a temperature of at least 100\u00b0F (38\u00b0C). Water that is warm enough encourages thorough handwashing and helps remove grease and soil from hands effectively.",
+        "isCorrect": true
+      },
+      {
+        "text": "At least 70\u00b0F (21\u00b0C)",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "At least 110\u00b0F (43\u00b0C)",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "At least 120\u00b0F (49\u00b0C)",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The ServSafe study guide specifies that handwashing sinks must be supplied with water at a temperature of at least 100\u00b0F (38\u00b0C). Water that is warm enough encourages thorough handwashing and helps remove grease and soil from hands effectively."
+  },
+  {
+    "id": "2187aa05-14e5-4ee6-b644-d20fdc764578",
+    "question": "A foodborne illness outbreak is officially declared when how many people experience the same illness after eating the same food?",
+    "answers": [
+      {
+        "text": "Two or more people",
+        "explanation": "According to the ServSafe study guide, a foodborne illness outbreak is defined as an incident in which two or more people experience the same illness symptoms after eating the same food. The outbreak must be confirmed by health authorities through an epidemiological investigation. This low threshold ensures that clusters of illness are quickly identified and investigated.",
+        "isCorrect": true
+      },
+      {
+        "text": "Five or more people",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Ten or more people",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Three or more people",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to the ServSafe study guide, a foodborne illness outbreak is defined as an incident in which two or more people experience the same illness symptoms after eating the same food. The outbreak must be confirmed by health authorities through an epidemiological investigation. This low threshold ensures that clusters of illness are quickly identified and investigated."
+  },
+  {
+    "id": "2c9c2c53-b144-4bdb-9426-df43aa69f112",
+    "question": "A catering manager is developing HACCP controls and needs to identify which foods require the most stringent time and temperature monitoring. According to FAT TOM principles, the foods that provide the best environment for bacterial growth are:",
+    "answers": [
+      {
+        "text": "High-acid foods with pH below 4.6",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "TCS foods with neutral pH between 4.6-7.5 and high moisture content",
+        "explanation": "Per ServSafe Chapter 2, FAT TOM identifies that bacteria grow best in TCS foods that have neutral pH (4.6-7.5), adequate moisture (water activity above 0.85), and proper nutrients. These conditions make time and temperature control critical for food safety.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dry foods with low water activity below 0.85",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Frozen foods held below 32\u00b0F",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 2, FAT TOM identifies that bacteria grow best in TCS foods that have neutral pH (4.6-7.5), adequate moisture (water activity above 0.85), and proper nutrients. These conditions make time and temperature control critical for food safety."
+  },
+  {
+    "id": "a7b8c9d0-e1f2-3456-abcd-567890123467",
+    "question": "A food handler diagnosed with Norovirus is feeling better and has had no symptoms for 24 hours. What should management do before allowing the handler to return to work?",
+    "answers": [
+      {
+        "text": "Require written medical clearance from a health practitioner before allowing the handler to return",
+        "explanation": "The ServSafe study guide states that food handlers diagnosed with one of the Big 6 pathogens \u2014 which includes Norovirus \u2014 must be excluded from the operation. Before returning to work, the food handler must provide documentation from a medical practitioner confirming they are no longer contagious. Simply feeling better or being symptom-free for 24 hours is not sufficient clearance for a confirmed Big 6 diagnosis.",
+        "isCorrect": true
+      },
+      {
+        "text": "Allow the food handler to return immediately since symptoms have resolved for 24 hours",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Restrict the food handler to non-food-contact duties only",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Require the food handler to wear gloves at all times and return to full duties",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The ServSafe study guide states that food handlers diagnosed with one of the Big 6 pathogens \u2014 which includes Norovirus \u2014 must be excluded from the operation. Before returning to work, the food handler must provide documentation from a medical practitioner confirming they are no longer contagious. Simply feeling better or being symptom-free for 24 hours is not sufficient clearance for a confirmed Big 6 diagnosis."
+  },
+  {
+    "id": "abbbbb01-7edd-4e5c-b64a-62acceb5ec7d",
+    "question": "A food handler reports eating at a salad bar and later developing cyclosporiasis. This parasite is most commonly associated with:",
+    "answers": [
+      {
+        "text": "Contaminated water",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Raw fish",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Fresh produce",
+        "explanation": "Per ServSafe Chapter 2, Cyclospora is a parasite commonly associated with fresh produce, particularly leafy greens and berries. This parasite causes cyclosporiasis and is often linked to contaminated irrigation water or improper handling of fresh produce.",
+        "isCorrect": true
+      },
+      {
+        "text": "Undercooked pork",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Per ServSafe Chapter 2, Cyclospora is a parasite commonly associated with fresh produce, particularly leafy greens and berries. This parasite causes cyclosporiasis and is often linked to contaminated irrigation water or improper handling of fresh produce."
+  },
+  {
+    "id": "60959ae8-5400-4f7e-a047-df7d41aae998",
+    "question": "A food handler develops jaundice (yellowing of the skin and eyes) and reports feeling fatigued. Which pathogen is most associated with these symptoms and requires reporting to the Person in Charge?",
+    "answers": [
+      {
+        "text": "Hepatitis A virus",
+        "explanation": "The ServSafe study guide identifies Hepatitis A as one of the Big 6 reportable pathogens. Its hallmark symptom is jaundice (yellowing of the skin and eyes), along with fatigue and nausea. Because Hepatitis A is transmitted through the fecal-oral route and can be spread through food, food handlers diagnosed with or showing symptoms of the disease must be reported and excluded from food handling duties.",
+        "isCorrect": true
+      },
+      {
+        "text": "Norovirus",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Salmonella Typhi",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Shigella spp.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The ServSafe study guide identifies Hepatitis A as one of the Big 6 reportable pathogens. Its hallmark symptom is jaundice (yellowing of the skin and eyes), along with fatigue and nausea. Because Hepatitis A is transmitted through the fecal-oral route and can be spread through food, food handlers diagnosed with or showing symptoms of the disease must be reported and excluded from food handling duties."
+  },
+  {
+    "id": "ff24d423-d2b5-4e80-9125-89b9484b908a",
+    "question": "Under what specific conditions can wood be used for food contact surfaces in commercial food service?",
+    "answers": [
+      {
+        "text": "Hard maple cutting boards and utensils used with specific foods, when permitted by the regulatory authority",
+        "explanation": "Per ServSafe Chapter 10, wood is generally not acceptable for food contact surfaces because it is porous and difficult to clean and sanitize. However, hard maple cutting boards and wooden utensils may be used under conditions permitted by the regulatory authority, provided they are smooth, free of cracks or scoring, and easily cleanable.",
+        "isCorrect": true
+      },
+      {
+        "text": "Wood can be used for all food contact surfaces if properly sealed",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Wood can be used if it is cleaned and sanitized regularly",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Wood can be used for serving utensils only",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 10, wood is generally not acceptable for food contact surfaces because it is porous and difficult to clean and sanitize. However, hard maple cutting boards and wooden utensils may be used under conditions permitted by the regulatory authority, provided they are smooth, free of cracks or scoring, and easily cleanable."
+  },
+  {
+    "id": "54742fe0-07f0-4f88-8962-74b2abfa6134",
+    "question": "A food handler finishes using the restroom. What is the correct order of steps for handwashing before returning to work?",
+    "answers": [
+      {
+        "text": "Wet hands, apply soap, scrub for 10-15 seconds, rinse, dry with a single-use towel",
+        "explanation": "According to the ServSafe study guide, the proper handwashing procedure is: (1) wet hands and arms with running water at least 100\u00b0F, (2) apply soap, (3) scrub hands and arms for 10-15 seconds, (4) rinse thoroughly under running water, and (5) dry with a single-use paper towel or air dryer. The entire process should take at least 20 seconds. Using the restroom is one of the most critical times to wash hands, as pathogens can easily transfer from hands to food.",
+        "isCorrect": true
+      },
+      {
+        "text": "Apply soap, wet hands, scrub for 10-15 seconds, rinse, dry with a cloth towel",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Wet hands, apply soap, scrub for 5 seconds, rinse, dry with a single-use towel",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Wet hands, apply sanitizer, scrub for 10-15 seconds, rinse, dry with a single-use towel",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to the ServSafe study guide, the proper handwashing procedure is: (1) wet hands and arms with running water at least 100\u00b0F, (2) apply soap, (3) scrub hands and arms for 10-15 seconds, (4) rinse thoroughly under running water, and (5) dry with a single-use paper towel or air dryer. The entire process should take at least 20 seconds. Using the restroom is one of the most critical times to wash hands, as pathogens can easily transfer from hands to food."
+  },
+  {
+    "id": "605d4f62-deef-422e-b1f4-9fd55982c1c3",
+    "question": "A food handler who has not been diagnosed but carries Salmonella Typhi can spread the bacteria to food without showing symptoms. This person is known as a:",
+    "answers": [
+      {
+        "text": "Carrier",
+        "explanation": "A carrier is a person who is infected with a pathogen such as Salmonella Typhi but does not show symptoms. Carriers can still contaminate food and cause illness in others, which is why Salmonella Typhi is one of the Big 6 reportable pathogens requiring exclusion from food handling duties.",
+        "isCorrect": true
+      },
+      {
+        "text": "Incubator",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Vector",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Host",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "A carrier is a person who is infected with a pathogen such as Salmonella Typhi but does not show symptoms. Carriers can still contaminate food and cause illness in others, which is why Salmonella Typhi is one of the Big 6 reportable pathogens requiring exclusion from food handling duties."
+  },
+  {
+    "id": "db10b391-6fbf-41cc-80cb-22138fb1e36a",
+    "question": "A food truck manager needs to check the chlorine sanitizer concentration. The test strip shows 40 ppm. What should be done?",
+    "answers": [
+      {
+        "text": "Continue using the solution as it is effective",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Discard the solution and prepare a fresh chlorine sanitizer at the correct concentration of 50\u201399 ppm",
+        "explanation": "Per ServSafe Chapter 12, chlorine sanitizer must be maintained at 50\u201399 ppm to be effective. A reading of 40 ppm falls below the minimum required concentration and will not adequately reduce pathogens on food-contact surfaces. The solution must be discarded and a fresh batch mixed to the correct concentration before use.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dilute the solution with more water",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Replace the test strips",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 12, chlorine sanitizer must be maintained at 50\u201399 ppm to be effective. A reading of 40 ppm falls below the minimum required concentration and will not adequately reduce pathogens on food-contact surfaces. The solution must be discarded and a fresh batch mixed to the correct concentration before use."
+  },
+  {
+    "id": "29e0e0cd-d136-4e64-9c25-903ff74b0b11",
+    "question": "A food establishment loses its operating permit after a severe foodborne illness outbreak. Which type of cost does this represent?",
+    "answers": [
+      {
+        "text": "A legal and regulatory cost resulting in loss of the ability to operate",
+        "explanation": "The ServSafe study guide identifies several costs associated with foodborne illness outbreaks, including legal actions, loss of business, and closure. Losing an operating permit is a regulatory and legal consequence that directly prevents the business from operating. Regulatory authorities \u2014 such as state and local health departments \u2014 have the power to suspend or revoke permits when a food establishment poses a public health risk, making this one of the most severe consequences of a foodborne illness incident.",
+        "isCorrect": true
+      },
+      {
+        "text": "A marketing cost due to the need for rebranding the restaurant",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "An indirect financial cost caused by reduced customer traffic",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "An operational cost from increased food safety training requirements",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The ServSafe study guide identifies several costs associated with foodborne illness outbreaks, including legal actions, loss of business, and closure. Losing an operating permit is a regulatory and legal consequence that directly prevents the business from operating. Regulatory authorities \u2014 such as state and local health departments \u2014 have the power to suspend or revoke permits when a food establishment poses a public health risk, making this one of the most severe consequences of a foodborne illness incident."
+  },
+  {
+    "id": "3450fcd4-7af5-419c-9bc9-ab01ceedc566",
+    "question": "A baker wants to wear nail polish while decorating cakes. Under what condition is this acceptable?",
+    "answers": [
+      {
+        "text": "Only clear nail polish is allowed",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "When wearing single-use gloves over the nail polish",
+        "explanation": "Per ServSafe Chapter 3, nail polish is not allowed unless the food handler wears single-use gloves. The gloves create a barrier that prevents nail polish chips from contaminating food while maintaining proper hand hygiene.",
+        "isCorrect": true
+      },
+      {
+        "text": "If the nail polish is applied fresh that day",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Nail polish is never acceptable in food service",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 3, nail polish is not allowed unless the food handler wears single-use gloves. The gloves create a barrier that prevents nail polish chips from contaminating food while maintaining proper hand hygiene."
+  },
+  {
+    "id": "c0c233ba-d538-46d6-97a0-e49785b4c633",
+    "question": "What is the correct minimum lighting level required in other areas of a food service operation, such as handwashing areas and wait stations, that are not food preparation zones?",
+    "answers": [
+      {
+        "text": "10 foot-candles",
+        "explanation": "According to ServSafe, general areas of a food service facility that are not used for food preparation \u2014 such as dining rooms, handwashing stations, wait stations, and locker rooms \u2014 require a minimum of 10 foot-candles of lighting intensity. This is lower than the 50 foot-candles required at prep surfaces and the 20 foot-candles required in walk-ins and dry storage.",
+        "isCorrect": true
+      },
+      {
+        "text": "20 foot-candles",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "30 foot-candles",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "50 foot-candles",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to ServSafe, general areas of a food service facility that are not used for food preparation \u2014 such as dining rooms, handwashing stations, wait stations, and locker rooms \u2014 require a minimum of 10 foot-candles of lighting intensity. This is lower than the 50 foot-candles required at prep surfaces and the 20 foot-candles required in walk-ins and dry storage."
+  },
+  {
+    "id": "13451056-850c-491f-aaed-65a5d2a7f870",
+    "question": "What is the typical onset time for hepatitis A symptoms after exposure?",
+    "answers": [
+      {
+        "text": "Approximately 28 days",
+        "explanation": "Per ServSafe Chapter 2, hepatitis A has a typical onset time of approximately 28 days, with a range of 15 to 50 days. Common symptoms include jaundice (yellowing of skin and eyes). This virus is transmitted through the fecal-oral route, and infected food handlers pose a significant risk to customers because they may be contagious before symptoms appear.",
+        "isCorrect": true
+      },
+      {
+        "text": "12-48 hours",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "7 days",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2-5 days",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 2, hepatitis A has a typical onset time of approximately 28 days, with a range of 15 to 50 days. Common symptoms include jaundice (yellowing of skin and eyes). This virus is transmitted through the fecal-oral route, and infected food handlers pose a significant risk to customers because they may be contagious before symptoms appear."
+  },
+  {
+    "id": "68516352-4637-4257-b6a6-12160326ba38",
+    "question": "What type of business cost occurs when customers stop dining at a restaurant after hearing about a foodborne illness incident?",
+    "answers": [
+      {
+        "text": "Legal settlement costs",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Lost customers and revenue",
+        "explanation": "Per ServSafe Chapter 1, lost customers and revenue represent significant business costs following foodborne illness incidents. When customers lose confidence in an establishment's food safety, they choose to dine elsewhere, resulting in decreased sales that can have long-lasting financial impacts on the business.",
+        "isCorrect": true
+      },
+      {
+        "text": "Staff retraining expenses",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Equipment replacement costs",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 1, lost customers and revenue represent significant business costs following foodborne illness incidents. When customers lose confidence in an establishment's food safety, they choose to dine elsewhere, resulting in decreased sales that can have long-lasting financial impacts on the business."
+  },
+  {
+    "id": "25cc3774-914a-45b3-8277-3cb27b3291d4",
+    "question": "Which of the following situations requires a food handler to wash their hands?",
+    "answers": [
+      {
+        "text": "After handling raw meat and before touching ready-to-eat food",
+        "explanation": "The ServSafe study guide clearly states that food handlers must wash their hands after handling raw meat, poultry, or seafood\u2014and before touching ready-to-eat food. This is one of the most critical handwashing moments because raw animal products commonly carry pathogens like Salmonella and E. coli O157:H7 that can contaminate RTE foods and cause illness.",
+        "isCorrect": true
+      },
+      {
+        "text": "After changing from one pair of gloves to a new pair of gloves",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Before removing single-use gloves at the end of a task",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "After reading a food temperature with a sanitized thermometer",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The ServSafe study guide clearly states that food handlers must wash their hands after handling raw meat, poultry, or seafood\u2014and before touching ready-to-eat food. This is one of the most critical handwashing moments because raw animal products commonly carry pathogens like Salmonella and E. coli O157:H7 that can contaminate RTE foods and cause illness."
+  },
+  {
+    "id": "c3dd3ab3-ec65-49df-96f2-ca83bb36a41f",
+    "question": "A prep cook is preparing large batches of chicken salad for a catering event. What is the best practice to minimize time in the Temperature Danger Zone?",
+    "answers": [
+      {
+        "text": "Prepare all ingredients at once and assemble everything together",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Prepare in small batches and return to refrigeration quickly",
+        "explanation": "Per ServSafe Chapter 6, preparing food in small batches and returning it to refrigeration quickly minimizes the time food spends in the Temperature Danger Zone. This practice prevents bacterial growth during preparation.",
+        "isCorrect": true
+      },
+      {
+        "text": "Prepare everything and hold at room temperature until service",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Prepare early in the morning for evening service",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 6, preparing food in small batches and returning it to refrigeration quickly minimizes the time food spends in the Temperature Danger Zone. This practice prevents bacterial growth during preparation."
+  },
+  {
+    "id": "a77f4415-7c07-42ca-94da-eec7b50b9d04",
+    "question": "Which characteristic is required for food service facility floors according to ServSafe guidelines?",
+    "answers": [
+      {
+        "text": "Textured and porous for better grip",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Smooth, durable, and nonabsorbent",
+        "explanation": "Per ServSafe Chapter 10, floors must be smooth, durable, nonabsorbent, and easy to clean. These characteristics prevent bacteria growth and make sanitation more effective.",
+        "isCorrect": true
+      },
+      {
+        "text": "Carpeted in dining areas only",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Made of natural materials like wood",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 10, floors must be smooth, durable, nonabsorbent, and easy to clean. These characteristics prevent bacteria growth and make sanitation more effective."
+  },
+  {
+    "id": "0fd14607-47bd-4c4c-b3b0-763b72fafda3",
+    "question": "Which biological toxin is associated with reef fish and cannot be destroyed by cooking?",
+    "answers": [
+      {
+        "text": "Scombrotoxin",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Paralytic shellfish poisoning (PSP)",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Aflatoxin",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Ciguatoxin",
+        "explanation": "Per ServSafe Chapter 2, ciguatoxin is found in certain reef fish like barracuda, grouper, and snapper and cannot be destroyed by cooking, freezing, or other food preparation methods. This naturally occurring toxin causes ciguatera poisoning with neurological symptoms.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": "Per ServSafe Chapter 2, ciguatoxin is found in certain reef fish like barracuda, grouper, and snapper and cannot be destroyed by cooking, freezing, or other food preparation methods. This naturally occurring toxin causes ciguatera poisoning with neurological symptoms."
+  },
+  {
+    "id": "f89b6a84-4ee2-4763-a41a-f52d74ca2163",
+    "question": "A food handler is cleaning a commercial oven, which is a non-food-contact surface. Which of the following cleaning steps is NOT required for non-food-contact surfaces?",
+    "answers": [
+      {
+        "text": "Sanitizing with an approved chemical solution after cleaning",
+        "explanation": "According to ServSafe, non-food-contact surfaces such as the outside of ovens, storage shelving, and equipment exteriors must be cleaned regularly to prevent the buildup of grease, dust, and debris. However, they do not require sanitizing the way food-contact surfaces do. Sanitizing is specifically required for surfaces that come into direct contact with food.",
+        "isCorrect": true
+      },
+      {
+        "text": "Removing loose debris and grease buildup before washing",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Using an appropriate detergent during the washing step",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Rinsing away detergent residue after washing",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to ServSafe, non-food-contact surfaces such as the outside of ovens, storage shelving, and equipment exteriors must be cleaned regularly to prevent the buildup of grease, dust, and debris. However, they do not require sanitizing the way food-contact surfaces do. Sanitizing is specifically required for surfaces that come into direct contact with food."
+  },
+  {
+    "id": "3e161a8b-f051-48ec-b072-e76c3989eae6",
+    "question": "A cook stores acidic tomato sauce in a copper pot overnight. This could result in:",
+    "answers": [
+      {
+        "text": "Bacterial contamination",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Viral contamination",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Toxic metal poisoning",
+        "explanation": "Per ServSafe Chapter 2, acidic foods can leach toxic metals like copper, zinc, and lead from metal containers. This creates chemical contamination that can cause illness, which is why acidic foods should not be stored in metal containers for extended periods.",
+        "isCorrect": true
+      },
+      {
+        "text": "Physical contamination",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Per ServSafe Chapter 2, acidic foods can leach toxic metals like copper, zinc, and lead from metal containers. This creates chemical contamination that can cause illness, which is why acidic foods should not be stored in metal containers for extended periods."
+  },
+  {
+    "id": "0ab11c6e-b4a9-4a4e-bd1f-7c9fe438c5e7",
+    "question": "A restaurant uses a chemical sanitizing dishwasher. Which factor is MOST critical to verify before running a load of dishes through the machine?",
+    "answers": [
+      {
+        "text": "That the sanitizer concentration is within the manufacturer's recommended range",
+        "explanation": "For chemical sanitizing dishwashers, the sanitizer concentration must be verified before each use using test strips or another approved method. If the concentration is too low, pathogens will not be effectively reduced; if too high, it may leave unsafe chemical residue on dishes. Proper concentration is the most critical factor in chemical dishwasher effectiveness.",
+        "isCorrect": true
+      },
+      {
+        "text": "That the water temperature reaches at least 180\u00b0F during the final rinse",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "That dishes are pre-rinsed with hot water before loading",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "That the wash cycle temperature is at least 165\u00b0F",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "For chemical sanitizing dishwashers, the sanitizer concentration must be verified before each use using test strips or another approved method. If the concentration is too low, pathogens will not be effectively reduced; if too high, it may leave unsafe chemical residue on dishes. Proper concentration is the most critical factor in chemical dishwasher effectiveness."
+  },
+  {
+    "id": "1599c4cb-6ebd-4e51-9888-9ed914ea74f7",
+    "question": "A food handler is about to sanitize a prep table surface. The chlorine sanitizer test strip reads within the correct range. How long must the surface remain in contact with the chlorine solution to be properly sanitized?",
+    "answers": [
+      {
+        "text": "At least 7 seconds",
+        "explanation": "ServSafe specifies that chlorine sanitizer must remain in contact with the surface for a minimum of 7 seconds to effectively reduce pathogens to a safe level. This contact time, combined with the correct concentration of 50\u201399 ppm and a minimum water temperature of 75\u00b0F, ensures that the sanitizer can kill the required number of pathogens. Wiping the surface before the contact time is complete will reduce its effectiveness.",
+        "isCorrect": true
+      },
+      {
+        "text": "At least 30 seconds",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "At least 60 seconds",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "At least 15 seconds",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "ServSafe specifies that chlorine sanitizer must remain in contact with the surface for a minimum of 7 seconds to effectively reduce pathogens to a safe level. This contact time, combined with the correct concentration of 50\u201399 ppm and a minimum water temperature of 75\u00b0F, ensures that the sanitizer can kill the required number of pathogens. Wiping the surface before the contact time is complete will reduce its effectiveness."
+  },
+  {
+    "id": "a3b4c5d6-e7f8-9012-abcd-012345100007",
+    "question": "Which of the following is the minimum number of people who must experience similar illness symptoms after eating the same food before it is classified as a foodborne illness outbreak?",
+    "answers": [
+      {
+        "text": "Two or more people",
+        "explanation": "According to the ServSafe study guide, a foodborne illness outbreak is defined as an incident in which two or more people experience the same illness after eating the same food. Regulatory authorities must confirm the outbreak through an investigation. This definition is important because it distinguishes isolated cases of illness from a pattern that suggests a common contaminated food source.",
+        "isCorrect": true
+      },
+      {
+        "text": "Five or more people",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Ten or more people",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "At least one confirmed hospitalization must occur",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to the ServSafe study guide, a foodborne illness outbreak is defined as an incident in which two or more people experience the same illness after eating the same food. Regulatory authorities must confirm the outbreak through an investigation. This definition is important because it distinguishes isolated cases of illness from a pattern that suggests a common contaminated food source."
+  },
+  {
+    "id": "eeb9422d-2369-49ad-9e4a-f7f09917bff3",
+    "question": "A food handler is working a double shift and notices their uniform has become soiled from earlier food prep. What should they do?",
+    "answers": [
+      {
+        "text": "Change into a clean uniform as soon as possible, as a soiled uniform is a source of contamination",
+        "explanation": "According to the ServSafe study guide, food handlers must wear clean clothing at all times because a dirty uniform can harbor pathogens or physical contaminants that can be transferred to food or food-contact surfaces. Soiled uniforms are identified as a way food handlers can contaminate food. Food handlers should arrive in clean clothing and change into a fresh uniform if theirs becomes soiled during the shift. Aprons should also be removed before leaving the food preparation area.",
+        "isCorrect": true
+      },
+      {
+        "text": "Continue working since the uniform was clean at the start of the shift and contamination risk is low",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Wear a clean apron over the soiled uniform to cover the contaminated areas",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Wash the soiled portion of the uniform with soap and water in the restroom sink",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to the ServSafe study guide, food handlers must wear clean clothing at all times because a dirty uniform can harbor pathogens or physical contaminants that can be transferred to food or food-contact surfaces. Soiled uniforms are identified as a way food handlers can contaminate food. Food handlers should arrive in clean clothing and change into a fresh uniform if theirs becomes soiled during the shift. Aprons should also be removed before leaving the food preparation area."
+  },
+  {
+    "id": "29685d41-25fa-4b1e-90d3-091f4c05a898",
+    "question": "A restaurant's master cleaning schedule should include all of the following EXCEPT:",
+    "answers": [
+      {
+        "text": "What equipment needs to be cleaned",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Who is responsible for cleaning tasks",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Employee vacation schedules",
+        "explanation": "Per ServSafe Chapter 12, a master cleaning schedule includes what to clean, who cleans it, when to clean, how to clean (products and procedures), and tracks completion. Employee vacation schedules are not part of the cleaning schedule requirements.",
+        "isCorrect": true
+      },
+      {
+        "text": "How often cleaning should be performed",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Per ServSafe Chapter 12, a master cleaning schedule includes what to clean, who cleans it, when to clean, how to clean (products and procedures), and tracks completion. Employee vacation schedules are not part of the cleaning schedule requirements."
+  },
+  {
+    "id": "fa1a5949-331b-46b8-85cf-ae70c848f6ce",
+    "question": "A line cook is wearing gloves while preparing chicken. After finishing the chicken, they need to prepare vegetables. What should they do?",
+    "answers": [
+      {
+        "text": "Continue using the same gloves",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Wash the gloves with soap and water",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Change to new gloves after washing hands",
+        "explanation": "Per ServSafe Chapter 3, gloves must be changed when switching between raw meat and other foods to prevent cross-contamination. Hands should be washed before putting on new gloves.",
+        "isCorrect": true
+      },
+      {
+        "text": "Spray the gloves with sanitizer",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Per ServSafe Chapter 3, gloves must be changed when switching between raw meat and other foods to prevent cross-contamination. Hands should be washed before putting on new gloves."
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7890-efab-901234567890",
+    "question": "After properly cleaning and sanitizing a food-contact surface, a food handler uses a clean towel to dry the surface. According to ServSafe, why is this a problem?",
+    "answers": [
+      {
+        "text": "Towel drying can recontaminate the surface with pathogens from the towel",
+        "explanation": "ServSafe specifically states that food-contact surfaces must be allowed to air dry after sanitizing. Using a towel\u2014even a clean one\u2014can introduce pathogens back onto the sanitized surface, negating the sanitizing step. Air drying is the only acceptable method after the sanitizing step.",
+        "isCorrect": true
+      },
+      {
+        "text": "Towel drying removes the sanitizer residue needed to continue protecting the surface",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Towel drying is only a problem if the surface will be used for raw meat",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Towel drying causes the surface to corrode over time due to friction",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "ServSafe specifically states that food-contact surfaces must be allowed to air dry after sanitizing. Using a towel\u2014even a clean one\u2014can introduce pathogens back onto the sanitized surface, negating the sanitizing step. Air drying is the only acceptable method after the sanitizing step."
+  },
+  {
+    "id": "6d549518-26d2-4948-9302-5a6d6170d3b8",
+    "question": "A food truck operator transfers degreaser from a large container to a smaller spray bottle for easier use. How should the spray bottle be labeled?",
+    "answers": [
+      {
+        "text": "With the contents and any safety information",
+        "explanation": "Per ServSafe Chapter 12, when chemicals are transferred to secondary containers, they must be properly labeled with contents and safety information. This ensures safe handling and prevents accidental misuse of cleaning chemicals.",
+        "isCorrect": true
+      },
+      {
+        "text": "Labels are not required for secondary containers",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Only with the date of transfer",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Only with the employee's initials",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 12, when chemicals are transferred to secondary containers, they must be properly labeled with contents and safety information. This ensures safe handling and prevents accidental misuse of cleaning chemicals."
+  },
+  {
+    "id": "501373dd-4ff6-4906-9861-42fdc2947f38",
+    "question": "How often should food temperatures be checked during holding to allow time for corrective action?",
+    "answers": [
+      {
+        "text": "Every 2 hours",
+        "explanation": "Per ServSafe Chapter 8, food temperatures should be checked every 2 hours during holding. Checking every 2 hours gives staff enough time to take corrective action \u2014 such as reheating or discarding the food \u2014 before the 4-hour maximum time limit in the temperature danger zone is reached.",
+        "isCorrect": true
+      },
+      {
+        "text": "Every 4 hours",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Every 6 hours",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Every hour",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 8, food temperatures should be checked every 2 hours during holding. Checking every 2 hours gives staff enough time to take corrective action \u2014 such as reheating or discarding the food \u2014 before the 4-hour maximum time limit in the temperature danger zone is reached."
+  },
+  {
+    "id": "3e0ffe68-330b-4547-b891-7f95ee1be1dd",
+    "question": "A food handler uses a bimetallic stemmed thermometer to check the temperature of a large pot of soup. After removing the thermometer, the reading appears inaccurate. Which calibration method is best for verifying the thermometer's accuracy?",
+    "answers": [
+      {
+        "text": "Fill a container with ice and water, insert the thermometer, and verify it reads 32\u00b0F",
+        "explanation": "The ice-point method is the most common way to calibrate a bimetallic stemmed thermometer. A container is filled with ice and cold water, the thermometer stem is inserted at least 2 inches into the mixture, and after 30 seconds the thermometer should read 32\u00b0F (0\u00b0C). If it does not, the calibration nut should be adjusted until it reads correctly. This method is convenient and can be done in any kitchen.",
+        "isCorrect": true
+      },
+      {
+        "text": "Place the thermometer probe in boiling water and verify it reads 200\u00b0F",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Hold the thermometer at room temperature for 5 minutes and verify it reads 70\u00b0F",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Compare the reading to a digital thermometer and adjust if they differ by more than 5\u00b0F",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The ice-point method is the most common way to calibrate a bimetallic stemmed thermometer. A container is filled with ice and cold water, the thermometer stem is inserted at least 2 inches into the mixture, and after 30 seconds the thermometer should read 32\u00b0F (0\u00b0C). If it does not, the calibration nut should be adjusted until it reads correctly. This method is convenient and can be done in any kitchen."
+  },
+  {
+    "id": "5e2c38f4-ef5e-4a4b-8da7-cc5f41837a37",
+    "question": "A food truck is serving sandwiches at a festival without refrigeration. Using time as a public health control, the sandwiches started at 41\u00b0F at 10:00 AM. If it is now 1:00 PM and the sandwiches have reached 68\u00b0F, what should be done?",
+    "answers": [
+      {
+        "text": "Continue serving until 4:00 PM as long as the temperature stays below 70\u00b0F",
+        "explanation": "Under ServSafe's 6-hour rule for time as a public health control, food that starts at 41\u00b0F or below may be held for up to 6 hours as long as it never exceeds 70\u00b0F. The sandwiches began at 10:00 AM, so the 6-hour window ends at 4:00 PM. Since they are currently at 68\u00b0F \u2014 below the 70\u00b0F limit \u2014 they may continue to be served until 4:00 PM, provided the temperature remains below 70\u00b0F.",
+        "isCorrect": true
+      },
+      {
+        "text": "Discard the sandwiches immediately because they exceeded 65\u00b0F",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Move the sandwiches to refrigeration to reset the time limit",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Discard the sandwiches now because the 4-hour rule requires disposal at 2:00 PM",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Under ServSafe's 6-hour rule for time as a public health control, food that starts at 41\u00b0F or below may be held for up to 6 hours as long as it never exceeds 70\u00b0F. The sandwiches began at 10:00 AM, so the 6-hour window ends at 4:00 PM. Since they are currently at 68\u00b0F \u2014 below the 70\u00b0F limit \u2014 they may continue to be served until 4:00 PM, provided the temperature remains below 70\u00b0F."
+  },
+  {
+    "id": "8298c0a8-e05f-4825-97e0-63116497d6bb",
+    "question": "A food handler is storing raw meats in a walk-in cooler. Where should raw whole pork roasts be placed relative to raw ground beef and raw chicken?",
+    "answers": [
+      {
+        "text": "Below raw ground beef and above raw chicken",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Above raw ground beef and above raw chicken",
+        "explanation": "The correct storage order from top to bottom in a walk-in cooler is: ready-to-eat foods, seafood, whole cuts of beef and pork, ground meat, and poultry. Raw whole pork roasts must be stored above both raw ground beef and raw poultry because they have a lower minimum cooking temperature (145\u00b0F) compared to ground beef (155\u00b0F) and chicken (165\u00b0F).",
+        "isCorrect": true
+      },
+      {
+        "text": "On the same shelf as raw ground beef",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Above ready-to-eat foods since pork is fully cooked before serving",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The correct storage order from top to bottom in a walk-in cooler is: ready-to-eat foods, seafood, whole cuts of beef and pork, ground meat, and poultry. Raw whole pork roasts must be stored above both raw ground beef and raw poultry because they have a lower minimum cooking temperature (145\u00b0F) compared to ground beef (155\u00b0F) and chicken (165\u00b0F)."
+  },
+  {
+    "id": "5c7def62-fe17-4416-9952-652dd9d74f5e",
+    "question": "A food handler returns from a restroom break. At which step of the handwashing procedure should they use a single-use paper towel?",
+    "answers": [
+      {
+        "text": "To dry their hands after rinsing, and then use it to turn off the faucet",
+        "explanation": "According to the ServSafe study guide, the final step of proper handwashing is to dry hands with a single-use paper towel. That same towel should then be used to turn off the faucet to prevent recontaminating the freshly washed hands.",
+        "isCorrect": true
+      },
+      {
+        "text": "To scrub between their fingers during the washing step",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "To apply soap before scrubbing their hands",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "To wipe their hands before rinsing off the soap",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to the ServSafe study guide, the final step of proper handwashing is to dry hands with a single-use paper towel. That same towel should then be used to turn off the faucet to prevent recontaminating the freshly washed hands."
+  },
+  {
+    "id": "b6ca2921-0c33-47f4-81d3-0710f4476894",
+    "question": "A customer complains of a peppery taste and burning sensation after eating tuna. This is most likely caused by:",
+    "answers": [
+      {
+        "text": "Ciguatoxin poisoning",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Scombrotoxin (histamine poisoning)",
+        "explanation": "Per ServSafe Chapter 2, scombrotoxin occurs when tuna, mackerel, and other scombroid fish are time-temperature abused, allowing histamine to form. Symptoms include a peppery taste, burning sensation, and facial flushing, occurring within minutes of consumption.",
+        "isCorrect": true
+      },
+      {
+        "text": "Shellfish toxin",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Mycotoxin contamination",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 2, scombrotoxin occurs when tuna, mackerel, and other scombroid fish are time-temperature abused, allowing histamine to form. Symptoms include a peppery taste, burning sensation, and facial flushing, occurring within minutes of consumption."
+  },
+  {
+    "id": "5d2d6648-17b6-486e-b686-fc6a6a0d71dc",
+    "question": "A food handler who is infected with Hepatitis A virus and has not yet shown symptoms continues to work. Why is this particularly dangerous in a food service setting?",
+    "answers": [
+      {
+        "text": "The virus can be shed in feces and transferred to food before symptoms appear, infecting customers",
+        "explanation": "Hepatitis A has an incubation period of approximately 28 days, meaning an infected food handler can shed the virus in their feces and inadvertently contaminate food through poor handwashing long before experiencing symptoms like jaundice and fatigue. This pre-symptomatic shedding makes Hepatitis A one of the Big 6 reportable pathogens, requiring infected employees to be excluded from food handling duties.",
+        "isCorrect": true
+      },
+      {
+        "text": "The virus multiplies rapidly in food held in the temperature danger zone",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Hepatitis A produces heat-stable toxins in food that cannot be destroyed by cooking",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The virus is airborne and spreads through the kitchen ventilation system",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Hepatitis A has an incubation period of approximately 28 days, meaning an infected food handler can shed the virus in their feces and inadvertently contaminate food through poor handwashing long before experiencing symptoms like jaundice and fatigue. This pre-symptomatic shedding makes Hepatitis A one of the Big 6 reportable pathogens, requiring infected employees to be excluded from food handling duties."
+  },
+  {
+    "id": "d6fb9862-4d2c-4a72-a251-5ded2e72e39e",
+    "question": "A food service manager is evaluating pest entry points during a facility walkthrough. Which area is MOST commonly overlooked as a potential pest entry point?",
+    "answers": [
+      {
+        "text": "Utility pipe penetrations through walls and floors",
+        "explanation": "Gaps around utility pipes, conduits, and other penetrations through walls and floors are commonly overlooked entry points for pests. ServSafe's Integrated Pest Management (IPM) guidelines emphasize sealing all gaps, cracks, and openings\u2014including those around utility penetrations\u2014as part of the 'deny access' strategy to prevent pests from entering the facility.",
+        "isCorrect": true
+      },
+      {
+        "text": "Back delivery doors left open during receiving",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Floor drains without screens or covers",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Gaps under the front entrance door",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Gaps around utility pipes, conduits, and other penetrations through walls and floors are commonly overlooked entry points for pests. ServSafe's Integrated Pest Management (IPM) guidelines emphasize sealing all gaps, cracks, and openings\u2014including those around utility penetrations\u2014as part of the 'deny access' strategy to prevent pests from entering the facility."
+  },
+  {
+    "id": "081008fd-d992-4bf7-99f0-5b471b052e44",
+    "question": "What is the policy regarding bare-hand contact with ready-to-eat foods?",
+    "answers": [
+      {
+        "text": "Allowed if hands are washed immediately before",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Allowed only for cold foods",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Not allowed - use utensils or gloves",
+        "explanation": "Per ServSafe Chapter 3, bare-hand contact with ready-to-eat food is not allowed. Food handlers must use utensils, deli tissue, or single-use gloves when handling ready-to-eat foods to prevent contamination.",
+        "isCorrect": true
+      },
+      {
+        "text": "Allowed only during busy periods",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Per ServSafe Chapter 3, bare-hand contact with ready-to-eat food is not allowed. Food handlers must use utensils, deli tissue, or single-use gloves when handling ready-to-eat foods to prevent contamination."
+  },
+  {
+    "id": "a3f7c2e1-84b6-4d9a-b531-6e0f2d8c1a47",
+    "question": "A food handler needs to thaw frozen shrimp for tonight's dinner service and plans to cook them right away. Which thawing method allows the shrimp to be cooked as part of the thawing process?",
+    "answers": [
+      {
+        "text": "Thaw the shrimp as part of the cooking process",
+        "explanation": "According to the ServSafe study guide, one of the four approved thawing methods is to thaw food as part of the cooking process \u2014 meaning the food goes directly from frozen into the cooking equipment. This is acceptable as long as the food reaches the required minimum internal cooking temperature. For shrimp, that minimum is 145\u00b0F for 15 seconds. This method eliminates time spent in the Temperature Danger Zone (41\u00b0F\u2013135\u00b0F) during thawing.",
+        "isCorrect": true
+      },
+      {
+        "text": "Submerge the shrimp in a container of standing cold water for 30 minutes",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Place the shrimp on the prep counter and allow them to thaw at room temperature",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Thaw the shrimp under running water at 90\u00b0F",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to the ServSafe study guide, one of the four approved thawing methods is to thaw food as part of the cooking process \u2014 meaning the food goes directly from frozen into the cooking equipment. This is acceptable as long as the food reaches the required minimum internal cooking temperature. For shrimp, that minimum is 145\u00b0F for 15 seconds. This method eliminates time spent in the Temperature Danger Zone (41\u00b0F\u2013135\u00b0F) during thawing."
+  },
+  {
+    "id": "abbcc9b0-0f0b-48d8-8a58-a9907333d800",
+    "question": "A shipment of canned tomatoes arrives at the restaurant. Which condition would require the food handler to reject the entire shipment?",
+    "answers": [
+      {
+        "text": "The cans have swollen, bulging lids",
+        "explanation": "ServSafe instructs food handlers to reject canned goods with swollen or bulging lids. Swelling in cans is a sign of gas production inside, which is a major indicator of Clostridium botulinum contamination \u2014 the bacteria responsible for botulism. Other reject criteria for cans include leaks, severe rust, deep dents on seams, and missing labels. Even if only some cans in a shipment appear compromised, the entire lot should be rejected to prevent the risk of foodborne illness.",
+        "isCorrect": true
+      },
+      {
+        "text": "The cans have minor surface dust on the exterior",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The labels show a best-by date six months from now",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The cans were delivered on a refrigerated truck",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "ServSafe instructs food handlers to reject canned goods with swollen or bulging lids. Swelling in cans is a sign of gas production inside, which is a major indicator of Clostridium botulinum contamination \u2014 the bacteria responsible for botulism. Other reject criteria for cans include leaks, severe rust, deep dents on seams, and missing labels. Even if only some cans in a shipment appear compromised, the entire lot should be rejected to prevent the risk of foodborne illness."
+  },
+  {
+    "id": "9e42e15c-ddce-4dc6-b444-cf06dcea087f",
+    "question": "When putting on single-use gloves, what should food handlers do first?",
+    "answers": [
+      {
+        "text": "Select the correct glove size",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Wash and dry their hands",
+        "explanation": "Per ServSafe Chapter 3, food handlers must wash and dry their hands before putting on single-use gloves. Clean, dry hands are essential for proper glove donning and preventing contamination.",
+        "isCorrect": true
+      },
+      {
+        "text": "Put gloves on wet hands for better fit",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Apply hand sanitizer inside the gloves",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Per ServSafe Chapter 3, food handlers must wash and dry their hands before putting on single-use gloves. Clean, dry hands are essential for proper glove donning and preventing contamination."
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9012-cdef-123456780123",
+    "question": "A food handler takes a food delivery at 11:00 AM. The temperature of the receiving dock is 85\u00b0F. Which practice is most important during the receiving process?",
+    "answers": [
+      {
+        "text": "Inspect and store TCS foods as quickly as possible",
+        "explanation": "During receiving, TCS foods must be inspected and moved to proper storage immediately, especially in warm environments. Allowing TCS food to remain at ambient temperatures in the temperature danger zone (41\u00b0F\u2013135\u00b0F) increases the risk of bacterial growth. Foods should be checked for temperature compliance and stored promptly to maintain safety.",
+        "isCorrect": true
+      },
+      {
+        "text": "Allow all deliveries to sit for 30 minutes before inspection",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Check the appearance of packaging before checking temperatures",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Refrigerate the items first and check temperatures later",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "During receiving, TCS foods must be inspected and moved to proper storage immediately, especially in warm environments. Allowing TCS food to remain at ambient temperatures in the temperature danger zone (41\u00b0F\u2013135\u00b0F) increases the risk of bacterial growth. Foods should be checked for temperature compliance and stored promptly to maintain safety."
+  },
+  {
+    "id": "c9d0e1f2-a3b4-5678-cdef-789012345689",
+    "question": "Which of the following situations requires a food handler to wash their hands?",
+    "answers": [
+      {
+        "text": "After handling raw meat and before preparing a salad",
+        "explanation": "The ServSafe study guide identifies several critical handwashing moments, including after handling raw meat, poultry, or seafood before touching other foods or surfaces. Failing to wash hands between handling raw animal products and ready-to-eat items like salad ingredients is a primary cause of cross-contamination. Handwashing must be thorough and performed at a designated handwashing sink, not a prep sink.",
+        "isCorrect": true
+      },
+      {
+        "text": "After putting on a fresh pair of single-use gloves",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Before removing a soiled apron at the end of a shift",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "After wiping down a clean prep table with a sanitizer solution",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The ServSafe study guide identifies several critical handwashing moments, including after handling raw meat, poultry, or seafood before touching other foods or surfaces. Failing to wash hands between handling raw animal products and ready-to-eat items like salad ingredients is a primary cause of cross-contamination. Handwashing must be thorough and performed at a designated handwashing sink, not a prep sink."
+  },
+  {
+    "id": "695b1145-616d-4c2e-91c8-52dbfc0df0c3",
+    "question": "A receiving manager notices that a case of canned tomatoes has several badly dented cans with sharp edges along the seams. What should be done with these cans?",
+    "answers": [
+      {
+        "text": "Reject the damaged cans and refuse to accept them",
+        "explanation": "Per ServSafe Chapter 4, cans with severe dents \u2014 especially those with sharp edges or dents on the seams \u2014 must be rejected during receiving. Sharp-edged dents can compromise the can's integrity and create conditions favorable for contamination, including Clostridium botulinum growth.",
+        "isCorrect": true
+      },
+      {
+        "text": "Accept the delivery but set the damaged cans aside for return later",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Accept all cans and use the damaged ones first",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Accept the cans since dents do not affect the food inside",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 4, cans with severe dents \u2014 especially those with sharp edges or dents on the seams \u2014 must be rejected during receiving. Sharp-edged dents can compromise the can's integrity and create conditions favorable for contamination, including Clostridium botulinum growth."
+  },
+  {
+    "id": "89c06c50-981e-4e71-bd56-31431dd53fb7",
+    "question": "What is the minimum water temperature required for handwashing in a food service operation?",
+    "answers": [
+      {
+        "text": "100\u00b0F (38\u00b0C)",
+        "explanation": "The ServSafe study guide specifies that handwashing must be performed under running water that is at least 100\u00b0F (38\u00b0C). This temperature is warm enough to help activate the soap's lathering properties and make the process more comfortable, encouraging thorough handwashing, but it is not so hot as to cause harm. Cold water is less effective at removing oils and soils that harbor pathogens.",
+        "isCorrect": true
+      },
+      {
+        "text": "70\u00b0F (21\u00b0C)",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "110\u00b0F (43\u00b0C)",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "120\u00b0F (49\u00b0C)",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The ServSafe study guide specifies that handwashing must be performed under running water that is at least 100\u00b0F (38\u00b0C). This temperature is warm enough to help activate the soap's lathering properties and make the process more comfortable, encouraging thorough handwashing, but it is not so hot as to cause harm. Cold water is less effective at removing oils and soils that harbor pathogens."
+  },
+  {
+    "id": "6a772aa4-47f9-41c9-b658-82f27d1fb705",
+    "question": "Which of the following scenarios would most likely constitute a foodborne illness outbreak as defined by public health standards?",
+    "answers": [
+      {
+        "text": "Two or more people experience the same illness after eating the same food",
+        "explanation": "According to the ServSafe study guide, a foodborne illness outbreak is defined as an incident in which two or more people experience the same illness after eating the same food. Public health authorities must confirm the outbreak through an investigation. This definition helps distinguish isolated cases from systemic problems in food preparation or handling.",
+        "isCorrect": true
+      },
+      {
+        "text": "A single customer reports severe vomiting after eating at a restaurant",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "A food handler tests positive for a pathogen but shows no symptoms of illness",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "A restaurant fails a health inspection due to improper food storage temperatures",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "According to the ServSafe study guide, a foodborne illness outbreak is defined as an incident in which two or more people experience the same illness after eating the same food. Public health authorities must confirm the outbreak through an investigation. This definition helps distinguish isolated cases from systemic problems in food preparation or handling."
+  },
+  {
+    "id": "5300dfac-d1c7-4504-8271-ff198fea55c5",
+    "question": "To what minimum internal temperature must TCS food be reheated for hot holding, and within what time frame?",
+    "answers": [
+      {
+        "text": "165\u00b0F within 2 hours",
+        "explanation": "Per ServSafe Chapter 7, TCS food that will be hot held must be reheated to an internal temperature of 165\u00b0F for 15 seconds, and this must be accomplished within 2 hours. Food that is not reheated to this temperature within the time limit must be discarded.",
+        "isCorrect": true
+      },
+      {
+        "text": "135\u00b0F within 1 hour",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "155\u00b0F within 3 hours",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "145\u00b0F within 2 hours",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Per ServSafe Chapter 7, TCS food that will be hot held must be reheated to an internal temperature of 165\u00b0F for 15 seconds, and this must be accomplished within 2 hours. Food that is not reheated to this temperature within the time limit must be discarded."
+  }
+]

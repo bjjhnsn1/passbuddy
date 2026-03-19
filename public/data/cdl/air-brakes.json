@@ -1,0 +1,2302 @@
+[
+  {
+    "id": "e2e69b75-faeb-4da4-808f-f1de337d899b",
+    "question": "An air brake system is fully charged at what psi?",
+    "answers": [
+      {
+        "text": "75",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "125",
+        "explanation": "The governor of most air systems will be set to turn the compressor off at 125 psi, which is fully charged. During operation, the system may be in the 100 psi area if driving in the city and using the brakes often.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The governor of most air systems will be set to turn the compressor off at 125 psi, which is fully charged. During operation, the system may be in the 100 psi area if driving in the city and using the brakes often."
+  },
+  {
+    "id": "0f4e0dfc-9eea-422a-9054-42b3a7a6d8c3",
+    "question": "Your truck has a dual air system and one of the systems loses its pressure. What will happen?",
+    "answers": [
+      {
+        "text": "Either the front or back brake will not be fully operational.",
+        "explanation": "If one air system is very low on pressure, either the front or the rear brakes will not be operating fully.",
+        "isCorrect": true
+      },
+      {
+        "text": "Brake drums will not be fully pressurized.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The manual slack adjusters of the S-cam brakes will not be set properly.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "If one air system is very low on pressure, either the front or the rear brakes will not be operating fully."
+  },
+  {
+    "id": "85b6f85e-cc14-4485-b5bc-cc065fd5e341",
+    "question": "Which statement is true regarding slack adjusters?",
+    "answers": [
+      {
+        "text": "They are located between the brake shoe and brake drum.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "They remove the slack that develops when the brake shoe linings wear down.",
+        "explanation": "The slack adjuster is located between the push rod and S-cam and helps take up the space caused by the brake shoe linings wearing down.",
+        "isCorrect": true
+      },
+      {
+        "text": "They activate the parking brake (spring brakes).",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The slack adjuster is located between the push rod and S-cam and helps take up the space caused by the brake shoe linings wearing down."
+  },
+  {
+    "id": "259c15e1-e13d-4036-97de-7436b45c80c8",
+    "question": "The stop light switch:",
+    "answers": [
+      {
+        "text": "Tells you when the air brake system is low on air pressure.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Tells you when you need to use your emergency brakes.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Turns on the brake lights when you put on the air brakes.",
+        "explanation": "The electrical brake lights of a truck are activated by the electrical stop light switch in the air brake system that is controlled by air pressure when the brake pedal is pressed.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "The electrical brake lights of a truck are activated by the electrical stop light switch in the air brake system that is controlled by air pressure when the brake pedal is pressed."
+  },
+  {
+    "id": "b1812218-9460-4919-8ba2-abd8b6939b64",
+    "question": "Modern air brakes combine the three different systems. They are the service, the parking, and the ____ brakes.",
+    "answers": [
+      {
+        "text": "Foot",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Drum",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Emergency",
+        "explanation": "The primary air brake system is the service brake activated by the brake pedal and using an S-cam to press the shoes into the drums at each wheel. Both the parking and emergency brakes use the same mechanical spring brakes.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "The primary air brake system is the service brake activated by the brake pedal and using an S-cam to press the shoes into the drums at each wheel. Both the parking and emergency brakes use the same mechanical spring brakes."
+  },
+  {
+    "id": "d764ab9e-037d-4d19-b4d1-68f9818f4b80",
+    "question": "Which of these is NOT a proper time to apply the parking brakes?",
+    "answers": [
+      {
+        "text": "If you are going to test the parking brake to make sure that it holds the vehicle.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "If you will be stopping for only one hour.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "If the brakes are very hot (e.g. Just after coming down a steep grade).",
+        "explanation": "If the brakes are overheated from a recent downgrade descent, or they are wet in freezing temperatures, use wheel chocks to block the wheels rather than activating the parking brake. Overheated brakes may damage the parking brakes and wet freezing conditions may cause the parking brakes to freeze and lock up while you are away and prevent the truck from moving until they thaw.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "If the brakes are overheated from a recent downgrade descent, or they are wet in freezing temperatures, use wheel chocks to block the wheels rather than activating the parking brake. Overheated brakes may damage the parking brakes and wet freezing conditions may cause the parking brakes to freeze and lock up while you are away and prevent the truck from moving until they thaw."
+  },
+  {
+    "id": "b9e68642-b72b-431a-9fd5-9fd0eb20fc52",
+    "question": "The brake system that applies and releases the brakes when the driver uses the brake pedal is the ____ brake system.",
+    "answers": [
+      {
+        "text": "Service",
+        "explanation": "The system that stops the vehicle during normal braking as a response to pressing the brake pedal is the service brake, which is an air brake system. The emergency/parking brake is a mechanical spring-loaded system.",
+        "isCorrect": true
+      },
+      {
+        "text": "Emergency",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Parking",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The system that stops the vehicle during normal braking as a response to pressing the brake pedal is the service brake, which is an air brake system. The emergency/parking brake is a mechanical spring-loaded system."
+  },
+  {
+    "id": "3a02ed42-5897-4804-93bf-4fe7c98089c4",
+    "question": "The air brake lag distance at 55 mph on dry pavement adds about ____ feet.",
+    "answers": [
+      {
+        "text": "32",
+        "explanation": "Be aware of driving conditions and how they affect your ability to stop. Even under ideal driving conditions, air brake lag will result in an additional 32 feet of stopping distance when traveling 55 mph for a total of more than 450 feet. Allow for additional stopping distance when conditions are less than ideal.",
+        "isCorrect": true
+      },
+      {
+        "text": "52",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Be aware of driving conditions and how they affect your ability to stop. Even under ideal driving conditions, air brake lag will result in an additional 32 feet of stopping distance when traveling 55 mph for a total of more than 450 feet. Allow for additional stopping distance when conditions are less than ideal."
+  },
+  {
+    "id": "afb42617-5c8b-4e99-a69b-db8497d44466",
+    "question": "Which issue is likely to result from the service brakes overheating on a steep down grade?",
+    "answers": [
+      {
+        "text": "Brake fade or possible failure",
+        "explanation": "Brakes work by converting the kinetic energy of the moving vehicle into thermal energy. The heat can damage the brake shoe linings and expand the brake drums.",
+        "isCorrect": true
+      },
+      {
+        "text": "Transmission damage from engine braking",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Engine damage from excessive engine braking with no service brake assistance",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Brakes work by converting the kinetic energy of the moving vehicle into thermal energy. The heat can damage the brake shoe linings and expand the brake drums."
+  },
+  {
+    "id": "37f29332-1092-4109-b2be-d1dba2595370",
+    "question": "If your truck or bus has dual parking control valves, you can use pressure from a separate tank to:",
+    "answers": [
+      {
+        "text": "Release the spring emergency/parking brakes to move a short distance.",
+        "explanation": "Parking and emergency brakes are currently spring-loaded mechanical brakes. The springs are held back by air pressure, so they are not activated when air pressure is present. When air pressure is removed the springs move into place to activate the mechanical brakes. Pressure from a separate tank can be used to hold the springs back to move a short distance.",
+        "isCorrect": true
+      },
+      {
+        "text": "Balance the service brake system when you are parked.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Stay parked twice as long without using up service air pressure.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Parking and emergency brakes are currently spring-loaded mechanical brakes. The springs are held back by air pressure, so they are not activated when air pressure is present. When air pressure is removed the springs move into place to activate the mechanical brakes. Pressure from a separate tank can be used to hold the springs back to move a short distance."
+  },
+  {
+    "id": "1dd45070-3a44-4bb6-8b84-05f3f6f38653",
+    "question": "Parking or emergency brakes of trucks and buses can be legally held on by ____ pressure.",
+    "answers": [
+      {
+        "text": "Air",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Fluid",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Spring",
+        "explanation": "Since air pressure will eventually leak away with time, emergency brakes must be activated and held by mechanical force. All commercial trucks require emergency brakes. Currently, those are spring-loaded mechanical brakes.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Since air pressure will eventually leak away with time, emergency brakes must be activated and held by mechanical force. All commercial trucks require emergency brakes. Currently, those are spring-loaded mechanical brakes."
+  },
+  {
+    "id": "cb054f96-c0b0-4f15-b3f5-a186bc91f36e",
+    "question": "Total stopping distance for air brakes is longer than for hydraulic brakes due to ____ distance.",
+    "answers": [
+      {
+        "text": "Brake lag",
+        "explanation": "For automotive purposes, it is assumed that liquids cannot be compressed and thus depressing a brake pedal for a hydraulic system causes an almost immediate effect. By comparison, air can be compressed, plus the brake lines of a commercial truck are longer than a passenger vehicle so there is a delay of about half a second between pressing the brake pedal and activation of the S-cam at the drums to begin braking.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reaction",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Effective braking",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "For automotive purposes, it is assumed that liquids cannot be compressed and thus depressing a brake pedal for a hydraulic system causes an almost immediate effect. By comparison, air can be compressed, plus the brake lines of a commercial truck are longer than a passenger vehicle so there is a delay of about half a second between pressing the brake pedal and activation of the S-cam at the drums to begin braking."
+  },
+  {
+    "id": "1cf4c4db-c4a0-4d69-bde8-71bf15ae8bbc",
+    "question": "If your vehicle has an alcohol evaporator, it is there to:",
+    "answers": [
+      {
+        "text": "Reduce the risk of icing in air brake valves in cold weather.",
+        "explanation": "The purpose of an alcohol evaporator is to remove water from the air in the air brake system. Compressing air often causes condensation so the water needs to be removed. Alcohol attracts moisture and transports it to the evaporator. Failure to remove the air can cause the water to freeze in the system causing failure.",
+        "isCorrect": true
+      },
+      {
+        "text": "Eliminate the need for daily tank draining.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Boost tank pressure, the same way that turbocharges boost engine.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The purpose of an alcohol evaporator is to remove water from the air in the air brake system. Compressing air often causes condensation so the water needs to be removed. Alcohol attracts moisture and transports it to the evaporator. Failure to remove the air can cause the water to freeze in the system causing failure."
+  },
+  {
+    "id": "6bc11be1-cb23-415f-bd7d-e0b6282d9cc9",
+    "question": "The proper use of the brakes when going down a long steep grade after selecting a proper gear is to brake until your speed is about ____ below the posted speed and release your brake.",
+    "answers": [
+      {
+        "text": "5 mph",
+        "explanation": "When traveling on a long and steep downgrade, it is best practice to supplement engine braking when the vehicle reaches the speed limit by applying the brakes until you have reduced speed by 5 mph then release the brakes and repeat the process. Pull over and let the service brakes cool down if needed due to excessive brake fade.",
+        "isCorrect": true
+      },
+      {
+        "text": "10 mph",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "15 mph",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "When traveling on a long and steep downgrade, it is best practice to supplement engine braking when the vehicle reaches the speed limit by applying the brakes until you have reduced speed by 5 mph then release the brakes and repeat the process. Pull over and let the service brakes cool down if needed due to excessive brake fade."
+  },
+  {
+    "id": "7be5212a-346f-42a3-b9c1-6115bf983ca6",
+    "question": "Which condition will cause the antilock brakes system to activate?",
+    "answers": [
+      {
+        "text": "Hard emergency braking",
+        "explanation": "When driving a vehicle with ABS you should brake normally, meaning you should brake with whatever amount of pressure you deem necessary to stop. If the pressure is ever hard enough to cause wheel lockup, then the ABS unit will activate and prevent lockup.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hydroplaning",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Controlled braking",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "When driving a vehicle with ABS you should brake normally, meaning you should brake with whatever amount of pressure you deem necessary to stop. If the pressure is ever hard enough to cause wheel lockup, then the ABS unit will activate and prevent lockup."
+  },
+  {
+    "id": "795778d3-2f96-4284-899e-3babab423e41",
+    "question": "How should spring brakes be tested on a tractor-trailer?",
+    "answers": [
+      {
+        "text": "Press the service brake pedal and accelerator simultaneously until the spring brakes activate.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Repeatedly press and release the air brake pedal to release air until the spring brakes activate.",
+        "explanation": "The spring brakes, for both emergency and parking, are activated when air pressure is removed. Repeatedly pressing and releasing the air brake pedal will cause air to vent faster than the compressor can build it back up until the spring brakes activate.",
+        "isCorrect": true
+      },
+      {
+        "text": "Use the handbrake lever on the trailer to set the brakes.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The spring brakes, for both emergency and parking, are activated when air pressure is removed. Repeatedly pressing and releasing the air brake pedal will cause air to vent faster than the compressor can build it back up until the spring brakes activate."
+  },
+  {
+    "id": "baf66bf6-9731-4550-b9e2-303fe742fb76",
+    "question": "Repeatedly partially increasing and pressing the brake pedal may result in:",
+    "answers": [
+      {
+        "text": "No change of brake air pressure.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "A buildup of brake air pressure.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "A loss of brake air pressure.",
+        "explanation": "In an air brake system, the air is vented to the atmosphere when the pedal is released and the compressor is relied on to maintain the air pressure. Excessive pressing and releasing the pedal may cause more air to be released than the compressor can quickly replace.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "In an air brake system, the air is vented to the atmosphere when the pedal is released and the compressor is relied on to maintain the air pressure. Excessive pressing and releasing the pedal may cause more air to be released than the compressor can quickly replace."
+  },
+  {
+    "id": "42ccdd09-b8df-40f4-808f-4e3795387a7c",
+    "question": "For what reason do air tanks need to be drained daily?",
+    "answers": [
+      {
+        "text": "To recycle compressor oil back into the system once drained.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "To prevent water from freezing in the system resulting in failure.",
+        "explanation": "Moisture building up in the system can freeze and block an air passage resulting in an air brake failure.",
+        "isCorrect": true
+      },
+      {
+        "text": "To release air pressure when the vehicle is out of service for an extended time.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Moisture building up in the system can freeze and block an air passage resulting in an air brake failure."
+  },
+  {
+    "id": "40e4e8b2-bb2e-4453-b832-93eadd87c2a1",
+    "question": "During the applied leakage test, air pressure should not leak more than:",
+    "answers": [
+      {
+        "text": "3 psi per minute for a single vehicle or 4 psi for a combination vehicle.",
+        "explanation": "During the applied leakage test, air pressure should not leak down more than 3 psi per minute for a single vehicle and 4 psi for a combination vehicle.",
+        "isCorrect": true
+      },
+      {
+        "text": "4 psi per minute for a single vehicle or 5 psi for a combination vehicle.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "5 psi per minute for single vehicles and 6 psi for a combination vehicle.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "During the applied leakage test, air pressure should not leak down more than 3 psi per minute for a single vehicle and 4 psi for a combination vehicle."
+  },
+  {
+    "id": "5b5b7391-9450-4abb-a924-e858c8edddf8",
+    "question": "How often should air tanks be drained to remove moisture?",
+    "answers": [
+      {
+        "text": "During a pre-trip inspection",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Upon completion of the workday",
+        "explanation": "The air tanks need to be drained at the end of each workday to prevent moisture from freezing and causing brake failure.",
+        "isCorrect": true
+      },
+      {
+        "text": "About once per week.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The air tanks need to be drained at the end of each workday to prevent moisture from freezing and causing brake failure."
+  },
+  {
+    "id": "024a9be9-a9ba-4b76-84cd-5c52ec6269af",
+    "question": "Under which condition will an antilock brake system activate?",
+    "answers": [
+      {
+        "text": "While setting the parking brake",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "While braking hard to avoid an accident.",
+        "explanation": "An antilock braking system does not affect normal braking conditions such as when pulling up to a stop light, or gradually slowing for a bus stop. The system will activate under heavy emergency braking conditions when wheel speeds slow to the point of lockup while the vehicle is still moving.",
+        "isCorrect": true
+      },
+      {
+        "text": "While gradually braking when approaching a bus stop",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "An antilock braking system does not affect normal braking conditions such as when pulling up to a stop light, or gradually slowing for a bus stop. The system will activate under heavy emergency braking conditions when wheel speeds slow to the point of lockup while the vehicle is still moving."
+  },
+  {
+    "id": "68f2934d-403a-4ecb-ba63-343d8ab11b0e",
+    "question": "It is not safe to drive a vehicle that has brake drums with cracks that are longer than ____ of the width of the friction area.",
+    "answers": [
+      {
+        "text": "1/4",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1/8",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1/2",
+        "explanation": "During the walk-around inspection, seek service if the brake drums or rotors have a crack that is longer than 1/2 of the width of the friction area.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "During the walk-around inspection, seek service if the brake drums or rotors have a crack that is longer than 1/2 of the width of the friction area."
+  },
+  {
+    "id": "7546225d-f95c-4b0a-94bd-f711394a713f",
+    "question": "Once the air compressor is turned off due to operating pressure being achieved, at what pressure will the air compressor be allowed to turn on again?",
+    "answers": [
+      {
+        "text": "100 psi",
+        "explanation": "The air compressor governor will cut-in to allow pressure to build at 100 psi and cut-off to stop pressure between 120 and 140 psi",
+        "isCorrect": true
+      },
+      {
+        "text": "120 psi",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "140 psi",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The air compressor governor will cut-in to allow pressure to build at 100 psi and cut-off to stop pressure between 120 and 140 psi"
+  },
+  {
+    "id": "c373efc2-7d98-4004-90fc-65c6ad32284d",
+    "question": "When may the parking brake be used in conjunction with the service brake?",
+    "answers": [
+      {
+        "text": "Never, under no conditions should both brakes be used at the same time.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "While holding the vehicle still when the liquid cargo tankers are filled.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The parking brake can be applied partially by hand to supplement braking when the service brake begins to fade or fail.",
+        "explanation": "In the event that the service brakes begin to fade or fail, the manual lever for the parking brake can be used to gradually apply the spring brakes to supplement the service brakes until you come to a safe stop.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "In the event that the service brakes begin to fade or fail, the manual lever for the parking brake can be used to gradually apply the spring brakes to supplement the service brakes until you come to a safe stop."
+  },
+  {
+    "id": "0d135061-d7a9-496c-bdf1-662cd0005adb",
+    "question": "Under which conditions do front wheel brakes provide good braking performance?",
+    "answers": [
+      {
+        "text": "Wet or snowy conditions only.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Hot and dry conditions only.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Under all weather conditions.",
+        "explanation": "Early model CMVs used brake limiting valves to regulate air pressure to the front brakes. The latest research supports that front air brakes function well under all weather conditions and are unlikely to cause skids.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Early model CMVs used brake limiting valves to regulate air pressure to the front brakes. The latest research supports that front air brakes function well under all weather conditions and are unlikely to cause skids."
+  },
+  {
+    "id": "ad53745b-d42f-4e13-89b6-6f275d35cb98",
+    "question": "When is it allowable to manually adjust an automatic slack adjuster?",
+    "answers": [
+      {
+        "text": "It is never allowable to manually adjust an automatic slack adjuster.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Whenever there is more than a 1/2 inch clearance during inspection.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "When the automatic adjustment has stopped and only until they can be serviced.",
+        "explanation": "If an automatic slack adjuster stops making adjustments, it is allowable to manually adjust the slack adjuster temporarily. Have a certified technician inspect the adjusters after the trip is completed.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "If an automatic slack adjuster stops making adjustments, it is allowable to manually adjust the slack adjuster temporarily. Have a certified technician inspect the adjusters after the trip is completed."
+  },
+  {
+    "id": "fc746756-45a7-4636-8b9a-68ae5dbc5359",
+    "question": "What is the most likely result of a low air pressure warning signal failing to activate and warn the driver?",
+    "answers": [
+      {
+        "text": "In a dual air tank system the trailer brakes will operate but the tractor brakes will be inoperable when pressures fall far enough.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "In a dual air tank system either the left or right tractor brakes will be inoperable when pressures fall far enough.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "In a single air tank system, the emergency spring brakes will activate when pressures fall to around 20 psi.",
+        "explanation": "On a single air tank system, the tractor protection valve will activate around 40 psi. If the leak is on the trailer, the tractor will retain its service brakes and pressure will start to build again but the emergency brakes will activate on the trailer once pressures fall to about 20 psi. Similarly, on a dual system, the effects will be the same if the leak is on the trailer side. If the leak is on the tractor side, then either the front or rear brakes of the truck will fail.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "On a single air tank system, the tractor protection valve will activate around 40 psi. If the leak is on the trailer, the tractor will retain its service brakes and pressure will start to build again but the emergency brakes will activate on the trailer once pressures fall to about 20 psi. Similarly, on a dual system, the effects will be the same if the leak is on the trailer side. If the leak is on the tractor side, then either the front or rear brakes of the truck will fail."
+  },
+  {
+    "id": "4f9bb557-e1d4-4c0c-9259-ee95dd8d48bc",
+    "question": "Which CMV brake system uses compressed air to activate the brakes?",
+    "answers": [
+      {
+        "text": "Emergency brakes",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Parking brakes",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Service brakes",
+        "explanation": "The service brakes use compressed air to activate the brakes when the brake pedal is pressed.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "The service brakes use compressed air to activate the brakes when the brake pedal is pressed."
+  },
+  {
+    "id": "3d53943f-dd88-444d-a652-79d25d09391f",
+    "question": "The application pressure gauge shows how much air pressure you:",
+    "answers": [
+      {
+        "text": "Have in the air tanks.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Have in a modulating control valve.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Are applying to the brakes.",
+        "explanation": "As the name implies, the application pressure gauge indicates the amount of air pressure being applied to the brakes by the driver.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "As the name implies, the application pressure gauge indicates the amount of air pressure being applied to the brakes by the driver."
+  },
+  {
+    "id": "511ee182-39e8-43b1-8468-3b6f2b3e1128",
+    "question": "At which location does the supply pressure gauge(s) measure air pressure?",
+    "answers": [
+      {
+        "text": "At the air tank(s).",
+        "explanation": "A single gauge is used with a single air tank. Dual air tanks may use two gauges or a single gauge between the tanks that reads the pressure of both tanks.",
+        "isCorrect": true
+      },
+      {
+        "text": "At the brake tractor brake lines.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "At the tractor air brake chambers.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "A single gauge is used with a single air tank. Dual air tanks may use two gauges or a single gauge between the tanks that reads the pressure of both tanks."
+  },
+  {
+    "id": "cd42d47a-fd31-4fda-aa15-b05da8d18687",
+    "question": "The purpose of draining air tanks is to remove:",
+    "answers": [
+      {
+        "text": "sediment or other contaminants.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "moisture and any compressor oil.",
+        "explanation": "The purpose of draining air tanks is to remove any moisture produced during condensation and any compressor oil.",
+        "isCorrect": true
+      },
+      {
+        "text": "excessive air tank pressure.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The purpose of draining air tanks is to remove any moisture produced during condensation and any compressor oil."
+  },
+  {
+    "id": "50424652-e5be-496f-bc55-fb08ac34ae61",
+    "question": "The driver must be able to see a low air pressure warning which comes on before pressure in the service air tank falls below ____ psi.",
+    "answers": [
+      {
+        "text": "60",
+        "explanation": "Regulations dictate that a visible low air pressure warning indicator be activated and placed in full view of the operator when the pressure in the air supply system falls lower than 75 to 55 psi.",
+        "isCorrect": true
+      },
+      {
+        "text": "50",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "80",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Regulations dictate that a visible low air pressure warning indicator be activated and placed in full view of the operator when the pressure in the air supply system falls lower than 75 to 55 psi."
+  },
+  {
+    "id": "a42b7c1f-f6c3-4f16-a0e0-f2eef0a17fa7",
+    "question": "When does compressed air enter the brake air chamber?",
+    "answers": [
+      {
+        "text": "When the emergency brakes are activated.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "When the brake pedal is pressed.",
+        "explanation": "Compressed air enters the brake air chamber when the brake pedal is pressed to activate the drum brakes.",
+        "isCorrect": true
+      },
+      {
+        "text": "When the parking brake control knob is pulled.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Compressed air enters the brake air chamber when the brake pedal is pressed to activate the drum brakes."
+  },
+  {
+    "id": "137613a5-1b47-4ca4-97f2-0bf3283a5b8b",
+    "question": "Your brakes are fading when:",
+    "answers": [
+      {
+        "text": "The brake pedal feels spongy when you apply pressure.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Less pressure is needed on the brake pedal for each stop.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "You have to push harder on a brake pedal to control your speed on a downgrade.",
+        "explanation": "Brake fade can progress to the point that the brakes fail completely. The heat generated during excessive service braking, such as on a long and steep downgrade, can expand brake drums, warp rotors, and chemically change the integrity of the friction materials used in the process of converting kinetic energy to thermal energy. Stop the vehicle completely and let the brakes cool down before proceeding.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Brake fade can progress to the point that the brakes fail completely. The heat generated during excessive service braking, such as on a long and steep downgrade, can expand brake drums, warp rotors, and chemically change the integrity of the friction materials used in the process of converting kinetic energy to thermal energy. Stop the vehicle completely and let the brakes cool down before proceeding."
+  },
+  {
+    "id": "e2a191ac-345b-464d-b108-058948bf3c1f",
+    "question": "The most important thing to do when a low air pressure warning comes on is:",
+    "answers": [
+      {
+        "text": "Up-shift.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Stop and safely park as soon as possible.",
+        "explanation": "Whenever the low air pressure warning is activated, safely come to a complete stop as soon as possible. Park the vehicle and seek service before proceeding.",
+        "isCorrect": true
+      },
+      {
+        "text": "Downshift.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Whenever the low air pressure warning is activated, safely come to a complete stop as soon as possible. Park the vehicle and seek service before proceeding."
+  },
+  {
+    "id": "c915a5a5-13ee-488e-b1c7-9215b57e054a",
+    "question": "What issue may result if air pressure does not build fast enough during the air brake check?",
+    "answers": [
+      {
+        "text": "Eventual air brake failure",
+        "explanation": "Air pressure is vented to the atmosphere each time you let off the brake pedal to remove the air pressure from the brake chambers. It is possible to repeatedly press the brakes faster than the air compressor can keep up, eventually causing brake failure. Do not drive if the air pressure does not build fast enough when checked and seek service.",
+        "isCorrect": true
+      },
+      {
+        "text": "The inability to release the parking brake",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Immediate activation of the emergency brakes",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Air pressure is vented to the atmosphere each time you let off the brake pedal to remove the air pressure from the brake chambers. It is possible to repeatedly press the brakes faster than the air compressor can keep up, eventually causing brake failure. Do not drive if the air pressure does not build fast enough when checked and seek service."
+  },
+  {
+    "id": "490f7ae4-dc9d-4779-aa4b-250864942db7",
+    "question": "The air loss rate for a straight truck or bus with the engine off and the brakes on should not be more than:",
+    "answers": [
+      {
+        "text": "1 psi in 30 seconds.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3 psi in one minute.",
+        "explanation": "Assuming that the air system is at normal operating pressure and the engine is off, release all brakes and wait for the air gauge to stop moving. Once stopped, begin timing for 1 minute and the gauge should not lose more than 3 psi for a single vehicle or 4 psi for a combination vehicle.",
+        "isCorrect": true
+      },
+      {
+        "text": "2 psi in 45 seconds.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Assuming that the air system is at normal operating pressure and the engine is off, release all brakes and wait for the air gauge to stop moving. Once stopped, begin timing for 1 minute and the gauge should not lose more than 3 psi for a single vehicle or 4 psi for a combination vehicle."
+  },
+  {
+    "id": "c84bb78e-1e34-4c1d-be9f-bbe2a2738a76",
+    "question": "A slack adjuster free play needs to be adjusted if it is more than about ____ when you pull hard on it.",
+    "answers": [
+      {
+        "text": "1 inch",
+        "explanation": "S-cam brakes use slack adjusters to position the pushrod going to the cam. Make sure the parking brake is released and pull each slack adjuster hard while wearing gloves. If it moves more than an inch, the adjuster needs to be tightened.",
+        "isCorrect": true
+      },
+      {
+        "text": "1/4 inch",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1/2 inch",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "S-cam brakes use slack adjusters to position the pushrod going to the cam. Make sure the parking brake is released and pull each slack adjuster hard while wearing gloves. If it moves more than an inch, the adjuster needs to be tightened."
+  },
+  {
+    "id": "f6c078e4-7db4-4142-8c20-60bb0be84313",
+    "question": "Which characteristic is associated with controlled braking?",
+    "answers": [
+      {
+        "text": "Steering around any potential obstacle.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Braking in the shortest time possible.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Keeping the tractor-trailer in a straight line.",
+        "explanation": "Controlled braking involves applying the brakes just hard enough to avoid locking up while keeping the vehicle in a straight line to avoid jackknifing.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Controlled braking involves applying the brakes just hard enough to avoid locking up while keeping the vehicle in a straight line to avoid jackknifing."
+  },
+  {
+    "id": "9cccfc7d-f2be-4557-a96b-89efdc6dc43f",
+    "question": "The spring brakes of a tractor-trailer will activate once air pressure drops to approximately:",
+    "answers": [
+      {
+        "text": "70 to 85 psi.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "20 to 45 psi.",
+        "explanation": "First, the low-air pressure signal will be activated between 55 and 75 psi. Second, as air pressure continues to drop, the tractor protection valve will activate close to 45 psi. Third, the spring brakes will also begin applying at 45 psi as the spring pressure overcomes the remaining air pressure and will be fully applied when the air pressure gets down to 20 psi.",
+        "isCorrect": true
+      },
+      {
+        "text": "5 to 15 psi.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "First, the low-air pressure signal will be activated between 55 and 75 psi. Second, as air pressure continues to drop, the tractor protection valve will activate close to 45 psi. Third, the spring brakes will also begin applying at 45 psi as the spring pressure overcomes the remaining air pressure and will be fully applied when the air pressure gets down to 20 psi."
+  },
+  {
+    "id": "d2170186-7344-4337-9a5b-0f897d97a429",
+    "question": "The air compressor stops pumping air at what psi?",
+    "answers": [
+      {
+        "text": "125",
+        "explanation": "The air compressor governor will turn off the compressor at approximately 125 psi. The system also has a safety relief valve that will release pressure if it gets to 150 psi for any reason.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "150",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The air compressor governor will turn off the compressor at approximately 125 psi. The system also has a safety relief valve that will release pressure if it gets to 150 psi for any reason."
+  },
+  {
+    "id": "4aa83b8f-e583-4146-ad6b-ac8325bc0574",
+    "question": "A straight truck or bus air brake system should not leak at the rate of more than ____ psi per minute with the engine off and the brakes released.",
+    "answers": [
+      {
+        "text": "2",
+        "explanation": "Assuming that the air system is at normal operating pressure and the engine is off, then release all brakes and wait for the air gauge to stop moving. Once stopped, begin timing for 1 minute and the gauge should not lose more than 2 psi for a single vehicle.",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Assuming that the air system is at normal operating pressure and the engine is off, then release all brakes and wait for the air gauge to stop moving. Once stopped, begin timing for 1 minute and the gauge should not lose more than 2 psi for a single vehicle."
+  },
+  {
+    "id": "f9ac1262-0689-4a18-acac-f736b0a21187",
+    "question": "Stab braking:",
+    "answers": [
+      {
+        "text": "Press hard on brake pedal and apply the hand valve as you stop.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Apply your brakes all the way. Release the brakes when wheels lock up. As soon as the wheels start rolling, apply the brakes fully again.",
+        "explanation": "Stab braking is one of two emergency braking techniques. Stab braking involves applying the brakes hard until the wheels lock up, then immediately releasing the brakes until they begin rolling once more. This process is then repeated. Be sure the wheels have started rolling again before applying the brakes again.",
+        "isCorrect": true
+      },
+      {
+        "text": "Use light steady pressure on the brake pedal.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Stab braking is one of two emergency braking techniques. Stab braking involves applying the brakes hard until the wheels lock up, then immediately releasing the brakes until they begin rolling once more. This process is then repeated. Be sure the wheels have started rolling again before applying the brakes again."
+  },
+  {
+    "id": "fd45f867-b776-4d72-a5cb-4553662f49a7",
+    "question": "During normal driving, spring brakes are usually held back by:",
+    "answers": [
+      {
+        "text": "Spring pressure.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Bolts or clamps.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Air pressure.",
+        "explanation": "The springs are held back by air pressure, so they are not activated when air pressure is present. When air pressure is removed the springs move into place to activate the mechanical brakes.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "The springs are held back by air pressure, so they are not activated when air pressure is present. When air pressure is removed the springs move into place to activate the mechanical brakes."
+  },
+  {
+    "id": "b1b48a91-a274-4583-bada-1ef61e31b823",
+    "question": "Air braking takes more time than hydraulic braking because:",
+    "answers": [
+      {
+        "text": "Air brakes take more time to flow through the lines than hydraulic fluid.",
+        "explanation": "When the brake pedal is pressed there is a delay of approximately half a second before the brakes begin to apply. This delay is caused by additional compression of the air in the system combined with the long length of the brake lines.",
+        "isCorrect": true
+      },
+      {
+        "text": "Air brakes use different brake drums.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Air brakes require heavier return springs.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "When the brake pedal is pressed there is a delay of approximately half a second before the brakes begin to apply. This delay is caused by additional compression of the air in the system combined with the long length of the brake lines."
+  },
+  {
+    "id": "30a8322f-46b0-44a3-9126-2e7e461daae7",
+    "question": "The parking or emergency brake on a heavy vehicle can only be held in position by something that cannot leak away, like:",
+    "answers": [
+      {
+        "text": "Air pressure.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Hydraulic pressure.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Spring pressure.",
+        "explanation": "Since air pressure will eventually leak away with time, emergency brakes must be activated and held by mechanical force. All commercial trucks require emergency brakes and currently those are spring-loaded mechanical brakes.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Since air pressure will eventually leak away with time, emergency brakes must be activated and held by mechanical force. All commercial trucks require emergency brakes and currently those are spring-loaded mechanical brakes."
+  },
+  {
+    "id": "210c4804-e42e-4f9b-9de2-0ad0b89cfee9",
+    "question": "Which component is NOT found on drum brakes?",
+    "answers": [
+      {
+        "text": "Brake rotor",
+        "explanation": "Modern CMVs may be equipped with drum brakes, disk brakes, or a combination of each. Drum brakes consist of the brake drum, shoes, an S-cam, push rod, slack adjuster, and return springs. Brake rotors are the primary component of disk brakes.",
+        "isCorrect": true
+      },
+      {
+        "text": "S-cam",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Brake shoes",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Modern CMVs may be equipped with drum brakes, disk brakes, or a combination of each. Drum brakes consist of the brake drum, shoes, an S-cam, push rod, slack adjuster, and return springs. Brake rotors are the primary component of disk brakes."
+  },
+  {
+    "id": "5bb83aa8-4598-481b-849a-07bd7fdf7af8",
+    "question": "With air brake vehicles, the parking brake should be used:",
+    "answers": [
+      {
+        "text": "As little as possible.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Only during pre-trip inspections.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Whenever you leave the vehicle unattended.",
+        "explanation": "The parking brake is a mechanical system that functions without air. If leaving the vehicle unattended, always activate the parking brake by pulling out the control knob. It is also acceptable to chock the wheels.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "The parking brake is a mechanical system that functions without air. If leaving the vehicle unattended, always activate the parking brake by pulling out the control knob. It is also acceptable to chock the wheels."
+  },
+  {
+    "id": "27c0904b-918b-4d23-b65f-10bb452f0247",
+    "question": "The safety valve is set automatically when pressure is:",
+    "answers": [
+      {
+        "text": "150",
+        "explanation": "The primary air tank contains a safety relief valve to protect the air system from excessive pressure buildup. The safety relief valve typically activates at 150 psi.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The primary air tank contains a safety relief valve to protect the air system from excessive pressure buildup. The safety relief valve typically activates at 150 psi."
+  },
+  {
+    "id": "d0d7964f-6e11-491e-8baa-977275153a83",
+    "question": "If you do not have automatic tank drains, how often should you drain the oil and water from the bottom of compressed air storage tanks?",
+    "answers": [
+      {
+        "text": "After every four hours of service.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "At the end of each day of driving.",
+        "explanation": "Compressing air will cause condensation to build up inside the air system. The primary (first) air tank has a drain to capture this air, which will also include some compressor oil. Drain the valve at the end of each day to remove water that could freeze in cold weather, or cause corrosion in warm weather.",
+        "isCorrect": true
+      },
+      {
+        "text": "Once a week.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Compressing air will cause condensation to build up inside the air system. The primary (first) air tank has a drain to capture this air, which will also include some compressor oil. Drain the valve at the end of each day to remove water that could freeze in cold weather, or cause corrosion in warm weather."
+  },
+  {
+    "id": "8c7a8b8a-fde9-4f66-ad53-3c18306e1d32",
+    "question": "What is a \"Wig Wag\"",
+    "answers": [
+      {
+        "text": "A spring mount for hair pieces.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "A mechanical arm that signals low air pressure.",
+        "explanation": "A \"wig wag\" is a type of low air pressure warning device that drops down a mechanical arm from the top of the windshield so that it is clearly within your vision when air pressure in the primary reservoir has dropped to between 55 and 75 psi. Some are automatic systems that will return to the stored/default position when the air pressure rises above the 55 to 75 psi threshold.",
+        "isCorrect": true
+      },
+      {
+        "text": "Part of the stop light system.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "A \"wig wag\" is a type of low air pressure warning device that drops down a mechanical arm from the top of the windshield so that it is clearly within your vision when air pressure in the primary reservoir has dropped to between 55 and 75 psi. Some are automatic systems that will return to the stored/default position when the air pressure rises above the 55 to 75 psi threshold."
+  },
+  {
+    "id": "7f73009f-288b-430f-ad61-5bc62141225e",
+    "question": "Excessive use of the service brakes results in overheating which can lead to:",
+    "answers": [
+      {
+        "text": "Expansion of the brake drums.",
+        "explanation": "Excessive use of the service brakes results in overheating and leads to brake fade. Brake fade results from excessive heat causing chemical changes in the brake lining. This will reduce friction, and cause expansion of the brake drums.",
+        "isCorrect": true
+      },
+      {
+        "text": "Proper adjustment of S-cam.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Increase contact between the brake drums and linings.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Excessive use of the service brakes results in overheating and leads to brake fade. Brake fade results from excessive heat causing chemical changes in the brake lining. This will reduce friction, and cause expansion of the brake drums."
+  },
+  {
+    "id": "ce7a5d7b-2184-450b-b5d5-9ee4e06db023",
+    "question": "Which of the following will stop the vehicle in the event of complete air brake system failure?",
+    "answers": [
+      {
+        "text": "The service brake",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Spring brakes activated by the parking brake control knob.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Spring brakes activated as emergency brakes.",
+        "explanation": "When there is a complete failure of the air brakes there is no longer any air pressure to hold back the spring brakes from applying. In this situation, the spring brakes function as emergency brakes.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "When there is a complete failure of the air brakes there is no longer any air pressure to hold back the spring brakes from applying. In this situation, the spring brakes function as emergency brakes."
+  },
+  {
+    "id": "3c6ebf0a-e973-4912-a8b1-768daa016ee7",
+    "question": "How should you check that your service brakes are working properly?",
+    "answers": [
+      {
+        "text": "Park on level ground, chock the wheels, engage the parking brakes when you have the correct amount of air pressure to do so and shut the engine off.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Park on slight grade, drain off air pressure, set parking brake and check to the movement.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Park on level ground, wait until normal air pressure is reached, release the parking brake and move forward slowly at about 5 mph. Then apply the brakes firmly.",
+        "explanation": "The process to verify normal service brake operation is to wait for normal operating air pressure and then release the parking brake. Move forward to about five miles per hour and then firmly apply the service brakes.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "The process to verify normal service brake operation is to wait for normal operating air pressure and then release the parking brake. Move forward to about five miles per hour and then firmly apply the service brakes."
+  },
+  {
+    "id": "ac8bdbc4-6e1a-4c42-bf1e-0d34ea85bd57",
+    "question": "Which condition will exist if the air compressor should fail?",
+    "answers": [
+      {
+        "text": "Stored air in the tanks will allow the brakes to be applied a few times to stop.",
+        "explanation": "The air tanks will hold the existing air pressure until it is used. Each time you release the brakes after applying them, they vent the pressure to the atmosphere. Therefore, you will only have a few applications before the pressure is too low from venting.",
+        "isCorrect": true
+      },
+      {
+        "text": "The air brakes will fail, and the parking brake must be used to stop.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Air pressure will continue to leak out, so the truck should be stopped as soon as possible before the air is gone.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The air tanks will hold the existing air pressure until it is used. Each time you release the brakes after applying them, they vent the pressure to the atmosphere. Therefore, you will only have a few applications before the pressure is too low from venting."
+  },
+  {
+    "id": "4a9f1917-e7de-4f14-a7d7-5b4b7cf153d0",
+    "question": "Why should you drain water from compressed air tanks?",
+    "answers": [
+      {
+        "text": "Water can freeze in cold weather and cause brake failure.",
+        "explanation": "Compressed air systems generate condensation inside the system. This water needs to be removed to avoid freezing and prevent corrosion.",
+        "isCorrect": true
+      },
+      {
+        "text": "Water low boiling point reduces braking power.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "To keep from fowling the air compressor oil.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Compressed air systems generate condensation inside the system. This water needs to be removed to avoid freezing and prevent corrosion."
+  },
+  {
+    "id": "b406b347-753b-4c86-9db2-58d32b8443f2",
+    "question": "Which vehicles must be equipped with low air pressure warning devices?",
+    "answers": [
+      {
+        "text": "Only CMVs with air brake systems built after December 31st, 2003.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Only CMVs with air brake systems",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Any vehicle that uses air brakes.",
+        "explanation": "Any vehicle that relies on air pressure for the braking system requires a warning device for low air pressure.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Any vehicle that relies on air pressure for the braking system requires a warning device for low air pressure."
+  },
+  {
+    "id": "4ec84cfe-76f9-459d-826f-c8d4e7747849",
+    "question": "What will result if a CDL candidate does not study and pass the air brake knowledge test?",
+    "answers": [
+      {
+        "text": "Your CDL will be restricted to non-air brake vehicles",
+        "explanation": "The vast majority of CMVs use air brake systems for the service brakes. Most are brake drums with more changing over to disk brakes. Without passing the air brake knowledge test, you will be restricted to only driving hydraulic brake CMVs which are very few and generally much smaller in size.",
+        "isCorrect": true
+      },
+      {
+        "text": "You will not receive your CDL",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "You will be limited to driving vehicles under 15k GVW.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The vast majority of CMVs use air brake systems for the service brakes. Most are brake drums with more changing over to disk brakes. Without passing the air brake knowledge test, you will be restricted to only driving hydraulic brake CMVs which are very few and generally much smaller in size."
+  },
+  {
+    "id": "71ed8615-96cb-4a64-9f07-571e64c527b0",
+    "question": "When brakes are applied, the brake shoes or pads will press against the:",
+    "answers": [
+      {
+        "text": "Brake drum or disc.",
+        "explanation": "The brake shoes will press against the brake drum, or the brake pads will compress the brake rotor on a disc brake system.",
+        "isCorrect": true
+      },
+      {
+        "text": "Slack adjuster.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "S-cam.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The brake shoes will press against the brake drum, or the brake pads will compress the brake rotor on a disc brake system."
+  },
+  {
+    "id": "962d80d4-00fb-41d6-8039-9e368db4b9ae",
+    "question": "Which statement is true regarding the operation of a tractor-trailer equipped with an antilock braking system?",
+    "answers": [
+      {
+        "text": "Brake normally as if ABS was not present.",
+        "explanation": "ABS should not change how you drive the vehicle. Primarily use engine braking to slow down then supplement with the service brakes to stop. Brake normally and use the amount of pressure needed to stop.",
+        "isCorrect": true
+      },
+      {
+        "text": "The tractor-trailer will be able to stop in a shorter distance.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ABS will result in an inability to steer while braking.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "ABS should not change how you drive the vehicle. Primarily use engine braking to slow down then supplement with the service brakes to stop. Brake normally and use the amount of pressure needed to stop."
+  },
+  {
+    "id": "e4762192-2b5e-498d-904c-6851358d9752",
+    "question": "It is accepted that too much heat caused by using your brakes too often can also cause:",
+    "answers": [
+      {
+        "text": "Brake linings to split up.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Brake to fade or fail.",
+        "explanation": "Excessive use of the service brakes, like on downgrades in the mountains, results in overheating and leads to brake fade. Brake fade results from excessive heat causing chemical changes in the brake lining, which reduces friction, and also causes expansion of the brake drums.",
+        "isCorrect": true
+      },
+      {
+        "text": "Modulated control valve to wear out.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Excessive use of the service brakes, like on downgrades in the mountains, results in overheating and leads to brake fade. Brake fade results from excessive heat causing chemical changes in the brake lining, which reduces friction, and also causes expansion of the brake drums."
+  },
+  {
+    "id": "2dd55939-2e95-4d30-9382-4b7c570152fc",
+    "question": "How much air pressure should the air tanks have prior to driving a vehicle with a dual air brake system?",
+    "answers": [
+      {
+        "text": "75 psi",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "100 psi",
+        "explanation": "Make sure that the system has at least 100 psi prior to driving a vehicle with a dual air brake system.",
+        "isCorrect": true
+      },
+      {
+        "text": "125 psi",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Make sure that the system has at least 100 psi prior to driving a vehicle with a dual air brake system."
+  },
+  {
+    "id": "45abddf9-9d8e-450b-8bfb-771315c38ff6",
+    "question": "Which of the three vehicle braking systems are controlled by the brake pedal?",
+    "answers": [
+      {
+        "text": "Parking brakes",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Service brakes",
+        "explanation": "The service brakes (air brakes) are activated with the application of the brake pedal.",
+        "isCorrect": true
+      },
+      {
+        "text": "Emergency brakes",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The service brakes (air brakes) are activated with the application of the brake pedal."
+  },
+  {
+    "id": "d72095a4-7c94-4fe2-b784-9fd9ed16dbca",
+    "question": "The brake pedal in an air brake system:",
+    "answers": [
+      {
+        "text": "Is connected to slack adjusters by a series of rods and linkages.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Controls the air pressure applied to the brakes.",
+        "explanation": "The brake pedal of an air brake system controls a valve that controls the amount of air pressure that is applied to the brakes. Pressing hard results in greater air pressure, and releasing the pedal releases the pressure to the brakes.",
+        "isCorrect": true
+      },
+      {
+        "text": "Controls the speed of the air compressor.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The brake pedal of an air brake system controls a valve that controls the amount of air pressure that is applied to the brakes. Pressing hard results in greater air pressure, and releasing the pedal releases the pressure to the brakes."
+  },
+  {
+    "id": "31c9b3f4-28c0-4916-9604-d8179a83e188",
+    "question": "What is the purpose of the tractor protection valve?",
+    "answers": [
+      {
+        "text": "To activate the emergency brakes on the tractor when air pressure drops below 20 to 45 psi.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "To close off air to the trailer(s) when air pressure drops to the range of 20 to 45 psi.",
+        "explanation": "The tractor protection valve keeps air pressure in the tractor air brakes by cutting off air to the trailer(s) when pressure drops to the range of 20 to 45 psi in response to an air leak.",
+        "isCorrect": true
+      },
+      {
+        "text": "To close off air to the trailer(s) when air pressure drops to 55 psi.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The tractor protection valve keeps air pressure in the tractor air brakes by cutting off air to the trailer(s) when pressure drops to the range of 20 to 45 psi in response to an air leak."
+  },
+  {
+    "id": "b9d9b8ee-a857-4624-a013-f766fbe9c533",
+    "question": "Typically, the air pressure safety valve will open when the pressure reaches:",
+    "answers": [
+      {
+        "text": "125 psi",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "150 psi",
+        "explanation": "The safety valve will open at approximately 150 psi to vent excessive pressure to the atmosphere and lower system pressure back down to normal levels.",
+        "isCorrect": true
+      },
+      {
+        "text": "180 psi",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The safety valve will open at approximately 150 psi to vent excessive pressure to the atmosphere and lower system pressure back down to normal levels."
+  },
+  {
+    "id": "1036ab41-2481-455f-9b9e-f34f7ee37ff1",
+    "question": "Which brake system requires air pressure to operate?",
+    "answers": [
+      {
+        "text": "Parking brakes",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Emergency brakes",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Service brakes",
+        "explanation": "The service brakes are the only one out of the three that require air pressure to operate. Parking and emergency brakes both use spring-loaded brakes that are applied when air pressure is removed.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "The service brakes are the only one out of the three that require air pressure to operate. Parking and emergency brakes both use spring-loaded brakes that are applied when air pressure is removed."
+  },
+  {
+    "id": "7d05f04f-f215-41da-9503-fa5883b31140",
+    "question": "How are the service brakes applied on an air brake system?",
+    "answers": [
+      {
+        "text": "Pulling out the control knob.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Pressing the brake pedal.",
+        "explanation": "The service brake refers to the base or foundation brakes which are activated with the brake pedal.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pushing in the control knob.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The service brake refers to the base or foundation brakes which are activated with the brake pedal."
+  },
+  {
+    "id": "04425dff-35d4-4b8e-9b3d-c73f8a694d1b",
+    "question": "What gives an S-cam drum brake its name?",
+    "answers": [
+      {
+        "text": "The pushrod presses on the top of the \"S\".",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The camshaft moves in an S-shaped pattern.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The S-cam is in the shape of the letter \"S\"",
+        "explanation": "The end of the S-cam is shaped like the letter \"S\". The curved points at each end of the \"S\" press on the upper ends of the brake linings to move them against the brake drum.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "The end of the S-cam is shaped like the letter \"S\". The curved points at each end of the \"S\" press on the upper ends of the brake linings to move them against the brake drum."
+  },
+  {
+    "id": "73df509c-003c-44b0-9f7a-c8c6bde351b7",
+    "question": "Which braking procedure correctly describes \"stab braking\"?",
+    "answers": [
+      {
+        "text": "Rapidly pump the brake pedal three times and then hold it while also holding the steering wheel straight.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Press the brake pedal just firmly enough to avoid the wheels locking up while steering around the hazard.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Hit the brake pedal hard and release once you feel the wheels lock up. Repeat the process once the wheels begin to roll again.",
+        "explanation": "Stab braking cannot be done on a vehicle with ABS. Press the brake pedal as hard as you can and then release once you feel the wheels lock up. Repeat the process once the wheels start to roll again until you've come to a stop.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Stab braking cannot be done on a vehicle with ABS. Press the brake pedal as hard as you can and then release once you feel the wheels lock up. Repeat the process once the wheels start to roll again until you've come to a stop."
+  },
+  {
+    "id": "116a0f4d-f94f-4867-86e1-79c5b8571c32",
+    "question": "Which statement is true of spring brakes?",
+    "answers": [
+      {
+        "text": "Both emergency and parking brakes use the same spring brakes.",
+        "explanation": "Both the emergency brakes and parking brakes use the same spring brakes. Parking brakes are set when the driver intentionally removes air pressure to allow the spring brakes to engage. Emergency brakes activate the spring brakes when air pressure is unintentionally lost.",
+        "isCorrect": true
+      },
+      {
+        "text": "Spring brakes are allowed to activate when air line pressure drops to around 70 psi or less.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Spring brakes activate when air pressure overcomes spring pressure.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Both the emergency brakes and parking brakes use the same spring brakes. Parking brakes are set when the driver intentionally removes air pressure to allow the spring brakes to engage. Emergency brakes activate the spring brakes when air pressure is unintentionally lost."
+  },
+  {
+    "id": "5afd3bc6-a790-4920-aa82-8b471c115901",
+    "question": "What conditions are required to properly test the static air leakage rate?",
+    "answers": [
+      {
+        "text": "Engine on and parking brake activated.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Engine off and parking brake released.",
+        "explanation": "With the engine off and the parking brake released, monitor the rate of air pressure leak down. Leak down should be no more than 2 psi per minute for a single vehicle and 3 psi per minute for a combination vehicle.",
+        "isCorrect": true
+      },
+      {
+        "text": "Engine off and parking brake activated.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "With the engine off and the parking brake released, monitor the rate of air pressure leak down. Leak down should be no more than 2 psi per minute for a single vehicle and 3 psi per minute for a combination vehicle."
+  },
+  {
+    "id": "c28ccd6a-ca36-4d0e-8604-821edac6b67a",
+    "question": "Which statement properly describes spring brakes?",
+    "answers": [
+      {
+        "text": "A type of foundation service brake.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "A type of mechanical brake for emergencies or parking.",
+        "explanation": "Spring brakes are a type of mechanical brake for emergencies or parking. Springs are held back by air pressure from the air brake system. When the air pressure drops to under 45 psi the springs overcome the air pressure and being to apply the mechanical brake.",
+        "isCorrect": true
+      },
+      {
+        "text": "A type of antilock brake system.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Spring brakes are a type of mechanical brake for emergencies or parking. Springs are held back by air pressure from the air brake system. When the air pressure drops to under 45 psi the springs overcome the air pressure and being to apply the mechanical brake."
+  },
+  {
+    "id": "060b8731-ad8d-4988-82bd-e78c170df4c7",
+    "question": "The safety valve discharges automatically at the pressure of:",
+    "answers": [
+      {
+        "text": "100 psi.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "150 psi.",
+        "explanation": "The primary air tank contains a safety relief valve to protect the air system from excessive pressure buildup. The safety relief valve typically activates at 150 psi.",
+        "isCorrect": true
+      },
+      {
+        "text": "50 psi.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The primary air tank contains a safety relief valve to protect the air system from excessive pressure buildup. The safety relief valve typically activates at 150 psi."
+  },
+  {
+    "id": "a0edf9b0-f21b-4dd9-a51d-fbd4c9d29293",
+    "question": "What may result from allowing oil and water to collect in the air tank(s)?",
+    "answers": [
+      {
+        "text": "Potential overheating of the brakes",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Potential brake failure",
+        "explanation": "The primary issue with leaving moisture and oil in the air tanks is the potential for the moisture to freeze in cold weather and block an air line so that the brake cannot be activated.",
+        "isCorrect": true
+      },
+      {
+        "text": "Potentially causing the brakes to lock up during normal braking.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The primary issue with leaving moisture and oil in the air tanks is the potential for the moisture to freeze in cold weather and block an air line so that the brake cannot be activated."
+  },
+  {
+    "id": "95808698-2535-46d8-aed6-15e0f68abd43",
+    "question": "What is the minimum allowable brake shoe lining thickness?",
+    "answers": [
+      {
+        "text": "1/8 inch",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1/4 inch",
+        "explanation": "The minimum allowable brake shoe thickness is 1/4 inch",
+        "isCorrect": true
+      },
+      {
+        "text": "3/8 inch",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The minimum allowable brake shoe thickness is 1/4 inch"
+  },
+  {
+    "id": "670cec3a-f04c-4024-84ff-4a08f0644719",
+    "question": "If the air compressor should develop a leak, what keeps the air in the tanks?",
+    "answers": [
+      {
+        "text": "The one-way check valve.",
+        "explanation": "Regulations dictate that a one-way check valve be installed between the primary (first) air reservoir and the air compressor. In the event that the compressor should develop a leak, the one-way check valve will prevent air from leaking out of the reservoir back to the compressor.",
+        "isCorrect": true
+      },
+      {
+        "text": "The tractor protection valve.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The emergency relay valve.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Regulations dictate that a one-way check valve be installed between the primary (first) air reservoir and the air compressor. In the event that the compressor should develop a leak, the one-way check valve will prevent air from leaking out of the reservoir back to the compressor."
+  },
+  {
+    "id": "8ddcf400-2122-4ae1-a799-091188e77626",
+    "question": "If your truck has a properly functioning dual air brake system and minimum size air tanks, the air pressure should build up from 85 to 100 psi within how many seconds?",
+    "answers": [
+      {
+        "text": "60",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "45",
+        "explanation": "With a minimum-sized air tank and a dual air brake system the system should increase pressure from 85 to 100 in about 45 seconds.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "With a minimum-sized air tank and a dual air brake system the system should increase pressure from 85 to 100 in about 45 seconds."
+  },
+  {
+    "id": "bc6e365f-2c7f-4d13-ad37-9a579938dd92",
+    "question": "The braking power of the spring brakes:",
+    "answers": [
+      {
+        "text": "Depends on the service brakes being in adjustment.",
+        "explanation": "The emergency/parking brakes are a mechanical system that is applied when air pressure is removed. Like any mechanical system, proper adjustment is key for the spring brakes to operate properly as emergency/parking brakes and to not interfere with service brake operation.",
+        "isCorrect": true
+      },
+      {
+        "text": "Is not affected by the condition of the service brakes.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Increases when the service brakes are hot.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "The emergency/parking brakes are a mechanical system that is applied when air pressure is removed. Like any mechanical system, proper adjustment is key for the spring brakes to operate properly as emergency/parking brakes and to not interfere with service brake operation."
+  },
+  {
+    "id": "b51b0872-9b42-4886-8e9c-70ec0f9a01d0",
+    "question": "If you are driving down a steep downgrade and have reached your safe speed of 40 mph, you would apply the service brake until your speed dropped to ____ mph.",
+    "answers": [
+      {
+        "text": "30",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "25",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "35",
+        "explanation": "When traveling on a long and steep downgrade, it is best practice to supplement engine braking when the vehicle reaches the speed limit by applying the brakes until you have reduced speed by 5 mph then release the brakes and repeat the process. Pull over and let the service brakes cool down if needed due to excessive brake fade.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "When traveling on a long and steep downgrade, it is best practice to supplement engine braking when the vehicle reaches the speed limit by applying the brakes until you have reduced speed by 5 mph then release the brakes and repeat the process. Pull over and let the service brakes cool down if needed due to excessive brake fade."
+  },
+  {
+    "id": "50a07e74-d458-4f63-aec9-2ce96ed86fb2",
+    "question": "What will happen to the vehicle brake function if the ABS stops operating?",
+    "answers": [
+      {
+        "text": "It will be necessary to activate the emergency brakes to stop.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The brake pedal will become very hard and require firm pressing to apply the brakes.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ABS will not be able to prevent a lockup, but base brakes will function normally.",
+        "explanation": "ABS is a supplemental system to the brake system. ABS will prevent wheel lock up under emergency braking conditions. Failure of the system will allow the base brake system to function normally while lighting the yellow/amber ABS malfunction indicator lamp.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "ABS is a supplemental system to the brake system. ABS will prevent wheel lock up under emergency braking conditions. Failure of the system will allow the base brake system to function normally while lighting the yellow/amber ABS malfunction indicator lamp."
+  },
+  {
+    "id": "e67aa1ff-3e5f-4d78-96e9-3b1a6f96f518",
+    "question": "Characteristics of dual air brake systems include:",
+    "answers": [
+      {
+        "text": "One brake pedal operates two separate air braking systems.",
+        "explanation": "With a dual air brake system, the brake pedal operates two separate air brake systems. The primary air brake system controls the tractor's rear brakes, and the secondary system controls the tractor's front brakes.",
+        "isCorrect": true
+      },
+      {
+        "text": "The two systems are split diagonally, each controlling one front brake and the opposite rear brakes on the tractor.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "The two systems are split side-to-side with one controlling the left of the tractor and the other controlling the right.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "With a dual air brake system, the brake pedal operates two separate air brake systems. The primary air brake system controls the tractor's rear brakes, and the secondary system controls the tractor's front brakes."
+  },
+  {
+    "id": "cadb54c2-12d6-4cf0-85cf-2dd62133ab8e",
+    "question": "Which condition may cause brakes to fade or even fail?",
+    "answers": [
+      {
+        "text": "Brake linings that are 3/8 of an inch thick.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Excessive service brake use on a steep downgrade.",
+        "explanation": "Excessively worn brake linings, out of adjustment brakes, and excessive use of the service brakes rather than relying on engine braking can cause fade and eventually failure.",
+        "isCorrect": true
+      },
+      {
+        "text": "Setting the parking brake when the foundation brakes are cold.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Excessively worn brake linings, out of adjustment brakes, and excessive use of the service brakes rather than relying on engine braking can cause fade and eventually failure."
+  },
+  {
+    "id": "8f8278d3-be8c-42a3-9b12-335a87a5141b",
+    "question": "What process should be followed to inspect slack adjusters?",
+    "answers": [
+      {
+        "text": "Wear gloves and pull back hard on each slack adjuster to ensure at least 1 inch of play.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "While parked on level ground and with the parking brakes off, wear gloves and pull back hard on each slack adjuster.",
+        "explanation": "While parked on a level surface and with the parking brake off, wear gloves and pull back hard on each slack adjuster. There should be less than 1 inch of play in each adjuster.",
+        "isCorrect": true
+      },
+      {
+        "text": "While parked on a slight incline with the wheel chocked, wear gloves tap each slack adjuster forward.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "While parked on a level surface and with the parking brake off, wear gloves and pull back hard on each slack adjuster. There should be less than 1 inch of play in each adjuster."
+  },
+  {
+    "id": "23bcc2b6-5c50-4205-8a41-b741ae7f98de",
+    "question": "How should brakes be used when traveling down a steep grade?",
+    "answers": [
+      {
+        "text": "Service brakes should be the primary way to slow your speed.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Supplement engine braking with the service brakes.",
+        "explanation": "On a downgrade, use the engine brake as the primary method to slow the vehicle. Supplement engine braking with the service brake by applying the service brake until the speed slows to 5 mph under the speed limit and then release and repeat.",
+        "isCorrect": true
+      },
+      {
+        "text": "Only use service brakes to stop once you are under 20 mph.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "On a downgrade, use the engine brake as the primary method to slow the vehicle. Supplement engine braking with the service brake by applying the service brake until the speed slows to 5 mph under the speed limit and then release and repeat."
+  },
+  {
+    "id": "7796e2b0-e6a7-44d6-b317-18c69bca427e",
+    "question": "Your truck or bus has a dual air brake system. If a low air pressure warning comes on for only one system, what should you do?",
+    "answers": [
+      {
+        "text": "Reduce your speed and test the remaining system while under way.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduce your speed and drive to the nearest garage for repairs.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Stop right away and safely park. Continue only after the system is fixed.",
+        "explanation": "The air brakes are the primary safety system of your vehicle. A dual air system divides the brakes into two systems, one front and one rear. This ensures that if one system fails then at least you have one system to stop the vehicle safely and seek system service. Whenever the low air pressure warning is activated, safely come to a complete stop as soon as possible. Park the vehicle and seek service before proceeding.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "The air brakes are the primary safety system of your vehicle. A dual air system divides the brakes into two systems, one front and one rear. This ensures that if one system fails then at least you have one system to stop the vehicle safely and seek system service. Whenever the low air pressure warning is activated, safely come to a complete stop as soon as possible. Park the vehicle and seek service before proceeding."
+  },
+  {
+    "id": "ce138173-1028-4600-b317-f4c1d877949b",
+    "question": "Excessive heat caused by using your brakes too often can also cause:",
+    "answers": [
+      {
+        "text": "Brake to fade or fail.",
+        "explanation": "Heavy service brake use causes overheating which may then lead to brake fade or even brake failure. Stop to let the brakes cool if they begin to fade.",
+        "isCorrect": true
+      },
+      {
+        "text": "Modulated control valve to wear out.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Brake linings to split up.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "Heavy service brake use causes overheating which may then lead to brake fade or even brake failure. Stop to let the brakes cool if they begin to fade."
+  },
+  {
+    "id": "cc7011fd-799b-4679-a230-8a21c2cb6b2d",
+    "question": "What is the role of the parking brake control in activating the parking brakes?",
+    "answers": [
+      {
+        "text": "Disconnects the trailer air brake line from the tractor.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Applies air pressure to brake chambers.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Releases air pressure from the brake system.",
+        "explanation": "When the driver activates the parking brake control, air pressure is released from the brake system allowing the spring brakes to apply.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "When the driver activates the parking brake control, air pressure is released from the brake system allowing the spring brakes to apply."
+  },
+  {
+    "id": "481082cd-e01e-4381-99c6-d314b2c9973e",
+    "question": "Which actions should be taken prior to leaving a CMV unattended?",
+    "answers": [
+      {
+        "text": "Lock the doors but leave the engine running.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Set the parking brake and chock the wheels.",
+        "explanation": "It is recommended that you take the ignition key with you and set the parking brake. It is also a good idea to chock the wheels for safety.",
+        "isCorrect": true
+      },
+      {
+        "text": "Place shipping paperwork in the center console.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "It is recommended that you take the ignition key with you and set the parking brake. It is also a good idea to chock the wheels for safety."
+  },
+  {
+    "id": "d13dbcc1-c89b-42b3-aa12-8459196c7d13",
+    "question": "The driver must be able to see a low air pressure warning which comes on before pressure in the service air tanks fall below ____ psi.",
+    "answers": [
+      {
+        "text": "80",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "60",
+        "explanation": "Regulations dictate that a visible low air pressure warning indicator be activated and placed in full view of the operator when the pressure in the air supply system falls lower than 75 to 55 psi.",
+        "isCorrect": true
+      },
+      {
+        "text": "40",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Regulations dictate that a visible low air pressure warning indicator be activated and placed in full view of the operator when the pressure in the air supply system falls lower than 75 to 55 psi."
+  },
+  {
+    "id": "207b1ed2-1937-4136-a8f5-194a64013f68",
+    "question": "What action should be taken if the low air pressure warning indicators activate?",
+    "answers": [
+      {
+        "text": "Pull over and stop immediately.",
+        "explanation": "When the low air pressure warning indicators activate you have limited air pressure left. Pull over and stop immediately to investigate the issue. Failure to stop will result in the emergency brakes activating soon.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pull the parking brake control knob all the way out to force a stop.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Inspect the air brake system at your next scheduled stop.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "When the low air pressure warning indicators activate you have limited air pressure left. Pull over and stop immediately to investigate the issue. Failure to stop will result in the emergency brakes activating soon."
+  },
+  {
+    "id": "a97eb625-1d38-4080-a822-106198159eb4",
+    "question": "Which of the following is required of every converter dolly that is equipped with antilock brakes?",
+    "answers": [
+      {
+        "text": "A yellow/amber indicator lamp on the front of the dolly.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "A yellow/amber indicator lamp on the right side of the dolly.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "A yellow/amber indicator lamp on the left side of the dolly.",
+        "explanation": "All converter dollies manufactured since March 1st of 1998 will have ABS equipped. Each dolly is required to have a yellow/amber indicator lamp on the left side of the dolly.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "All converter dollies manufactured since March 1st of 1998 will have ABS equipped. Each dolly is required to have a yellow/amber indicator lamp on the left side of the dolly."
+  },
+  {
+    "id": "e39f6d8d-0227-4d31-91a1-c38fd88cbdaf",
+    "question": "If air pressure is not built up within the correct amount of time, then:",
+    "answers": [
+      {
+        "text": "You should be ready to use your parking brakes to stop.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Air pressure may drop to a low point while driving, requiring an emergency stop.",
+        "explanation": "Air brakes require adequate air pressure to operate. If air pressure cannot build up fast enough you will eventually lose the ability to apply the service brakes resulting in the need for emergency brakes. If air pressure testing fails, seek service before proceeding.",
+        "isCorrect": true
+      },
+      {
+        "text": "The alcohol container may be low.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Air brakes require adequate air pressure to operate. If air pressure cannot build up fast enough you will eventually lose the ability to apply the service brakes resulting in the need for emergency brakes. If air pressure testing fails, seek service before proceeding."
+  },
+  {
+    "id": "38491eec-d071-47a6-afcc-ede22d1e25de",
+    "question": "Your truck or bus has a dual air brake system. If a low-pressure warning comes on for only one system, what should you do?",
+    "answers": [
+      {
+        "text": "Reduce your speed and test the remaining system while under way.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Bring your vehicle to a complete stop right away and safely park. Continue only after the system is fixed.",
+        "explanation": "Whenever the low air pressure warning is activated, safely come to a complete stop as soon as possible. Park the vehicle and seek service before proceeding.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reduce your speed and drive to nearest garage for repairs.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Whenever the low air pressure warning is activated, safely come to a complete stop as soon as possible. Park the vehicle and seek service before proceeding."
+  },
+  {
+    "id": "a3ce10ad-9639-49d7-b49c-ec78a823a1f6",
+    "question": "The supply pressure gauge shows how much pressure:",
+    "answers": [
+      {
+        "text": "Is going to the brake chamber.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Is in the air tanks.",
+        "explanation": "The air supply pressure gauge allows the operator to know the status of air pressure in the tank or two gauges for dual tanks. 125 psi will typically be the fully charged pressure although the actual operating pressure will likely be less than 125 psi.",
+        "isCorrect": true
+      },
+      {
+        "text": "You have used in this trip.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The air supply pressure gauge allows the operator to know the status of air pressure in the tank or two gauges for dual tanks. 125 psi will typically be the fully charged pressure although the actual operating pressure will likely be less than 125 psi."
+  },
+  {
+    "id": "92223af3-672d-4902-a808-0fe8d3fcd751",
+    "question": "Some air brake systems have an alcohol evaporator. What may happen if you don't keep the proper level of alcohol?",
+    "answers": [
+      {
+        "text": "Ice may form on the brake drums and wear them out.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Ice may form in the air brake valves and cause brake failure.",
+        "explanation": "The purpose of an alcohol evaporator is to remove water from the air in the air brake system. Compressing air often causes condensation so the water needs to be removed. Alcohol attracts moisture and transports it to the evaporator. Failure to remove the air can cause the water to freeze in the system.",
+        "isCorrect": true
+      },
+      {
+        "text": "The S-cam may not take back when you release the brake pedal.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "The purpose of an alcohol evaporator is to remove water from the air in the air brake system. Compressing air often causes condensation so the water needs to be removed. Alcohol attracts moisture and transports it to the evaporator. Failure to remove the air can cause the water to freeze in the system."
+  },
+  {
+    "id": "87796d39-c112-4759-8f36-7a0d7223f8cb",
+    "question": "The safety valve reduces pressure at ____ psi.",
+    "answers": [
+      {
+        "text": "150",
+        "explanation": "A safety relief valve protects the air brake system from excessive pressures. Typically, the relief valve is set to open at 150 psi. If the relief valve ever activates, be sure to have the system checked to determine the cause.",
+        "isCorrect": true
+      },
+      {
+        "text": "50",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "A safety relief valve protects the air brake system from excessive pressures. Typically, the relief valve is set to open at 150 psi. If the relief valve ever activates, be sure to have the system checked to determine the cause."
+  },
+  {
+    "id": "1ed09f85-eacf-4c02-92a1-b9a7fbfc3cf7",
+    "question": "Which braking technique may be used to stop quickly when you do not have ABS?",
+    "answers": [
+      {
+        "text": "Stab braking only",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Controlled braking only",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Either stab braking or controlled braking may be used.",
+        "explanation": "Controlled braking may be used with or without ABS. Stab braking may only be used when the vehicle does not have ABS. Both techniques can help stop quickly in an emergency.",
+        "isCorrect": true
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": "Controlled braking may be used with or without ABS. Stab braking may only be used when the vehicle does not have ABS. Both techniques can help stop quickly in an emergency."
+  },
+  {
+    "id": "2864b463-2160-43f5-b280-00e470c08285",
+    "question": "The air compressor governor controls:",
+    "answers": [
+      {
+        "text": "When air is pumped into the air tanks.",
+        "explanation": "A governor is used to cycle a compressor on and off based on a target setting. The governor of most commercial truck air brake systems is set for 125 psi.",
+        "isCorrect": true
+      },
+      {
+        "text": "The speed of the air compressor.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Air pressure applied to the brakes.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": "A governor is used to cycle a compressor on and off based on a target setting. The governor of most commercial truck air brake systems is set for 125 psi."
+  },
+  {
+    "id": "43ba7d2c-01e6-4e61-875e-81aba2da8712",
+    "question": "Why drain water from compressed air tanks?",
+    "answers": [
+      {
+        "text": "Water cools the compressor too much.",
+        "explanation": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Water can freeze in cold weather and cause brake failure.",
+        "explanation": "Compressing air often causes condensation to build up in the system. Failure to remove the air can cause the water to freeze in the system and result in brake failure and premature equipment wear.",
+        "isCorrect": true
+      },
+      {
+        "text": "Water's low boiling point reduces braking power.",
+        "explanation": "",
+        "isCorrect": false
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": "Compressing air often causes condensation to build up in the system. Failure to remove the air can cause the water to freeze in the system and result in brake failure and premature equipment wear."
+  }
+]
