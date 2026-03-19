@@ -121,15 +121,15 @@ export default function ExamPage({ examKey, children }: ExamPageProps) {
           </p>
         </div>
 
-        {children}
-
-        <ExamClient
-          questions={questions}
-          appStoreUrl={config.appStoreUrl}
-          relatedTopics={config.relatedTopics}
-          crossCategoryLinks={crossCategoryLinks}
-          totalQuestionCount={config.totalQuestionCount}
-        />
+        {children || (
+          <ExamClient
+            questions={questions}
+            appStoreUrl={config.appStoreUrl}
+            relatedTopics={config.relatedTopics}
+            crossCategoryLinks={crossCategoryLinks}
+            totalQuestionCount={config.totalQuestionCount}
+          />
+        )}
       </main>
 
       <footer className="border-t border-gray-200 mt-16 py-8">
