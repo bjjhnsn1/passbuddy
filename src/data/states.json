@@ -8,7 +8,12 @@
     "dmvPassingScore": "24 out of 30",
     "motoExamQuestions": 30,
     "motoPassingScore": "24 out of 30",
-    "neighbors": ["tennessee", "georgia", "florida", "mississippi"]
+    "neighbors": [
+      "tennessee",
+      "georgia",
+      "florida",
+      "mississippi"
+    ]
   },
   {
     "slug": "alaska",
@@ -30,7 +35,12 @@
     "dmvPassingScore": "24 out of 30",
     "motoExamQuestions": 30,
     "motoPassingScore": "24 out of 30",
-    "neighbors": ["california", "nevada", "utah", "new-mexico"]
+    "neighbors": [
+      "california",
+      "nevada",
+      "utah",
+      "new-mexico"
+    ]
   },
   {
     "slug": "arkansas",
@@ -41,7 +51,12 @@
     "dmvPassingScore": "20 out of 25",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["missouri", "tennessee", "mississippi", "louisiana"]
+    "neighbors": [
+      "missouri",
+      "tennessee",
+      "mississippi",
+      "louisiana"
+    ]
   },
   {
     "slug": "california",
@@ -50,9 +65,13 @@
     "dmvAgency": "California Department of Motor Vehicles (DMV)",
     "dmvExamQuestions": 36,
     "dmvPassingScore": "30 out of 36",
-    "motoExamQuestions": 25,
-    "motoPassingScore": "20 out of 25",
-    "neighbors": ["oregon", "nevada", "arizona"]
+    "motoExamQuestions": 30,
+    "motoPassingScore": "24 out of 30",
+    "neighbors": [
+      "oregon",
+      "nevada",
+      "arizona"
+    ]
   },
   {
     "slug": "colorado",
@@ -62,8 +81,13 @@
     "dmvExamQuestions": 25,
     "dmvPassingScore": "20 out of 25",
     "motoExamQuestions": 25,
-    "motoPassingScore": "20 out of 25",
-    "neighbors": ["wyoming", "nebraska", "kansas", "new-mexico"]
+    "motoPassingScore": "21 out of 25",
+    "neighbors": [
+      "wyoming",
+      "nebraska",
+      "kansas",
+      "new-mexico"
+    ]
   },
   {
     "slug": "connecticut",
@@ -74,7 +98,11 @@
     "dmvPassingScore": "20 out of 25",
     "motoExamQuestions": 16,
     "motoPassingScore": "12 out of 16",
-    "neighbors": ["massachusetts", "rhode-island", "new-york"]
+    "neighbors": [
+      "massachusetts",
+      "rhode-island",
+      "new-york"
+    ]
   },
   {
     "slug": "delaware",
@@ -85,7 +113,11 @@
     "dmvPassingScore": "24 out of 30",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["pennsylvania", "new-jersey", "maryland"]
+    "neighbors": [
+      "pennsylvania",
+      "new-jersey",
+      "maryland"
+    ]
   },
   {
     "slug": "florida",
@@ -96,7 +128,10 @@
     "dmvPassingScore": "40 out of 50",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["georgia", "alabama"]
+    "neighbors": [
+      "georgia",
+      "alabama"
+    ]
   },
   {
     "slug": "georgia",
@@ -104,10 +139,15 @@
     "abbr": "GA",
     "dmvAgency": "Georgia Department of Driver Services (DDS)",
     "dmvExamQuestions": 40,
-    "dmvPassingScore": "30 out of 40",
+    "dmvPassingScore": "15 out of 20 per section (road rules + road signs)",
     "motoExamQuestions": 20,
     "motoPassingScore": "15 out of 20",
-    "neighbors": ["tennessee", "north-carolina", "south-carolina", "florida"]
+    "neighbors": [
+      "tennessee",
+      "north-carolina",
+      "south-carolina",
+      "florida"
+    ]
   },
   {
     "slug": "hawaii",
@@ -129,7 +169,12 @@
     "dmvPassingScore": "34 out of 40",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["montana", "wyoming", "utah", "washington"]
+    "neighbors": [
+      "montana",
+      "wyoming",
+      "utah",
+      "washington"
+    ]
   },
   {
     "slug": "illinois",
@@ -140,18 +185,28 @@
     "dmvPassingScore": "28 out of 35",
     "motoExamQuestions": 16,
     "motoPassingScore": "12 out of 16",
-    "neighbors": ["wisconsin", "indiana", "kentucky", "missouri"]
+    "neighbors": [
+      "wisconsin",
+      "indiana",
+      "kentucky",
+      "missouri"
+    ]
   },
   {
     "slug": "indiana",
     "name": "Indiana",
     "abbr": "IN",
     "dmvAgency": "Indiana Bureau of Motor Vehicles (BMV)",
-    "dmvExamQuestions": 34,
-    "dmvPassingScore": "28 out of 34",
+    "dmvExamQuestions": 50,
+    "dmvPassingScore": "40 out of 50",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["michigan", "ohio", "kentucky", "illinois"]
+    "neighbors": [
+      "michigan",
+      "ohio",
+      "kentucky",
+      "illinois"
+    ]
   },
   {
     "slug": "iowa",
@@ -162,7 +217,12 @@
     "dmvPassingScore": "28 out of 35",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["minnesota", "wisconsin", "illinois", "missouri"]
+    "neighbors": [
+      "minnesota",
+      "wisconsin",
+      "illinois",
+      "missouri"
+    ]
   },
   {
     "slug": "kansas",
@@ -173,7 +233,12 @@
     "dmvPassingScore": "20 out of 25",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["nebraska", "missouri", "oklahoma", "colorado"]
+    "neighbors": [
+      "nebraska",
+      "missouri",
+      "oklahoma",
+      "colorado"
+    ]
   },
   {
     "slug": "kentucky",
@@ -184,7 +249,12 @@
     "dmvPassingScore": "32 out of 40",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["indiana", "ohio", "west-virginia", "tennessee"]
+    "neighbors": [
+      "indiana",
+      "ohio",
+      "west-virginia",
+      "tennessee"
+    ]
   },
   {
     "slug": "louisiana",
@@ -195,7 +265,11 @@
     "dmvPassingScore": "32 out of 40",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["arkansas", "mississippi", "texas"]
+    "neighbors": [
+      "arkansas",
+      "mississippi",
+      "texas"
+    ]
   },
   {
     "slug": "maine",
@@ -206,7 +280,9 @@
     "dmvPassingScore": "24 out of 30",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["new-hampshire"]
+    "neighbors": [
+      "new-hampshire"
+    ]
   },
   {
     "slug": "maryland",
@@ -216,8 +292,13 @@
     "dmvExamQuestions": 25,
     "dmvPassingScore": "22 out of 25",
     "motoExamQuestions": 25,
-    "motoPassingScore": "22 out of 25",
-    "neighbors": ["pennsylvania", "delaware", "virginia", "west-virginia"]
+    "motoPassingScore": "21 out of 25",
+    "neighbors": [
+      "pennsylvania",
+      "delaware",
+      "virginia",
+      "west-virginia"
+    ]
   },
   {
     "slug": "massachusetts",
@@ -228,7 +309,12 @@
     "dmvPassingScore": "18 out of 25",
     "motoExamQuestions": 25,
     "motoPassingScore": "18 out of 25",
-    "neighbors": ["new-hampshire", "vermont", "new-york", "connecticut"]
+    "neighbors": [
+      "new-hampshire",
+      "vermont",
+      "new-york",
+      "connecticut"
+    ]
   },
   {
     "slug": "michigan",
@@ -239,7 +325,11 @@
     "dmvPassingScore": "40 out of 50",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["ohio", "indiana", "wisconsin"]
+    "neighbors": [
+      "ohio",
+      "indiana",
+      "wisconsin"
+    ]
   },
   {
     "slug": "minnesota",
@@ -250,7 +340,12 @@
     "dmvPassingScore": "32 out of 40",
     "motoExamQuestions": 40,
     "motoPassingScore": "32 out of 40",
-    "neighbors": ["wisconsin", "iowa", "south-dakota", "north-dakota"]
+    "neighbors": [
+      "wisconsin",
+      "iowa",
+      "south-dakota",
+      "north-dakota"
+    ]
   },
   {
     "slug": "mississippi",
@@ -261,7 +356,12 @@
     "dmvPassingScore": "24 out of 30",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["tennessee", "alabama", "louisiana", "arkansas"]
+    "neighbors": [
+      "tennessee",
+      "alabama",
+      "louisiana",
+      "arkansas"
+    ]
   },
   {
     "slug": "missouri",
@@ -272,7 +372,12 @@
     "dmvPassingScore": "20 out of 25",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["iowa", "illinois", "kentucky", "arkansas"]
+    "neighbors": [
+      "iowa",
+      "illinois",
+      "kentucky",
+      "arkansas"
+    ]
   },
   {
     "slug": "montana",
@@ -283,7 +388,12 @@
     "dmvPassingScore": "27 out of 33",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["north-dakota", "south-dakota", "wyoming", "idaho"]
+    "neighbors": [
+      "north-dakota",
+      "south-dakota",
+      "wyoming",
+      "idaho"
+    ]
   },
   {
     "slug": "nebraska",
@@ -294,7 +404,12 @@
     "dmvPassingScore": "20 out of 25",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["south-dakota", "iowa", "missouri", "kansas"]
+    "neighbors": [
+      "south-dakota",
+      "iowa",
+      "missouri",
+      "kansas"
+    ]
   },
   {
     "slug": "nevada",
@@ -305,7 +420,12 @@
     "dmvPassingScore": "40 out of 50",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["oregon", "idaho", "utah", "california"]
+    "neighbors": [
+      "oregon",
+      "idaho",
+      "utah",
+      "california"
+    ]
   },
   {
     "slug": "new-hampshire",
@@ -316,7 +436,11 @@
     "dmvPassingScore": "32 out of 40",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["maine", "vermont", "massachusetts"]
+    "neighbors": [
+      "maine",
+      "vermont",
+      "massachusetts"
+    ]
   },
   {
     "slug": "new-jersey",
@@ -327,7 +451,11 @@
     "dmvPassingScore": "40 out of 50",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["new-york", "pennsylvania", "delaware"]
+    "neighbors": [
+      "new-york",
+      "pennsylvania",
+      "delaware"
+    ]
   },
   {
     "slug": "new-mexico",
@@ -338,7 +466,12 @@
     "dmvPassingScore": "18 out of 25",
     "motoExamQuestions": 25,
     "motoPassingScore": "18 out of 25",
-    "neighbors": ["colorado", "arizona", "texas", "oklahoma"]
+    "neighbors": [
+      "colorado",
+      "arizona",
+      "texas",
+      "oklahoma"
+    ]
   },
   {
     "slug": "new-york",
@@ -349,18 +482,28 @@
     "dmvPassingScore": "14 out of 20",
     "motoExamQuestions": 20,
     "motoPassingScore": "14 out of 20",
-    "neighbors": ["vermont", "massachusetts", "connecticut", "new-jersey"]
+    "neighbors": [
+      "vermont",
+      "massachusetts",
+      "connecticut",
+      "new-jersey"
+    ]
   },
   {
     "slug": "north-carolina",
     "name": "North Carolina",
     "abbr": "NC",
     "dmvAgency": "North Carolina Division of Motor Vehicles (NCDMV)",
-    "dmvExamQuestions": 25,
-    "dmvPassingScore": "20 out of 25",
+    "dmvExamQuestions": 33,
+    "dmvPassingScore": "26 out of 33",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["virginia", "tennessee", "georgia", "south-carolina"]
+    "neighbors": [
+      "virginia",
+      "tennessee",
+      "georgia",
+      "south-carolina"
+    ]
   },
   {
     "slug": "north-dakota",
@@ -371,7 +514,11 @@
     "dmvPassingScore": "20 out of 25",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["montana", "south-dakota", "minnesota"]
+    "neighbors": [
+      "montana",
+      "south-dakota",
+      "minnesota"
+    ]
   },
   {
     "slug": "ohio",
@@ -382,7 +529,12 @@
     "dmvPassingScore": "30 out of 40",
     "motoExamQuestions": 40,
     "motoPassingScore": "30 out of 40",
-    "neighbors": ["michigan", "indiana", "kentucky", "west-virginia"]
+    "neighbors": [
+      "michigan",
+      "indiana",
+      "kentucky",
+      "west-virginia"
+    ]
   },
   {
     "slug": "oklahoma",
@@ -393,7 +545,12 @@
     "dmvPassingScore": "40 out of 50",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["kansas", "missouri", "arkansas", "texas"]
+    "neighbors": [
+      "kansas",
+      "missouri",
+      "arkansas",
+      "texas"
+    ]
   },
   {
     "slug": "oregon",
@@ -404,7 +561,12 @@
     "dmvPassingScore": "28 out of 35",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["washington", "idaho", "nevada", "california"]
+    "neighbors": [
+      "washington",
+      "idaho",
+      "nevada",
+      "california"
+    ]
   },
   {
     "slug": "pennsylvania",
@@ -415,7 +577,12 @@
     "dmvPassingScore": "15 out of 18",
     "motoExamQuestions": 20,
     "motoPassingScore": "16 out of 20",
-    "neighbors": ["new-york", "new-jersey", "delaware", "maryland"]
+    "neighbors": [
+      "new-york",
+      "new-jersey",
+      "delaware",
+      "maryland"
+    ]
   },
   {
     "slug": "rhode-island",
@@ -426,7 +593,10 @@
     "dmvPassingScore": "20 out of 25",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["massachusetts", "connecticut"]
+    "neighbors": [
+      "massachusetts",
+      "connecticut"
+    ]
   },
   {
     "slug": "south-carolina",
@@ -437,7 +607,10 @@
     "dmvPassingScore": "24 out of 30",
     "motoExamQuestions": 30,
     "motoPassingScore": "24 out of 30",
-    "neighbors": ["north-carolina", "georgia"]
+    "neighbors": [
+      "north-carolina",
+      "georgia"
+    ]
   },
   {
     "slug": "south-dakota",
@@ -448,18 +621,28 @@
     "dmvPassingScore": "20 out of 25",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["north-dakota", "minnesota", "iowa", "nebraska"]
+    "neighbors": [
+      "north-dakota",
+      "minnesota",
+      "iowa",
+      "nebraska"
+    ]
   },
   {
     "slug": "tennessee",
     "name": "Tennessee",
     "abbr": "TN",
-    "dmvAgency": "Tennessee Department of Safety and Homeland Security",
+    "dmvAgency": "Tennessee Department of Safety & Homeland Security (TDOSHS)",
     "dmvExamQuestions": 30,
     "dmvPassingScore": "24 out of 30",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["kentucky", "virginia", "north-carolina", "georgia"]
+    "neighbors": [
+      "kentucky",
+      "virginia",
+      "north-carolina",
+      "georgia"
+    ]
   },
   {
     "slug": "texas",
@@ -470,7 +653,12 @@
     "dmvPassingScore": "21 out of 30",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["new-mexico", "oklahoma", "arkansas", "louisiana"]
+    "neighbors": [
+      "new-mexico",
+      "oklahoma",
+      "arkansas",
+      "louisiana"
+    ]
   },
   {
     "slug": "utah",
@@ -481,7 +669,12 @@
     "dmvPassingScore": "40 out of 50",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["idaho", "wyoming", "colorado", "nevada"]
+    "neighbors": [
+      "idaho",
+      "wyoming",
+      "colorado",
+      "nevada"
+    ]
   },
   {
     "slug": "vermont",
@@ -492,18 +685,27 @@
     "dmvPassingScore": "16 out of 20",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["new-hampshire", "massachusetts", "new-york"]
+    "neighbors": [
+      "new-hampshire",
+      "massachusetts",
+      "new-york"
+    ]
   },
   {
     "slug": "virginia",
     "name": "Virginia",
     "abbr": "VA",
     "dmvAgency": "Virginia Department of Motor Vehicles (DMV)",
-    "dmvExamQuestions": 35,
-    "dmvPassingScore": "30 out of 35",
+    "dmvExamQuestions": 40,
+    "dmvPassingScore": "34 out of 40",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["maryland", "west-virginia", "kentucky", "north-carolina"]
+    "neighbors": [
+      "maryland",
+      "west-virginia",
+      "kentucky",
+      "north-carolina"
+    ]
   },
   {
     "slug": "washington",
@@ -514,7 +716,10 @@
     "dmvPassingScore": "32 out of 40",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["oregon", "idaho"]
+    "neighbors": [
+      "oregon",
+      "idaho"
+    ]
   },
   {
     "slug": "west-virginia",
@@ -525,7 +730,12 @@
     "dmvPassingScore": "19 out of 25",
     "motoExamQuestions": 25,
     "motoPassingScore": "19 out of 25",
-    "neighbors": ["ohio", "pennsylvania", "maryland", "virginia"]
+    "neighbors": [
+      "ohio",
+      "pennsylvania",
+      "maryland",
+      "virginia"
+    ]
   },
   {
     "slug": "wisconsin",
@@ -536,7 +746,12 @@
     "dmvPassingScore": "40 out of 50",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["minnesota", "iowa", "illinois", "michigan"]
+    "neighbors": [
+      "minnesota",
+      "iowa",
+      "illinois",
+      "michigan"
+    ]
   },
   {
     "slug": "wyoming",
@@ -547,6 +762,11 @@
     "dmvPassingScore": "20 out of 25",
     "motoExamQuestions": 25,
     "motoPassingScore": "20 out of 25",
-    "neighbors": ["montana", "south-dakota", "nebraska", "colorado"]
+    "neighbors": [
+      "montana",
+      "south-dakota",
+      "nebraska",
+      "colorado"
+    ]
   }
 ]

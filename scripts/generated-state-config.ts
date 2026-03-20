@@ -8,7 +8,7 @@
     dataPath: "/data/dmv/alabama.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/tennessee", label: "Tennessee DMV" }, { href: "/dmv/georgia", label: "Georgia DMV" }, { href: "/dmv/florida", label: "Florida DMV" },
+      { href: "/motorcycle/alabama", label: "Alabama Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-alabama"),
     totalQuestionCount: "2,700+",
@@ -22,7 +22,7 @@
     dataPath: "/data/dmv/alaska.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" },
+      { href: "/motorcycle/alaska", label: "Alaska Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-alaska"),
     totalQuestionCount: "2,700+",
@@ -36,7 +36,7 @@
     dataPath: "/data/dmv/arizona.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/california", label: "California DMV" }, { href: "/dmv/nevada", label: "Nevada DMV" }, { href: "/dmv/utah", label: "Utah DMV" },
+      { href: "/motorcycle/arizona", label: "Arizona Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-arizona"),
     totalQuestionCount: "2,700+",
@@ -50,7 +50,7 @@
     dataPath: "/data/dmv/arkansas.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/missouri", label: "Missouri DMV" }, { href: "/dmv/tennessee", label: "Tennessee DMV" }, { href: "/dmv/mississippi", label: "Mississippi DMV" },
+      { href: "/motorcycle/arkansas", label: "Arkansas Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-arkansas"),
     totalQuestionCount: "2,700+",
@@ -64,7 +64,7 @@
     dataPath: "/data/dmv/california.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/oregon", label: "Oregon DMV" }, { href: "/dmv/nevada", label: "Nevada DMV" }, { href: "/dmv/arizona", label: "Arizona DMV" },
+      { href: "/motorcycle/california", label: "California Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-california"),
     totalQuestionCount: "2,700+",
@@ -78,7 +78,7 @@
     dataPath: "/data/dmv/colorado.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/wyoming", label: "Wyoming DMV" }, { href: "/dmv/nebraska", label: "Nebraska DMV" }, { href: "/dmv/kansas", label: "Kansas DMV" },
+      { href: "/motorcycle/colorado", label: "Colorado Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-colorado"),
     totalQuestionCount: "2,700+",
@@ -92,7 +92,7 @@
     dataPath: "/data/dmv/connecticut.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/massachusetts", label: "Massachusetts DMV" }, { href: "/dmv/rhode-island", label: "Rhode Island DMV" }, { href: "/dmv/new-york", label: "New York DMV" },
+      { href: "/motorcycle/connecticut", label: "Connecticut Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-connecticut"),
     totalQuestionCount: "2,700+",
@@ -106,7 +106,7 @@
     dataPath: "/data/dmv/delaware.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/pennsylvania", label: "Pennsylvania DMV" }, { href: "/dmv/new-jersey", label: "New Jersey DMV" }, { href: "/dmv/maryland", label: "Maryland DMV" },
+      { href: "/motorcycle/delaware", label: "Delaware Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-delaware"),
     totalQuestionCount: "2,700+",
@@ -120,7 +120,7 @@
     dataPath: "/data/dmv/florida.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/georgia", label: "Georgia DMV" }, { href: "/dmv/alabama", label: "Alabama DMV" },
+      { href: "/motorcycle/florida", label: "Florida Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-florida"),
     totalQuestionCount: "2,700+",
@@ -128,13 +128,13 @@
   "dmv/georgia": {
     slug: "dmv/georgia",
     title: "Georgia DMV Practice Test",
-    description: "Prepare for the Georgia written driving test administered by the Georgia Department of Driver Services (DDS). The real exam has 40 questions and you need 30 out of 40 to pass.",
+    description: "Prepare for the Georgia written driving test administered by the Georgia Department of Driver Services (DDS). The real exam has 40 questions and you need 15 out of 20 per section (road rules + road signs) to pass.",
     metaTitle: "Georgia DMV Practice Test 2026 | Free GA Permit Test Questions",
     metaDescription: "Free Georgia DMV practice test with 10 questions. Based on the GA driver handbook from the Georgia Department of Driver Services (DDS). Pass your Georgia permit test.",
     dataPath: "/data/dmv/georgia.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/tennessee", label: "Tennessee DMV" }, { href: "/dmv/north-carolina", label: "North Carolina DMV" }, { href: "/dmv/south-carolina", label: "South Carolina DMV" },
+      { href: "/motorcycle/georgia", label: "Georgia Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-georgia"),
     totalQuestionCount: "2,700+",
@@ -148,7 +148,7 @@
     dataPath: "/data/dmv/hawaii.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" },
+      { href: "/motorcycle/hawaii", label: "Hawaii Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-hawaii"),
     totalQuestionCount: "2,700+",
@@ -162,7 +162,7 @@
     dataPath: "/data/dmv/idaho.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/montana", label: "Montana DMV" }, { href: "/dmv/wyoming", label: "Wyoming DMV" }, { href: "/dmv/utah", label: "Utah DMV" },
+      { href: "/motorcycle/idaho", label: "Idaho Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-idaho"),
     totalQuestionCount: "2,700+",
@@ -176,7 +176,7 @@
     dataPath: "/data/dmv/illinois.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/wisconsin", label: "Wisconsin DMV" }, { href: "/dmv/indiana", label: "Indiana DMV" }, { href: "/dmv/kentucky", label: "Kentucky DMV" },
+      { href: "/motorcycle/illinois", label: "Illinois Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-illinois"),
     totalQuestionCount: "2,700+",
@@ -184,13 +184,13 @@
   "dmv/indiana": {
     slug: "dmv/indiana",
     title: "Indiana DMV Practice Test",
-    description: "Prepare for the Indiana written driving test administered by the Indiana Bureau of Motor Vehicles (BMV). The real exam has 34 questions and you need 28 out of 34 to pass.",
+    description: "Prepare for the Indiana written driving test administered by the Indiana Bureau of Motor Vehicles (BMV). The real exam has 50 questions and you need 40 out of 50 to pass.",
     metaTitle: "Indiana DMV Practice Test 2026 | Free IN Permit Test Questions",
     metaDescription: "Free Indiana DMV practice test with 10 questions. Based on the IN driver handbook from the Indiana Bureau of Motor Vehicles (BMV). Pass your Indiana permit test.",
     dataPath: "/data/dmv/indiana.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/michigan", label: "Michigan DMV" }, { href: "/dmv/ohio", label: "Ohio DMV" }, { href: "/dmv/kentucky", label: "Kentucky DMV" },
+      { href: "/motorcycle/indiana", label: "Indiana Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-indiana"),
     totalQuestionCount: "2,700+",
@@ -204,7 +204,7 @@
     dataPath: "/data/dmv/iowa.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/minnesota", label: "Minnesota DMV" }, { href: "/dmv/wisconsin", label: "Wisconsin DMV" }, { href: "/dmv/illinois", label: "Illinois DMV" },
+      { href: "/motorcycle/iowa", label: "Iowa Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-iowa"),
     totalQuestionCount: "2,700+",
@@ -218,7 +218,7 @@
     dataPath: "/data/dmv/kansas.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/nebraska", label: "Nebraska DMV" }, { href: "/dmv/missouri", label: "Missouri DMV" }, { href: "/dmv/oklahoma", label: "Oklahoma DMV" },
+      { href: "/motorcycle/kansas", label: "Kansas Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-kansas"),
     totalQuestionCount: "2,700+",
@@ -232,7 +232,7 @@
     dataPath: "/data/dmv/kentucky.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/indiana", label: "Indiana DMV" }, { href: "/dmv/ohio", label: "Ohio DMV" }, { href: "/dmv/west-virginia", label: "West Virginia DMV" },
+      { href: "/motorcycle/kentucky", label: "Kentucky Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-kentucky"),
     totalQuestionCount: "2,700+",
@@ -246,7 +246,7 @@
     dataPath: "/data/dmv/louisiana.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/arkansas", label: "Arkansas DMV" }, { href: "/dmv/mississippi", label: "Mississippi DMV" }, { href: "/dmv/texas", label: "Texas DMV" },
+      { href: "/motorcycle/louisiana", label: "Louisiana Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-louisiana"),
     totalQuestionCount: "2,700+",
@@ -260,7 +260,7 @@
     dataPath: "/data/dmv/maine.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/new-hampshire", label: "New Hampshire DMV" },
+      { href: "/motorcycle/maine", label: "Maine Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-maine"),
     totalQuestionCount: "2,700+",
@@ -274,7 +274,7 @@
     dataPath: "/data/dmv/maryland.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/pennsylvania", label: "Pennsylvania DMV" }, { href: "/dmv/delaware", label: "Delaware DMV" }, { href: "/dmv/virginia", label: "Virginia DMV" },
+      { href: "/motorcycle/maryland", label: "Maryland Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-maryland"),
     totalQuestionCount: "2,700+",
@@ -288,7 +288,7 @@
     dataPath: "/data/dmv/massachusetts.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/new-hampshire", label: "New Hampshire DMV" }, { href: "/dmv/vermont", label: "Vermont DMV" }, { href: "/dmv/new-york", label: "New York DMV" },
+      { href: "/motorcycle/massachusetts", label: "Massachusetts Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-massachusetts"),
     totalQuestionCount: "2,700+",
@@ -302,7 +302,7 @@
     dataPath: "/data/dmv/michigan.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/ohio", label: "Ohio DMV" }, { href: "/dmv/indiana", label: "Indiana DMV" }, { href: "/dmv/wisconsin", label: "Wisconsin DMV" },
+      { href: "/motorcycle/michigan", label: "Michigan Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-michigan"),
     totalQuestionCount: "2,700+",
@@ -316,7 +316,7 @@
     dataPath: "/data/dmv/minnesota.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/wisconsin", label: "Wisconsin DMV" }, { href: "/dmv/iowa", label: "Iowa DMV" }, { href: "/dmv/south-dakota", label: "South Dakota DMV" },
+      { href: "/motorcycle/minnesota", label: "Minnesota Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-minnesota"),
     totalQuestionCount: "2,700+",
@@ -330,7 +330,7 @@
     dataPath: "/data/dmv/mississippi.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/tennessee", label: "Tennessee DMV" }, { href: "/dmv/alabama", label: "Alabama DMV" }, { href: "/dmv/louisiana", label: "Louisiana DMV" },
+      { href: "/motorcycle/mississippi", label: "Mississippi Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-mississippi"),
     totalQuestionCount: "2,700+",
@@ -344,7 +344,7 @@
     dataPath: "/data/dmv/missouri.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/iowa", label: "Iowa DMV" }, { href: "/dmv/illinois", label: "Illinois DMV" }, { href: "/dmv/kentucky", label: "Kentucky DMV" },
+      { href: "/motorcycle/missouri", label: "Missouri Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-missouri"),
     totalQuestionCount: "2,700+",
@@ -358,7 +358,7 @@
     dataPath: "/data/dmv/montana.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/north-dakota", label: "North Dakota DMV" }, { href: "/dmv/south-dakota", label: "South Dakota DMV" }, { href: "/dmv/wyoming", label: "Wyoming DMV" },
+      { href: "/motorcycle/montana", label: "Montana Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-montana"),
     totalQuestionCount: "2,700+",
@@ -372,7 +372,7 @@
     dataPath: "/data/dmv/nebraska.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/south-dakota", label: "South Dakota DMV" }, { href: "/dmv/iowa", label: "Iowa DMV" }, { href: "/dmv/missouri", label: "Missouri DMV" },
+      { href: "/motorcycle/nebraska", label: "Nebraska Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-nebraska"),
     totalQuestionCount: "2,700+",
@@ -386,7 +386,7 @@
     dataPath: "/data/dmv/nevada.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/oregon", label: "Oregon DMV" }, { href: "/dmv/idaho", label: "Idaho DMV" }, { href: "/dmv/utah", label: "Utah DMV" },
+      { href: "/motorcycle/nevada", label: "Nevada Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-nevada"),
     totalQuestionCount: "2,700+",
@@ -400,7 +400,7 @@
     dataPath: "/data/dmv/new-hampshire.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/maine", label: "Maine DMV" }, { href: "/dmv/vermont", label: "Vermont DMV" }, { href: "/dmv/massachusetts", label: "Massachusetts DMV" },
+      { href: "/motorcycle/new-hampshire", label: "New Hampshire Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-new-hampshire"),
     totalQuestionCount: "2,700+",
@@ -414,7 +414,7 @@
     dataPath: "/data/dmv/new-jersey.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/new-york", label: "New York DMV" }, { href: "/dmv/pennsylvania", label: "Pennsylvania DMV" }, { href: "/dmv/delaware", label: "Delaware DMV" },
+      { href: "/motorcycle/new-jersey", label: "New Jersey Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-new-jersey"),
     totalQuestionCount: "2,700+",
@@ -428,7 +428,7 @@
     dataPath: "/data/dmv/new-mexico.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/colorado", label: "Colorado DMV" }, { href: "/dmv/arizona", label: "Arizona DMV" }, { href: "/dmv/texas", label: "Texas DMV" },
+      { href: "/motorcycle/new-mexico", label: "New Mexico Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-new-mexico"),
     totalQuestionCount: "2,700+",
@@ -442,7 +442,7 @@
     dataPath: "/data/dmv/new-york.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/vermont", label: "Vermont DMV" }, { href: "/dmv/massachusetts", label: "Massachusetts DMV" }, { href: "/dmv/connecticut", label: "Connecticut DMV" },
+      { href: "/motorcycle/new-york", label: "New York Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-new-york"),
     totalQuestionCount: "2,700+",
@@ -450,13 +450,13 @@
   "dmv/north-carolina": {
     slug: "dmv/north-carolina",
     title: "North Carolina DMV Practice Test",
-    description: "Prepare for the North Carolina written driving test administered by the North Carolina Division of Motor Vehicles (NCDMV). The real exam has 25 questions and you need 20 out of 25 to pass.",
+    description: "Prepare for the North Carolina written driving test administered by the North Carolina Division of Motor Vehicles (NCDMV). The real exam has 33 questions and you need 26 out of 33 to pass.",
     metaTitle: "North Carolina DMV Practice Test 2026 | Free NC Permit Test Questions",
     metaDescription: "Free North Carolina DMV practice test with 10 questions. Based on the NC driver handbook from the North Carolina Division of Motor Vehicles (NCDMV). Pass your North Carolina permit test.",
     dataPath: "/data/dmv/north-carolina.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/virginia", label: "Virginia DMV" }, { href: "/dmv/tennessee", label: "Tennessee DMV" }, { href: "/dmv/georgia", label: "Georgia DMV" },
+      { href: "/motorcycle/north-carolina", label: "North Carolina Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-north-carolina"),
     totalQuestionCount: "2,700+",
@@ -470,7 +470,7 @@
     dataPath: "/data/dmv/north-dakota.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/montana", label: "Montana DMV" }, { href: "/dmv/south-dakota", label: "South Dakota DMV" }, { href: "/dmv/minnesota", label: "Minnesota DMV" },
+      { href: "/motorcycle/north-dakota", label: "North Dakota Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-north-dakota"),
     totalQuestionCount: "2,700+",
@@ -484,7 +484,7 @@
     dataPath: "/data/dmv/ohio.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/michigan", label: "Michigan DMV" }, { href: "/dmv/indiana", label: "Indiana DMV" }, { href: "/dmv/kentucky", label: "Kentucky DMV" },
+      { href: "/motorcycle/ohio", label: "Ohio Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-ohio"),
     totalQuestionCount: "2,700+",
@@ -498,7 +498,7 @@
     dataPath: "/data/dmv/oklahoma.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/kansas", label: "Kansas DMV" }, { href: "/dmv/missouri", label: "Missouri DMV" }, { href: "/dmv/arkansas", label: "Arkansas DMV" },
+      { href: "/motorcycle/oklahoma", label: "Oklahoma Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-oklahoma"),
     totalQuestionCount: "2,700+",
@@ -512,7 +512,7 @@
     dataPath: "/data/dmv/oregon.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/washington", label: "Washington DMV" }, { href: "/dmv/idaho", label: "Idaho DMV" }, { href: "/dmv/nevada", label: "Nevada DMV" },
+      { href: "/motorcycle/oregon", label: "Oregon Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-oregon"),
     totalQuestionCount: "2,700+",
@@ -526,7 +526,7 @@
     dataPath: "/data/dmv/pennsylvania.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/new-york", label: "New York DMV" }, { href: "/dmv/new-jersey", label: "New Jersey DMV" }, { href: "/dmv/delaware", label: "Delaware DMV" },
+      { href: "/motorcycle/pennsylvania", label: "Pennsylvania Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-pennsylvania"),
     totalQuestionCount: "2,700+",
@@ -540,7 +540,7 @@
     dataPath: "/data/dmv/rhode-island.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/massachusetts", label: "Massachusetts DMV" }, { href: "/dmv/connecticut", label: "Connecticut DMV" },
+      { href: "/motorcycle/rhode-island", label: "Rhode Island Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-rhode-island"),
     totalQuestionCount: "2,700+",
@@ -554,7 +554,7 @@
     dataPath: "/data/dmv/south-carolina.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/north-carolina", label: "North Carolina DMV" }, { href: "/dmv/georgia", label: "Georgia DMV" },
+      { href: "/motorcycle/south-carolina", label: "South Carolina Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-south-carolina"),
     totalQuestionCount: "2,700+",
@@ -568,7 +568,7 @@
     dataPath: "/data/dmv/south-dakota.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/north-dakota", label: "North Dakota DMV" }, { href: "/dmv/minnesota", label: "Minnesota DMV" }, { href: "/dmv/iowa", label: "Iowa DMV" },
+      { href: "/motorcycle/south-dakota", label: "South Dakota Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-south-dakota"),
     totalQuestionCount: "2,700+",
@@ -576,13 +576,13 @@
   "dmv/tennessee": {
     slug: "dmv/tennessee",
     title: "Tennessee DMV Practice Test",
-    description: "Prepare for the Tennessee written driving test administered by the Tennessee Department of Safety and Homeland Security. The real exam has 30 questions and you need 24 out of 30 to pass.",
+    description: "Prepare for the Tennessee written driving test administered by the Tennessee Department of Safety & Homeland Security (TDOSHS). The real exam has 30 questions and you need 24 out of 30 to pass.",
     metaTitle: "Tennessee DMV Practice Test 2026 | Free TN Permit Test Questions",
-    metaDescription: "Free Tennessee DMV practice test with 10 questions. Based on the TN driver handbook from the Tennessee Department of Safety and Homeland Security. Pass your Tennessee permit test.",
+    metaDescription: "Free Tennessee DMV practice test with 10 questions. Based on the TN driver handbook from the Tennessee Department of Safety & Homeland Security (TDOSHS). Pass your Tennessee permit test.",
     dataPath: "/data/dmv/tennessee.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/kentucky", label: "Kentucky DMV" }, { href: "/dmv/virginia", label: "Virginia DMV" }, { href: "/dmv/north-carolina", label: "North Carolina DMV" },
+      { href: "/motorcycle/tennessee", label: "Tennessee Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-tennessee"),
     totalQuestionCount: "2,700+",
@@ -596,7 +596,7 @@
     dataPath: "/data/dmv/texas.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/new-mexico", label: "New Mexico DMV" }, { href: "/dmv/oklahoma", label: "Oklahoma DMV" }, { href: "/dmv/arkansas", label: "Arkansas DMV" },
+      { href: "/motorcycle/texas", label: "Texas Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-texas"),
     totalQuestionCount: "2,700+",
@@ -610,7 +610,7 @@
     dataPath: "/data/dmv/utah.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/idaho", label: "Idaho DMV" }, { href: "/dmv/wyoming", label: "Wyoming DMV" }, { href: "/dmv/colorado", label: "Colorado DMV" },
+      { href: "/motorcycle/utah", label: "Utah Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-utah"),
     totalQuestionCount: "2,700+",
@@ -624,7 +624,7 @@
     dataPath: "/data/dmv/vermont.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/new-hampshire", label: "New Hampshire DMV" }, { href: "/dmv/massachusetts", label: "Massachusetts DMV" }, { href: "/dmv/new-york", label: "New York DMV" },
+      { href: "/motorcycle/vermont", label: "Vermont Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-vermont"),
     totalQuestionCount: "2,700+",
@@ -632,13 +632,13 @@
   "dmv/virginia": {
     slug: "dmv/virginia",
     title: "Virginia DMV Practice Test",
-    description: "Prepare for the Virginia written driving test administered by the Virginia Department of Motor Vehicles (DMV). The real exam has 35 questions and you need 30 out of 35 to pass.",
+    description: "Prepare for the Virginia written driving test administered by the Virginia Department of Motor Vehicles (DMV). The real exam has 40 questions and you need 34 out of 40 to pass.",
     metaTitle: "Virginia DMV Practice Test 2026 | Free VA Permit Test Questions",
     metaDescription: "Free Virginia DMV practice test with 10 questions. Based on the VA driver handbook from the Virginia Department of Motor Vehicles (DMV). Pass your Virginia permit test.",
     dataPath: "/data/dmv/virginia.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/maryland", label: "Maryland DMV" }, { href: "/dmv/west-virginia", label: "West Virginia DMV" }, { href: "/dmv/kentucky", label: "Kentucky DMV" },
+      { href: "/motorcycle/virginia", label: "Virginia Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-virginia"),
     totalQuestionCount: "2,700+",
@@ -652,7 +652,7 @@
     dataPath: "/data/dmv/washington.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/oregon", label: "Oregon DMV" }, { href: "/dmv/idaho", label: "Idaho DMV" },
+      { href: "/motorcycle/washington", label: "Washington Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-washington"),
     totalQuestionCount: "2,700+",
@@ -666,7 +666,7 @@
     dataPath: "/data/dmv/west-virginia.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/ohio", label: "Ohio DMV" }, { href: "/dmv/pennsylvania", label: "Pennsylvania DMV" }, { href: "/dmv/maryland", label: "Maryland DMV" },
+      { href: "/motorcycle/west-virginia", label: "West Virginia Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-west-virginia"),
     totalQuestionCount: "2,700+",
@@ -680,7 +680,7 @@
     dataPath: "/data/dmv/wisconsin.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/minnesota", label: "Minnesota DMV" }, { href: "/dmv/iowa", label: "Iowa DMV" }, { href: "/dmv/illinois", label: "Illinois DMV" },
+      { href: "/motorcycle/wisconsin", label: "Wisconsin Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-wisconsin"),
     totalQuestionCount: "2,700+",
@@ -694,7 +694,7 @@
     dataPath: "/data/dmv/wyoming.json",
     category: "dmv",
     relatedTopics: [
-      { href: "/dmv", label: "DMV Home" }, { href: "/dmv/montana", label: "Montana DMV" }, { href: "/dmv/south-dakota", label: "South Dakota DMV" }, { href: "/dmv/nebraska", label: "Nebraska DMV" },
+      { href: "/motorcycle/wyoming", label: "Wyoming Motorcycle Test" }, { href: "/dmv", label: "All States" },
     ],
     appStoreUrl: utm(DMV_APP_STORE, "dmv-wyoming"),
     totalQuestionCount: "2,700+",
@@ -710,7 +710,7 @@
     dataPath: "/data/motorcycle/alabama.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/tennessee", label: "Tennessee Motorcycle" }, { href: "/motorcycle/georgia", label: "Georgia Motorcycle" }, { href: "/motorcycle/florida", label: "Florida Motorcycle" },
+      { href: "/dmv/alabama", label: "Alabama DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-alabama"),
     totalQuestionCount: "900+",
@@ -724,7 +724,7 @@
     dataPath: "/data/motorcycle/alaska.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" },
+      { href: "/dmv/alaska", label: "Alaska DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-alaska"),
     totalQuestionCount: "900+",
@@ -738,7 +738,7 @@
     dataPath: "/data/motorcycle/arizona.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/california", label: "California Motorcycle" }, { href: "/motorcycle/nevada", label: "Nevada Motorcycle" }, { href: "/motorcycle/utah", label: "Utah Motorcycle" },
+      { href: "/dmv/arizona", label: "Arizona DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-arizona"),
     totalQuestionCount: "900+",
@@ -752,7 +752,7 @@
     dataPath: "/data/motorcycle/arkansas.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/missouri", label: "Missouri Motorcycle" }, { href: "/motorcycle/tennessee", label: "Tennessee Motorcycle" }, { href: "/motorcycle/mississippi", label: "Mississippi Motorcycle" },
+      { href: "/dmv/arkansas", label: "Arkansas DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-arkansas"),
     totalQuestionCount: "900+",
@@ -760,13 +760,13 @@
   "motorcycle/california": {
     slug: "motorcycle/california",
     title: "California Motorcycle Permit Practice Test",
-    description: "Prepare for the California motorcycle permit written test from the California Department of Motor Vehicles (DMV). The real exam has 25 questions and you need 20 out of 25 to pass.",
+    description: "Prepare for the California motorcycle permit written test from the California Department of Motor Vehicles (DMV). The real exam has 30 questions and you need 24 out of 30 to pass.",
     metaTitle: "California Motorcycle Permit Practice Test 2026 | Free CA Questions",
     metaDescription: "Free California motorcycle permit practice test with 10 questions. Covers road safety and riding skills. Pass your California motorcycle test.",
     dataPath: "/data/motorcycle/california.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/oregon", label: "Oregon Motorcycle" }, { href: "/motorcycle/nevada", label: "Nevada Motorcycle" }, { href: "/motorcycle/arizona", label: "Arizona Motorcycle" },
+      { href: "/dmv/california", label: "California DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-california"),
     totalQuestionCount: "900+",
@@ -774,13 +774,13 @@
   "motorcycle/colorado": {
     slug: "motorcycle/colorado",
     title: "Colorado Motorcycle Permit Practice Test",
-    description: "Prepare for the Colorado motorcycle permit written test from the Colorado Division of Motor Vehicles (DMV). The real exam has 25 questions and you need 20 out of 25 to pass.",
+    description: "Prepare for the Colorado motorcycle permit written test from the Colorado Division of Motor Vehicles (DMV). The real exam has 25 questions and you need 21 out of 25 to pass.",
     metaTitle: "Colorado Motorcycle Permit Practice Test 2026 | Free CO Questions",
     metaDescription: "Free Colorado motorcycle permit practice test with 10 questions. Covers road safety and riding skills. Pass your Colorado motorcycle test.",
     dataPath: "/data/motorcycle/colorado.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/wyoming", label: "Wyoming Motorcycle" }, { href: "/motorcycle/nebraska", label: "Nebraska Motorcycle" }, { href: "/motorcycle/kansas", label: "Kansas Motorcycle" },
+      { href: "/dmv/colorado", label: "Colorado DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-colorado"),
     totalQuestionCount: "900+",
@@ -794,7 +794,7 @@
     dataPath: "/data/motorcycle/connecticut.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/massachusetts", label: "Massachusetts Motorcycle" }, { href: "/motorcycle/rhode-island", label: "Rhode Island Motorcycle" }, { href: "/motorcycle/new-york", label: "New York Motorcycle" },
+      { href: "/dmv/connecticut", label: "Connecticut DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-connecticut"),
     totalQuestionCount: "900+",
@@ -808,7 +808,7 @@
     dataPath: "/data/motorcycle/delaware.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/pennsylvania", label: "Pennsylvania Motorcycle" }, { href: "/motorcycle/new-jersey", label: "New Jersey Motorcycle" }, { href: "/motorcycle/maryland", label: "Maryland Motorcycle" },
+      { href: "/dmv/delaware", label: "Delaware DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-delaware"),
     totalQuestionCount: "900+",
@@ -822,7 +822,7 @@
     dataPath: "/data/motorcycle/florida.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/georgia", label: "Georgia Motorcycle" }, { href: "/motorcycle/alabama", label: "Alabama Motorcycle" },
+      { href: "/dmv/florida", label: "Florida DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-florida"),
     totalQuestionCount: "900+",
@@ -836,7 +836,7 @@
     dataPath: "/data/motorcycle/georgia.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/tennessee", label: "Tennessee Motorcycle" }, { href: "/motorcycle/north-carolina", label: "North Carolina Motorcycle" }, { href: "/motorcycle/south-carolina", label: "South Carolina Motorcycle" },
+      { href: "/dmv/georgia", label: "Georgia DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-georgia"),
     totalQuestionCount: "900+",
@@ -850,7 +850,7 @@
     dataPath: "/data/motorcycle/hawaii.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" },
+      { href: "/dmv/hawaii", label: "Hawaii DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-hawaii"),
     totalQuestionCount: "900+",
@@ -864,7 +864,7 @@
     dataPath: "/data/motorcycle/idaho.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/montana", label: "Montana Motorcycle" }, { href: "/motorcycle/wyoming", label: "Wyoming Motorcycle" }, { href: "/motorcycle/utah", label: "Utah Motorcycle" },
+      { href: "/dmv/idaho", label: "Idaho DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-idaho"),
     totalQuestionCount: "900+",
@@ -878,7 +878,7 @@
     dataPath: "/data/motorcycle/illinois.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/wisconsin", label: "Wisconsin Motorcycle" }, { href: "/motorcycle/indiana", label: "Indiana Motorcycle" }, { href: "/motorcycle/kentucky", label: "Kentucky Motorcycle" },
+      { href: "/dmv/illinois", label: "Illinois DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-illinois"),
     totalQuestionCount: "900+",
@@ -892,7 +892,7 @@
     dataPath: "/data/motorcycle/indiana.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/michigan", label: "Michigan Motorcycle" }, { href: "/motorcycle/ohio", label: "Ohio Motorcycle" }, { href: "/motorcycle/kentucky", label: "Kentucky Motorcycle" },
+      { href: "/dmv/indiana", label: "Indiana DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-indiana"),
     totalQuestionCount: "900+",
@@ -906,7 +906,7 @@
     dataPath: "/data/motorcycle/iowa.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/minnesota", label: "Minnesota Motorcycle" }, { href: "/motorcycle/wisconsin", label: "Wisconsin Motorcycle" }, { href: "/motorcycle/illinois", label: "Illinois Motorcycle" },
+      { href: "/dmv/iowa", label: "Iowa DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-iowa"),
     totalQuestionCount: "900+",
@@ -920,7 +920,7 @@
     dataPath: "/data/motorcycle/kansas.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/nebraska", label: "Nebraska Motorcycle" }, { href: "/motorcycle/missouri", label: "Missouri Motorcycle" }, { href: "/motorcycle/oklahoma", label: "Oklahoma Motorcycle" },
+      { href: "/dmv/kansas", label: "Kansas DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-kansas"),
     totalQuestionCount: "900+",
@@ -934,7 +934,7 @@
     dataPath: "/data/motorcycle/kentucky.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/indiana", label: "Indiana Motorcycle" }, { href: "/motorcycle/ohio", label: "Ohio Motorcycle" }, { href: "/motorcycle/west-virginia", label: "West Virginia Motorcycle" },
+      { href: "/dmv/kentucky", label: "Kentucky DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-kentucky"),
     totalQuestionCount: "900+",
@@ -948,7 +948,7 @@
     dataPath: "/data/motorcycle/louisiana.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/arkansas", label: "Arkansas Motorcycle" }, { href: "/motorcycle/mississippi", label: "Mississippi Motorcycle" }, { href: "/motorcycle/texas", label: "Texas Motorcycle" },
+      { href: "/dmv/louisiana", label: "Louisiana DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-louisiana"),
     totalQuestionCount: "900+",
@@ -962,7 +962,7 @@
     dataPath: "/data/motorcycle/maine.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/new-hampshire", label: "New Hampshire Motorcycle" },
+      { href: "/dmv/maine", label: "Maine DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-maine"),
     totalQuestionCount: "900+",
@@ -970,13 +970,13 @@
   "motorcycle/maryland": {
     slug: "motorcycle/maryland",
     title: "Maryland Motorcycle Permit Practice Test",
-    description: "Prepare for the Maryland motorcycle permit written test from the Maryland Motor Vehicle Administration (MVA). The real exam has 25 questions and you need 22 out of 25 to pass.",
+    description: "Prepare for the Maryland motorcycle permit written test from the Maryland Motor Vehicle Administration (MVA). The real exam has 25 questions and you need 21 out of 25 to pass.",
     metaTitle: "Maryland Motorcycle Permit Practice Test 2026 | Free MD Questions",
     metaDescription: "Free Maryland motorcycle permit practice test with 10 questions. Covers road safety and riding skills. Pass your Maryland motorcycle test.",
     dataPath: "/data/motorcycle/maryland.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/pennsylvania", label: "Pennsylvania Motorcycle" }, { href: "/motorcycle/delaware", label: "Delaware Motorcycle" }, { href: "/motorcycle/virginia", label: "Virginia Motorcycle" },
+      { href: "/dmv/maryland", label: "Maryland DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-maryland"),
     totalQuestionCount: "900+",
@@ -990,7 +990,7 @@
     dataPath: "/data/motorcycle/massachusetts.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/new-hampshire", label: "New Hampshire Motorcycle" }, { href: "/motorcycle/vermont", label: "Vermont Motorcycle" }, { href: "/motorcycle/new-york", label: "New York Motorcycle" },
+      { href: "/dmv/massachusetts", label: "Massachusetts DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-massachusetts"),
     totalQuestionCount: "900+",
@@ -1004,7 +1004,7 @@
     dataPath: "/data/motorcycle/michigan.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/ohio", label: "Ohio Motorcycle" }, { href: "/motorcycle/indiana", label: "Indiana Motorcycle" }, { href: "/motorcycle/wisconsin", label: "Wisconsin Motorcycle" },
+      { href: "/dmv/michigan", label: "Michigan DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-michigan"),
     totalQuestionCount: "900+",
@@ -1018,7 +1018,7 @@
     dataPath: "/data/motorcycle/minnesota.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/wisconsin", label: "Wisconsin Motorcycle" }, { href: "/motorcycle/iowa", label: "Iowa Motorcycle" }, { href: "/motorcycle/south-dakota", label: "South Dakota Motorcycle" },
+      { href: "/dmv/minnesota", label: "Minnesota DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-minnesota"),
     totalQuestionCount: "900+",
@@ -1032,7 +1032,7 @@
     dataPath: "/data/motorcycle/mississippi.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/tennessee", label: "Tennessee Motorcycle" }, { href: "/motorcycle/alabama", label: "Alabama Motorcycle" }, { href: "/motorcycle/louisiana", label: "Louisiana Motorcycle" },
+      { href: "/dmv/mississippi", label: "Mississippi DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-mississippi"),
     totalQuestionCount: "900+",
@@ -1046,7 +1046,7 @@
     dataPath: "/data/motorcycle/missouri.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/iowa", label: "Iowa Motorcycle" }, { href: "/motorcycle/illinois", label: "Illinois Motorcycle" }, { href: "/motorcycle/kentucky", label: "Kentucky Motorcycle" },
+      { href: "/dmv/missouri", label: "Missouri DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-missouri"),
     totalQuestionCount: "900+",
@@ -1060,7 +1060,7 @@
     dataPath: "/data/motorcycle/montana.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/north-dakota", label: "North Dakota Motorcycle" }, { href: "/motorcycle/south-dakota", label: "South Dakota Motorcycle" }, { href: "/motorcycle/wyoming", label: "Wyoming Motorcycle" },
+      { href: "/dmv/montana", label: "Montana DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-montana"),
     totalQuestionCount: "900+",
@@ -1074,7 +1074,7 @@
     dataPath: "/data/motorcycle/nebraska.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/south-dakota", label: "South Dakota Motorcycle" }, { href: "/motorcycle/iowa", label: "Iowa Motorcycle" }, { href: "/motorcycle/missouri", label: "Missouri Motorcycle" },
+      { href: "/dmv/nebraska", label: "Nebraska DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-nebraska"),
     totalQuestionCount: "900+",
@@ -1088,7 +1088,7 @@
     dataPath: "/data/motorcycle/nevada.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/oregon", label: "Oregon Motorcycle" }, { href: "/motorcycle/idaho", label: "Idaho Motorcycle" }, { href: "/motorcycle/utah", label: "Utah Motorcycle" },
+      { href: "/dmv/nevada", label: "Nevada DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-nevada"),
     totalQuestionCount: "900+",
@@ -1102,7 +1102,7 @@
     dataPath: "/data/motorcycle/new-hampshire.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/maine", label: "Maine Motorcycle" }, { href: "/motorcycle/vermont", label: "Vermont Motorcycle" }, { href: "/motorcycle/massachusetts", label: "Massachusetts Motorcycle" },
+      { href: "/dmv/new-hampshire", label: "New Hampshire DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-new-hampshire"),
     totalQuestionCount: "900+",
@@ -1116,7 +1116,7 @@
     dataPath: "/data/motorcycle/new-jersey.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/new-york", label: "New York Motorcycle" }, { href: "/motorcycle/pennsylvania", label: "Pennsylvania Motorcycle" }, { href: "/motorcycle/delaware", label: "Delaware Motorcycle" },
+      { href: "/dmv/new-jersey", label: "New Jersey DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-new-jersey"),
     totalQuestionCount: "900+",
@@ -1130,7 +1130,7 @@
     dataPath: "/data/motorcycle/new-mexico.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/colorado", label: "Colorado Motorcycle" }, { href: "/motorcycle/arizona", label: "Arizona Motorcycle" }, { href: "/motorcycle/texas", label: "Texas Motorcycle" },
+      { href: "/dmv/new-mexico", label: "New Mexico DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-new-mexico"),
     totalQuestionCount: "900+",
@@ -1144,7 +1144,7 @@
     dataPath: "/data/motorcycle/new-york.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/vermont", label: "Vermont Motorcycle" }, { href: "/motorcycle/massachusetts", label: "Massachusetts Motorcycle" }, { href: "/motorcycle/connecticut", label: "Connecticut Motorcycle" },
+      { href: "/dmv/new-york", label: "New York DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-new-york"),
     totalQuestionCount: "900+",
@@ -1158,7 +1158,7 @@
     dataPath: "/data/motorcycle/north-carolina.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/virginia", label: "Virginia Motorcycle" }, { href: "/motorcycle/tennessee", label: "Tennessee Motorcycle" }, { href: "/motorcycle/georgia", label: "Georgia Motorcycle" },
+      { href: "/dmv/north-carolina", label: "North Carolina DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-north-carolina"),
     totalQuestionCount: "900+",
@@ -1172,7 +1172,7 @@
     dataPath: "/data/motorcycle/north-dakota.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/montana", label: "Montana Motorcycle" }, { href: "/motorcycle/south-dakota", label: "South Dakota Motorcycle" }, { href: "/motorcycle/minnesota", label: "Minnesota Motorcycle" },
+      { href: "/dmv/north-dakota", label: "North Dakota DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-north-dakota"),
     totalQuestionCount: "900+",
@@ -1186,7 +1186,7 @@
     dataPath: "/data/motorcycle/ohio.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/michigan", label: "Michigan Motorcycle" }, { href: "/motorcycle/indiana", label: "Indiana Motorcycle" }, { href: "/motorcycle/kentucky", label: "Kentucky Motorcycle" },
+      { href: "/dmv/ohio", label: "Ohio DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-ohio"),
     totalQuestionCount: "900+",
@@ -1200,7 +1200,7 @@
     dataPath: "/data/motorcycle/oklahoma.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/kansas", label: "Kansas Motorcycle" }, { href: "/motorcycle/missouri", label: "Missouri Motorcycle" }, { href: "/motorcycle/arkansas", label: "Arkansas Motorcycle" },
+      { href: "/dmv/oklahoma", label: "Oklahoma DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-oklahoma"),
     totalQuestionCount: "900+",
@@ -1214,7 +1214,7 @@
     dataPath: "/data/motorcycle/oregon.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/washington", label: "Washington Motorcycle" }, { href: "/motorcycle/idaho", label: "Idaho Motorcycle" }, { href: "/motorcycle/nevada", label: "Nevada Motorcycle" },
+      { href: "/dmv/oregon", label: "Oregon DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-oregon"),
     totalQuestionCount: "900+",
@@ -1228,7 +1228,7 @@
     dataPath: "/data/motorcycle/pennsylvania.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/new-york", label: "New York Motorcycle" }, { href: "/motorcycle/new-jersey", label: "New Jersey Motorcycle" }, { href: "/motorcycle/delaware", label: "Delaware Motorcycle" },
+      { href: "/dmv/pennsylvania", label: "Pennsylvania DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-pennsylvania"),
     totalQuestionCount: "900+",
@@ -1242,7 +1242,7 @@
     dataPath: "/data/motorcycle/rhode-island.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/massachusetts", label: "Massachusetts Motorcycle" }, { href: "/motorcycle/connecticut", label: "Connecticut Motorcycle" },
+      { href: "/dmv/rhode-island", label: "Rhode Island DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-rhode-island"),
     totalQuestionCount: "900+",
@@ -1256,7 +1256,7 @@
     dataPath: "/data/motorcycle/south-carolina.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/north-carolina", label: "North Carolina Motorcycle" }, { href: "/motorcycle/georgia", label: "Georgia Motorcycle" },
+      { href: "/dmv/south-carolina", label: "South Carolina DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-south-carolina"),
     totalQuestionCount: "900+",
@@ -1270,7 +1270,7 @@
     dataPath: "/data/motorcycle/south-dakota.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/north-dakota", label: "North Dakota Motorcycle" }, { href: "/motorcycle/minnesota", label: "Minnesota Motorcycle" }, { href: "/motorcycle/iowa", label: "Iowa Motorcycle" },
+      { href: "/dmv/south-dakota", label: "South Dakota DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-south-dakota"),
     totalQuestionCount: "900+",
@@ -1278,13 +1278,13 @@
   "motorcycle/tennessee": {
     slug: "motorcycle/tennessee",
     title: "Tennessee Motorcycle Permit Practice Test",
-    description: "Prepare for the Tennessee motorcycle permit written test from the Tennessee Department of Safety and Homeland Security. The real exam has 25 questions and you need 20 out of 25 to pass.",
+    description: "Prepare for the Tennessee motorcycle permit written test from the Tennessee Department of Safety & Homeland Security (TDOSHS). The real exam has 25 questions and you need 20 out of 25 to pass.",
     metaTitle: "Tennessee Motorcycle Permit Practice Test 2026 | Free TN Questions",
     metaDescription: "Free Tennessee motorcycle permit practice test with 10 questions. Covers road safety and riding skills. Pass your Tennessee motorcycle test.",
     dataPath: "/data/motorcycle/tennessee.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/kentucky", label: "Kentucky Motorcycle" }, { href: "/motorcycle/virginia", label: "Virginia Motorcycle" }, { href: "/motorcycle/north-carolina", label: "North Carolina Motorcycle" },
+      { href: "/dmv/tennessee", label: "Tennessee DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-tennessee"),
     totalQuestionCount: "900+",
@@ -1298,7 +1298,7 @@
     dataPath: "/data/motorcycle/texas.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/new-mexico", label: "New Mexico Motorcycle" }, { href: "/motorcycle/oklahoma", label: "Oklahoma Motorcycle" }, { href: "/motorcycle/arkansas", label: "Arkansas Motorcycle" },
+      { href: "/dmv/texas", label: "Texas DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-texas"),
     totalQuestionCount: "900+",
@@ -1312,7 +1312,7 @@
     dataPath: "/data/motorcycle/utah.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/idaho", label: "Idaho Motorcycle" }, { href: "/motorcycle/wyoming", label: "Wyoming Motorcycle" }, { href: "/motorcycle/colorado", label: "Colorado Motorcycle" },
+      { href: "/dmv/utah", label: "Utah DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-utah"),
     totalQuestionCount: "900+",
@@ -1326,7 +1326,7 @@
     dataPath: "/data/motorcycle/vermont.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/new-hampshire", label: "New Hampshire Motorcycle" }, { href: "/motorcycle/massachusetts", label: "Massachusetts Motorcycle" }, { href: "/motorcycle/new-york", label: "New York Motorcycle" },
+      { href: "/dmv/vermont", label: "Vermont DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-vermont"),
     totalQuestionCount: "900+",
@@ -1340,7 +1340,7 @@
     dataPath: "/data/motorcycle/virginia.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/maryland", label: "Maryland Motorcycle" }, { href: "/motorcycle/west-virginia", label: "West Virginia Motorcycle" }, { href: "/motorcycle/kentucky", label: "Kentucky Motorcycle" },
+      { href: "/dmv/virginia", label: "Virginia DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-virginia"),
     totalQuestionCount: "900+",
@@ -1354,7 +1354,7 @@
     dataPath: "/data/motorcycle/washington.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/oregon", label: "Oregon Motorcycle" }, { href: "/motorcycle/idaho", label: "Idaho Motorcycle" },
+      { href: "/dmv/washington", label: "Washington DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-washington"),
     totalQuestionCount: "900+",
@@ -1368,7 +1368,7 @@
     dataPath: "/data/motorcycle/west-virginia.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/ohio", label: "Ohio Motorcycle" }, { href: "/motorcycle/pennsylvania", label: "Pennsylvania Motorcycle" }, { href: "/motorcycle/maryland", label: "Maryland Motorcycle" },
+      { href: "/dmv/west-virginia", label: "West Virginia DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-west-virginia"),
     totalQuestionCount: "900+",
@@ -1382,7 +1382,7 @@
     dataPath: "/data/motorcycle/wisconsin.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/minnesota", label: "Minnesota Motorcycle" }, { href: "/motorcycle/iowa", label: "Iowa Motorcycle" }, { href: "/motorcycle/illinois", label: "Illinois Motorcycle" },
+      { href: "/dmv/wisconsin", label: "Wisconsin DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-wisconsin"),
     totalQuestionCount: "900+",
@@ -1396,7 +1396,7 @@
     dataPath: "/data/motorcycle/wyoming.json",
     category: "motorcycle",
     relatedTopics: [
-      { href: "/motorcycle", label: "Motorcycle Home" }, { href: "/motorcycle/montana", label: "Montana Motorcycle" }, { href: "/motorcycle/south-dakota", label: "South Dakota Motorcycle" }, { href: "/motorcycle/nebraska", label: "Nebraska Motorcycle" },
+      { href: "/dmv/wyoming", label: "Wyoming DMV Test" }, { href: "/motorcycle", label: "All States" },
     ],
     appStoreUrl: utm(MOTO_APP_STORE, "motorcycle-wyoming"),
     totalQuestionCount: "900+",

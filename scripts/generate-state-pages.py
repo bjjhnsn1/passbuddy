@@ -27,18 +27,16 @@ for state in states:
     moto_pass = state["motoPassingScore"]
     neighbors = state["neighbors"]
 
-    # Build related topics: neighbors + DMV home
-    dmv_related = [f'{{ href: "/dmv", label: "DMV Home" }}']
-    for n in neighbors[:3]:
-        n_state = next((s for s in states if s["slug"] == n), None)
-        if n_state:
-            dmv_related.append(f'{{ href: "/dmv/{n}", label: "{n_state["name"]} DMV" }}')
+    # Related topics: cross-exam for same state + hub link
+    dmv_related = [
+        f'{{ href: "/motorcycle/{slug}", label: "{name} Motorcycle Test" }}',
+        f'{{ href: "/dmv", label: "All States" }}',
+    ]
 
-    moto_related = [f'{{ href: "/motorcycle", label: "Motorcycle Home" }}']
-    for n in neighbors[:3]:
-        n_state = next((s for s in states if s["slug"] == n), None)
-        if n_state:
-            moto_related.append(f'{{ href: "/motorcycle/{n}", label: "{n_state["name"]} Motorcycle" }}')
+    moto_related = [
+        f'{{ href: "/dmv/{slug}", label: "{name} DMV Test" }}',
+        f'{{ href: "/motorcycle", label: "All States" }}',
+    ]
 
     dmv_desc = f"Prepare for the {name} written driving test administered by the {agency}. The real exam has {dmv_qs} questions and you need {dmv_pass} to pass."
     moto_desc = f"Prepare for the {name} motorcycle permit written test from the {agency}. The real exam has {moto_qs} questions and you need {moto_pass} to pass."
