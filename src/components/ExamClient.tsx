@@ -28,18 +28,34 @@ export default function ExamClient({
   const question = questions[currentIndex];
   const total = questions.length;
 
+  function trackEvent(action: string, params?: Record<string, string | number>) {
+    if (typeof window !== "undefined" && typeof window.gtag === "function") {
+      window.gtag("event", action, params);
+    }
+  }
+
   function handleSelect(idx: number) {
     if (answered) return;
     setSelectedAnswer(idx);
     setAnswered(true);
-    if (question.answers[idx].isCorrect) {
+    const correct = question.answers[idx].isCorrect;
+    if (correct) {
       setScore((s) => s + 1);
     }
+    trackEvent("answer_question", {
+      question_number: currentIndex + 1,
+      correct: correct ? "yes" : "no",
+    });
   }
 
   function handleNext() {
     if (currentIndex + 1 >= total) {
       setFinished(true);
+      trackEvent("exam_complete", {
+        score: score,
+        total: total,
+        percentage: Math.round((score / total) * 100),
+      });
     } else {
       setCurrentIndex((i) => i + 1);
       setSelectedAnswer(null);
@@ -101,6 +117,7 @@ export default function ExamClient({
                 href={appStoreUrl}
                 target="_blank"
                 rel="noopener noreferrer"
+                onClick={() => trackEvent("app_store_click", { location: "score_screen", score: score, total: total })}
                 className="inline-flex items-center justify-center gap-2 bg-black text-white px-5 py-2.5 rounded-xl text-sm font-medium hover:bg-gray-800 transition-colors"
               >
                 <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
