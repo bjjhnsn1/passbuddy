@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 import { exams, categoryNav, allCategories } from "@/config";
 import { Question } from "@/types";
+import { getFaqs } from "@/lib/faq";
 import ExamClient from "./ExamClient";
 import JsonLd from "./JsonLd";
 import Link from "next/link";
@@ -78,6 +79,21 @@ export default function ExamPage({ examKey, children }: ExamPageProps) {
     ],
   };
 
+  const faqs = getFaqs(examKey, config);
+
+  const faqJsonLd = faqs.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqs.map((faq) => ({
+      "@type": "Question",
+      name: faq.question,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: faq.answer,
+      },
+    })),
+  } : null;
+
   const quizJsonLd = {
     "@context": "https://schema.org",
     "@type": "Quiz",
@@ -101,6 +117,7 @@ export default function ExamPage({ examKey, children }: ExamPageProps) {
     <div className="min-h-screen bg-gray-50">
       <JsonLd data={breadcrumbJsonLd} />
       <JsonLd data={quizJsonLd} />
+      {faqJsonLd && <JsonLd data={faqJsonLd} />}
       <header className="bg-white border-b border-gray-200">
         <div className="max-w-4xl mx-auto px-4 py-4">
           <div className="flex items-center justify-between mb-3">
@@ -188,6 +205,26 @@ export default function ExamPage({ examKey, children }: ExamPageProps) {
           />
         )}
       </main>
+
+      {faqs.length > 0 && (
+        <section className="max-w-4xl mx-auto px-4 py-12">
+          <h2 className="text-2xl font-bold text-gray-900 mb-6">
+            Frequently Asked Questions
+          </h2>
+          <dl className="space-y-6">
+            {faqs.map((faq, i) => (
+              <div key={i}>
+                <dt className="text-base font-semibold text-gray-900 mb-2">
+                  {faq.question}
+                </dt>
+                <dd className="text-gray-600 leading-relaxed">
+                  {faq.answer}
+                </dd>
+              </div>
+            ))}
+          </dl>
+        </section>
+      )}
 
       <footer className="border-t border-gray-200 mt-16 py-8">
         <div className="max-w-4xl mx-auto px-4">
