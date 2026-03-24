@@ -211,18 +211,21 @@ export default function ExamPage({ examKey, children }: ExamPageProps) {
           <h2 className="text-2xl font-bold text-gray-900 mb-6">
             Frequently Asked Questions
           </h2>
-          <dl className="space-y-6">
+          <div className="space-y-3">
             {faqs.map((faq, i) => (
-              <div key={i}>
-                <dt className="text-base font-semibold text-gray-900 mb-2">
+              <details key={i} className="group bg-white rounded-xl border border-gray-200">
+                <summary className="flex items-center justify-between cursor-pointer px-5 py-4 text-base font-semibold text-gray-900 [&::-webkit-details-marker]:hidden">
                   {faq.question}
-                </dt>
-                <dd className="text-gray-600 leading-relaxed">
+                  <svg className="w-5 h-5 text-gray-400 shrink-0 ml-4 transition-transform group-open:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
+                  </svg>
+                </summary>
+                <p className="px-5 pb-4 text-gray-600 leading-relaxed">
                   {faq.answer}
-                </dd>
-              </div>
+                </p>
+              </details>
             ))}
-          </dl>
+          </div>
         </section>
       )}
 
