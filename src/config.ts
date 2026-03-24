@@ -1,6 +1,7 @@
 import { ExamConfig } from "./types";
 
 const CDL_APP_STORE = "https://apps.apple.com/app/cdl-test-prep-study-buddy/id6444111149";
+const CDL_PLAY_STORE = "https://play.google.com/store/apps/details?id=com.exampreppy.cdl";
 const DMV_APP_STORE = "https://apps.apple.com/app/dmv-study-buddy/id6504884269";
 const MOTO_APP_STORE = "https://apps.apple.com/app/motorcycle-permit-study-buddy/id6450431915";
 const SS_APP_STORE = "https://apps.apple.com/app/servsafe-practice-test-prep/id6467704764";
@@ -87,6 +88,7 @@ export const exams: Record<string, ExamConfig> = {
       { href: "/cdl/tanker", label: "Tanker" },
     ],
     appStoreUrl: utm(CDL_APP_STORE, "cdl"),
+    playStoreUrl: utm(CDL_PLAY_STORE, "cdl"),
     totalQuestionCount: "1,200+",
   },
   "cdl/general-knowledge": {
@@ -104,6 +106,7 @@ export const exams: Record<string, ExamConfig> = {
       { href: "/cdl/combination-vehicles", label: "Combination Vehicles" },
     ],
     appStoreUrl: utm(CDL_APP_STORE, "cdl-general-knowledge"),
+    playStoreUrl: utm(CDL_PLAY_STORE, "cdl-general-knowledge"),
     totalQuestionCount: "1,200+",
   },
   "cdl/hazmat": {
@@ -120,6 +123,7 @@ export const exams: Record<string, ExamConfig> = {
       { href: "/cdl/general-knowledge", label: "General Knowledge" },
     ],
     appStoreUrl: utm(CDL_APP_STORE, "cdl-hazmat"),
+    playStoreUrl: utm(CDL_PLAY_STORE, "cdl-hazmat"),
     totalQuestionCount: "1,200+",
   },
   "cdl/air-brakes": {
@@ -137,6 +141,7 @@ export const exams: Record<string, ExamConfig> = {
       { href: "/cdl/pre-trip-inspection", label: "Pre-Trip Inspection" },
     ],
     appStoreUrl: utm(CDL_APP_STORE, "cdl-air-brakes"),
+    playStoreUrl: utm(CDL_PLAY_STORE, "cdl-air-brakes"),
     totalQuestionCount: "1,200+",
   },
   "cdl/combination-vehicles": {
@@ -153,6 +158,7 @@ export const exams: Record<string, ExamConfig> = {
       { href: "/cdl/general-knowledge", label: "General Knowledge" },
     ],
     appStoreUrl: utm(CDL_APP_STORE, "cdl-combination-vehicles"),
+    playStoreUrl: utm(CDL_PLAY_STORE, "cdl-combination-vehicles"),
     totalQuestionCount: "1,200+",
   },
   "cdl/pre-trip-inspection": {
@@ -169,6 +175,7 @@ export const exams: Record<string, ExamConfig> = {
       { href: "/cdl/general-knowledge", label: "General Knowledge" },
     ],
     appStoreUrl: utm(CDL_APP_STORE, "cdl-pre-trip"),
+    playStoreUrl: utm(CDL_PLAY_STORE, "cdl-pre-trip"),
     totalQuestionCount: "1,200+",
   },
   "cdl/school-bus": {
@@ -185,6 +192,7 @@ export const exams: Record<string, ExamConfig> = {
       { href: "/cdl/air-brakes", label: "Air Brakes" },
     ],
     appStoreUrl: utm(CDL_APP_STORE, "cdl-school-bus"),
+    playStoreUrl: utm(CDL_PLAY_STORE, "cdl-school-bus"),
     totalQuestionCount: "1,200+",
   },
   "cdl/tanker": {
@@ -201,6 +209,7 @@ export const exams: Record<string, ExamConfig> = {
       { href: "/cdl/general-knowledge", label: "General Knowledge" },
     ],
     appStoreUrl: utm(CDL_APP_STORE, "cdl-tanker"),
+    playStoreUrl: utm(CDL_PLAY_STORE, "cdl-tanker"),
     totalQuestionCount: "1,200+",
   },
 

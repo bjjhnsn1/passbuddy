@@ -80,6 +80,7 @@ const organizationJsonLd = {
     "https://apps.apple.com/app/dmv-study-buddy/id6504884269",
     "https://apps.apple.com/app/motorcycle-permit-study-buddy/id6450431915",
     "https://apps.apple.com/app/servsafe-practice-test-prep/id6467704764",
+    "https://play.google.com/store/apps/details?id=com.exampreppy.cdl",
   ],
 };
 

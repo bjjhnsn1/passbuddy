@@ -22,5 +22,6 @@ export interface ExamConfig {
   category: string;
   relatedTopics: { href: string; label: string }[];
   appStoreUrl: string;
+  playStoreUrl?: string;
   totalQuestionCount: string;
 }
