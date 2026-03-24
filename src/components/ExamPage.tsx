@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import { exams, categoryNav, allCategories } from "@/config";
 import { Question } from "@/types";
 import ExamClient from "./ExamClient";
+import JsonLd from "./JsonLd";
 import Link from "next/link";
 import fs from "fs";
 import path from "path";
@@ -21,6 +22,12 @@ export function getExamMetadata(examKey: string): Metadata {
       description: config.metaDescription,
       type: "website",
       siteName: "PassBuddy",
+      locale: "en_US",
+    },
+    twitter: {
+      card: "summary",
+      title: config.metaTitle,
+      description: config.metaDescription,
     },
   };
 }
@@ -42,8 +49,58 @@ export default function ExamPage({ examKey, children }: ExamPageProps) {
     .filter((c) => c.href !== cat.href)
     .map((c) => ({ href: c.href, label: `${c.label} Practice Test` }));
 
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: "https://passbuddy.app",
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: cat.label,
+        item: `https://passbuddy.app${cat.href}`,
+      },
+      ...(currentPath !== cat.href
+        ? [
+            {
+              "@type": "ListItem",
+              position: 3,
+              name: config.title,
+              item: `https://passbuddy.app${currentPath}`,
+            },
+          ]
+        : []),
+    ],
+  };
+
+  const quizJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Quiz",
+    name: config.title,
+    description: config.description,
+    educationalAlignment: {
+      "@type": "AlignmentObject",
+      alignmentType: "educationalSubject",
+      targetName: config.category.toUpperCase(),
+    },
+    provider: {
+      "@type": "Organization",
+      name: "PassBuddy",
+      url: "https://passbuddy.app",
+    },
+    isAccessibleForFree: true,
+    typicalAgeRange: "16-",
+  };
+
   return (
     <div className="min-h-screen bg-gray-50">
+      <JsonLd data={breadcrumbJsonLd} />
+      <JsonLd data={quizJsonLd} />
       <header className="bg-white border-b border-gray-200">
         <div className="max-w-4xl mx-auto px-4 py-4">
           <div className="flex items-center justify-between mb-3">

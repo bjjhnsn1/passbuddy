@@ -13,6 +13,14 @@ export const metadata: Metadata = {
   verification: {
     google: process.env.NEXT_PUBLIC_GSC_VERIFICATION,
   },
+  openGraph: {
+    type: "website",
+    siteName: "PassBuddy",
+    locale: "en_US",
+  },
+  twitter: {
+    card: "summary",
+  },
 };
 
 export default function RootLayout({

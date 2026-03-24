@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
+import JsonLd from "@/components/JsonLd";
 
 export const metadata: Metadata = {
   title: "PassBuddy - Free Practice Exams | CDL, DMV, Motorcycle, ServSafe",
@@ -60,9 +61,33 @@ const categories = [
   },
 ];
 
+const websiteJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "PassBuddy",
+  url: "https://passbuddy.app",
+  description:
+    "Free practice exams with instant answer feedback. Prepare for your CDL, DMV, motorcycle permit, or ServSafe certification exam.",
+};
+
+const organizationJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "PassBuddy",
+  url: "https://passbuddy.app",
+  sameAs: [
+    "https://apps.apple.com/app/cdl-test-prep-study-buddy/id6444111149",
+    "https://apps.apple.com/app/dmv-study-buddy/id6504884269",
+    "https://apps.apple.com/app/motorcycle-permit-study-buddy/id6450431915",
+    "https://apps.apple.com/app/servsafe-practice-test-prep/id6467704764",
+  ],
+};
+
 export default function Home() {
   return (
     <div className="min-h-screen bg-gray-50">
+      <JsonLd data={websiteJsonLd} />
+      <JsonLd data={organizationJsonLd} />
       <header className="bg-white border-b border-gray-200">
         <div className="max-w-4xl mx-auto px-4 py-6 text-center">
           <h1 className="text-4xl font-bold text-blue-600 mb-2">PassBuddy</h1>
