@@ -246,7 +246,7 @@ const cdlTopicFaqs: Record<string, FAQ[]> = {
     {
       question: "Do I need a Tanker endorsement for all liquid loads?",
       answer:
-        "You need the Tanker (N) endorsement when transporting liquid or gaseous materials in a permanently mounted tank or portable tank rated at 119 gallons or more. This applies to both hazardous and non-hazardous liquids.",
+        "You need the Tanker (N) endorsement when transporting liquid or gaseous materials in a tank with an individual rated capacity of more than 119 gallons and a combined (aggregate) rated capacity of 1,000 gallons or more. This applies to both hazardous and non-hazardous liquids.",
     },
     {
       question: "How many questions are on the Tanker endorsement test?",
