@@ -7,7 +7,8 @@ const MOTO_APP_STORE = "https://apps.apple.com/app/motorcycle-permit-study-buddy
 const SS_APP_STORE = "https://apps.apple.com/app/servsafe-practice-test-prep/id6467704764";
 
 function utm(url: string, topic: string) {
-  return `${url}?utm_source=passbuddy&utm_medium=web&utm_campaign=${topic}`;
+  const sep = url.includes("?") ? "&" : "?";
+  return `${url}${sep}utm_source=passbuddy&utm_medium=web&utm_campaign=${topic}`;
 }
 
 export const categoryNav: Record<string, { label: string; href: string; topics: { label: string; href: string }[] }> = {
