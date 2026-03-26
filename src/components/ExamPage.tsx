@@ -15,15 +15,20 @@ interface ExamPageProps {
 
 export function getExamMetadata(examKey: string): Metadata {
   const config = exams[examKey];
+  const canonical = `https://passbuddy.app/${config.slug}`;
   return {
     title: config.metaTitle,
     description: config.metaDescription,
+    alternates: {
+      canonical,
+    },
     openGraph: {
       title: config.metaTitle,
       description: config.metaDescription,
       type: "website",
       siteName: "PassBuddy",
       locale: "en_US",
+      url: canonical,
     },
     twitter: {
       card: "summary",

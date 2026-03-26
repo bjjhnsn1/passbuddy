@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   title: "PassBuddy - Free Practice Exams | CDL, DMV, Motorcycle, ServSafe",
   description:
     "Free practice exams with instant answer feedback. Prepare for your CDL, DMV, motorcycle permit, or ServSafe certification exam. 10 questions per test with detailed explanations.",
+  alternates: {
+    canonical: "https://passbuddy.app",
+  },
 };
 
 const categories = [
