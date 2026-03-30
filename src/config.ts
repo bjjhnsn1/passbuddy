@@ -76,7 +76,7 @@ export const exams: Record<string, ExamConfig> = {
     title: "CDL Practice Test",
     description: "Prepare for your Commercial Driver's License exam with free practice questions covering all CDL endorsement categories.",
     metaTitle: "Free CDL Practice Test 2026 | Pass Your CDL Exam",
-    metaDescription: "Practice for your CDL exam with 10 free questions. Covers general knowledge, hazmat, air brakes, and more. Instant feedback and explanations.",
+    metaDescription: "Practice for your CDL exam with 10 free questions — plus DMV, motorcycle, and ServSafe prep all in one place. Instant feedback and explanations.",
     dataPath: "/data/cdl/index.json",
     category: "cdl",
     relatedTopics: [
@@ -97,7 +97,7 @@ export const exams: Record<string, ExamConfig> = {
     title: "CDL General Knowledge Practice Test",
     description: "Test your general knowledge for the CDL exam. Covers vehicle inspection, basic control, safe driving, and more.",
     metaTitle: "CDL General Knowledge Practice Test 2026 | Free Questions",
-    metaDescription: "Free CDL General Knowledge practice test with 10 questions. Get instant feedback and detailed explanations to pass your CDL exam.",
+    metaDescription: "Free CDL General Knowledge practice test with 10 questions. Part of PassBuddy's all-in-one exam prep for CDL, DMV, motorcycle, and ServSafe.",
     dataPath: "/data/cdl/general-knowledge.json",
     category: "cdl",
     relatedTopics: [
@@ -115,7 +115,7 @@ export const exams: Record<string, ExamConfig> = {
     title: "CDL HazMat Endorsement Practice Test",
     description: "Prepare for your CDL HazMat endorsement with practice questions on hazardous materials handling, labeling, and safety.",
     metaTitle: "CDL HazMat Practice Test 2026 | Free HazMat Endorsement Questions",
-    metaDescription: "Free CDL HazMat endorsement practice test. 10 questions on hazardous materials with instant feedback. Pass your HazMat exam on the first try.",
+    metaDescription: "Free CDL HazMat endorsement practice test. 10 questions on hazardous materials with instant feedback. Part of PassBuddy's all-in-one exam prep.",
     dataPath: "/data/cdl/hazmat.json",
     category: "cdl",
     relatedTopics: [
@@ -132,7 +132,7 @@ export const exams: Record<string, ExamConfig> = {
     title: "CDL Air Brakes Practice Test",
     description: "Practice air brakes questions for your CDL exam. Covers air brake system components, inspection, and emergency procedures.",
     metaTitle: "CDL Air Brakes Practice Test 2026 | Free Questions & Answers",
-    metaDescription: "Free CDL Air Brakes practice test with 10 questions. Learn air brake systems, inspection procedures, and emergency braking. Instant feedback.",
+    metaDescription: "Free CDL Air Brakes practice test with 10 questions. Learn air brake systems, inspection, and emergency braking. Part of PassBuddy's all-in-one exam prep.",
     dataPath: "/data/cdl/air-brakes.json",
     category: "cdl",
     relatedTopics: [
@@ -150,7 +150,7 @@ export const exams: Record<string, ExamConfig> = {
     title: "CDL Combination Vehicles Practice Test",
     description: "Practice questions for the CDL Combination Vehicles endorsement covering coupling, uncoupling, and safe driving procedures.",
     metaTitle: "CDL Combination Vehicles Practice Test 2026 | Free Questions",
-    metaDescription: "Free CDL Combination Vehicles practice test. 10 questions on coupling, uncoupling, and safe driving. Pass your combination vehicles endorsement.",
+    metaDescription: "Free CDL Combination Vehicles practice test. 10 questions on coupling, uncoupling, and safe driving. Part of PassBuddy's all-in-one exam prep.",
     dataPath: "/data/cdl/combination-vehicles.json",
     category: "cdl",
     relatedTopics: [
@@ -167,7 +167,7 @@ export const exams: Record<string, ExamConfig> = {
     title: "CDL Pre-Trip Inspection Practice Test",
     description: "Master the CDL pre-trip inspection with practice questions on vehicle components, safety checks, and inspection procedures.",
     metaTitle: "CDL Pre-Trip Inspection Practice Test 2026 | Free Questions",
-    metaDescription: "Free CDL Pre-Trip Inspection practice test. 10 questions covering vehicle inspection procedures and safety checks. Instant answer feedback.",
+    metaDescription: "Free CDL Pre-Trip Inspection practice test. 10 questions on vehicle inspection and safety checks. Part of PassBuddy's all-in-one exam prep.",
     dataPath: "/data/cdl/pre-trip-inspection.json",
     category: "cdl",
     relatedTopics: [
@@ -184,7 +184,7 @@ export const exams: Record<string, ExamConfig> = {
     title: "CDL School Bus Endorsement Practice Test",
     description: "Prepare for the CDL School Bus endorsement with questions on student safety, loading/unloading, and emergency procedures.",
     metaTitle: "CDL School Bus Practice Test 2026 | Free Endorsement Questions",
-    metaDescription: "Free CDL School Bus endorsement practice test. 10 questions on student safety and bus operations. Pass your school bus endorsement exam.",
+    metaDescription: "Free CDL School Bus endorsement practice test. 10 questions on student safety and bus operations. Part of PassBuddy's all-in-one exam prep.",
     dataPath: "/data/cdl/school-bus.json",
     category: "cdl",
     relatedTopics: [
@@ -201,7 +201,7 @@ export const exams: Record<string, ExamConfig> = {
     title: "CDL Tanker Endorsement Practice Test",
     description: "Practice for the CDL Tanker endorsement with questions on liquid surge, tank vehicle inspection, and safe driving procedures.",
     metaTitle: "CDL Tanker Practice Test 2026 | Free Endorsement Questions",
-    metaDescription: "Free CDL Tanker endorsement practice test. 10 questions on tanker operations, liquid surge, and safety. Pass your tanker endorsement exam.",
+    metaDescription: "Free CDL Tanker endorsement practice test. 10 questions on tanker operations, liquid surge, and safety. Part of PassBuddy's all-in-one exam prep.",
     dataPath: "/data/cdl/tanker.json",
     category: "cdl",
     relatedTopics: [

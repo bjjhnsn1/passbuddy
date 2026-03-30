@@ -8,15 +8,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const staticPages = [
     { url: BASE_URL, changeFrequency: "weekly" as const, priority: 1.0 },
-    // CDL
-    { url: `${BASE_URL}/cdl`, changeFrequency: "weekly" as const, priority: 0.9 },
-    { url: `${BASE_URL}/cdl/general-knowledge`, changeFrequency: "monthly" as const, priority: 0.8 },
-    { url: `${BASE_URL}/cdl/hazmat`, changeFrequency: "monthly" as const, priority: 0.8 },
-    { url: `${BASE_URL}/cdl/air-brakes`, changeFrequency: "monthly" as const, priority: 0.8 },
-    { url: `${BASE_URL}/cdl/combination-vehicles`, changeFrequency: "monthly" as const, priority: 0.8 },
-    { url: `${BASE_URL}/cdl/pre-trip-inspection`, changeFrequency: "monthly" as const, priority: 0.8 },
-    { url: `${BASE_URL}/cdl/school-bus`, changeFrequency: "monthly" as const, priority: 0.8 },
-    { url: `${BASE_URL}/cdl/tanker`, changeFrequency: "monthly" as const, priority: 0.8 },
+    // CDL pages excluded — cdlanswers.com is the canonical CDL property
     // DMV hub
     { url: `${BASE_URL}/dmv`, changeFrequency: "weekly" as const, priority: 0.9 },
     // Motorcycle hub
