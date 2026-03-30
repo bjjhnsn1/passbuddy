@@ -16,12 +16,16 @@ interface ExamPageProps {
 export function getExamMetadata(examKey: string): Metadata {
   const config = exams[examKey];
   const canonical = `https://passbuddy.app/${config.slug}`;
+  const noindex = config.category === "cdl";
   return {
     title: config.metaTitle,
     description: config.metaDescription,
     alternates: {
       canonical,
     },
+    ...(noindex && {
+      robots: { index: false, follow: true },
+    }),
     openGraph: {
       title: config.metaTitle,
       description: config.metaDescription,
@@ -213,6 +217,28 @@ export default function ExamPage({ examKey, children }: ExamPageProps) {
           </p>
         </div>
 
+        {config.category === "cdl" && (
+          <div className="mb-8 text-center">
+            <a
+              href="https://cdlanswers.com"
+              className="inline-flex items-center gap-2 px-5 py-2.5 bg-blue-50 text-blue-700 rounded-xl font-medium text-sm hover:bg-blue-100 transition-colors"
+            >
+              For full CDL prep, visit CDLAnswers.com &rarr;
+            </a>
+          </div>
+        )}
+
+        {config.category === "dmv" && (
+          <div className="mb-8 text-center">
+            <a
+              href="https://www.dmv-answers.com"
+              className="inline-flex items-center gap-2 px-5 py-2.5 bg-blue-50 text-blue-700 rounded-xl font-medium text-sm hover:bg-blue-100 transition-colors"
+            >
+              For full DMV permit test prep, visit DMV-Answers.com &rarr;
+            </a>
+          </div>
+        )}
+
         {children || (
           <ExamClient
             questions={questions}
@@ -244,6 +270,44 @@ export default function ExamPage({ examKey, children }: ExamPageProps) {
                 </p>
               </details>
             ))}
+          </div>
+        </section>
+      )}
+
+      {config.category === "cdl" && (
+        <section className="max-w-4xl mx-auto px-4 pb-8">
+          <div className="bg-blue-50 border border-blue-200 rounded-xl px-5 py-4 text-center">
+            <p className="text-gray-700 text-sm">
+              Looking for state-specific CDL practice tests?{" "}
+              <a
+                href="https://cdlanswers.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 font-semibold hover:underline"
+              >
+                Visit CDL Answers
+              </a>{" "}
+              for practice tests tailored to all 50 states.
+            </p>
+          </div>
+        </section>
+      )}
+
+      {config.category === "dmv" && (
+        <section className="max-w-4xl mx-auto px-4 pb-8">
+          <div className="bg-blue-50 border border-blue-200 rounded-xl px-5 py-4 text-center">
+            <p className="text-gray-700 text-sm">
+              Looking for state-specific DMV practice tests?{" "}
+              <a
+                href="https://www.dmv-answers.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 font-semibold hover:underline"
+              >
+                Visit DMV Answers
+              </a>{" "}
+              for 2,700+ practice questions tailored to all 50 states.
+            </p>
           </div>
         </section>
       )}
